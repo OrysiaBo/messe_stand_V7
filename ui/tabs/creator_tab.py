@@ -24,6 +24,7 @@ class CreatorTabQt(QWidget):
         self.slides = {}
         self.setup_ui()
         self.setup_slides()
+        self.setup_realtime_sync()  
         
     def setup_ui(self):
         """Налаштування інтерфейсу Creator табу"""
@@ -986,7 +987,25 @@ def update_slide_counter(self):
         # Skalierte Dimensionen
         scaled_width = self.slide_width * self.scale_factor
         scaled_height = self.slide_height * self.scale_factor
-        def setup_realtime_sync(self):
+
+        # Rahmen um die Folie - HINTERGRUND-LAYER
+        self.slide_canvas.create_rectangle(
+            self.offset_x - 2, self.offset_y - 2,
+            self.offset_x + scaled_width + 2, self.offset_y + scaled_height + 2,
+            outline='#333333',
+            width=2,
+            tags='slide_background_frame'
+        )
+        
+        # Schatten-Effekt für bessere Sichtbarkeit - HINTERGRUND-LAYER
+        shadow_offset = 5
+        self.slide_canvas.create_rectangle(
+            self.offset_x + shadow_offset, self.offset_y + shadow_offset,
+            self.offset_x + scaled_width + shadow_offset, self.offset_y + scale
+        )
+
+
+      def setup_realtime_sync(self):
     """Налаштування синхронізації в реальному часі"""
     from core.presentation_state import presentation_state
     presentation_state.add_observer(self._on_presentation_state_changed)
@@ -1060,23 +1079,5 @@ def on_content_changed(self, event=None):
     finally:
         self._updating = False
 
-# Додати до __init__ методу:
-def __init__(self, parent, main_window):
-    # ... існуючий код ...
-    self.setup_realtime_sync()
-
-        # Rahmen um die Folie - HINTERGRUND-LAYER
-        self.slide_canvas.create_rectangle(
-            self.offset_x - 2, self.offset_y - 2,
-            self.offset_x + scaled_width + 2, self.offset_y + scaled_height + 2,
-            outline='#333333',
-            width=2,
-            tags='slide_background_frame'
-        )
-        
-        # Schatten-Effekt für bessere Sichtbarkeit - HINTERGRUND-LAYER
-        shadow_offset = 5
-        self.slide_canvas.create_rectangle(
-            self.offset_x + shadow_offset, self.offset_y + shadow_offset,
-            self.offset_x + scaled_width + shadow_offset, self.offset_y + scale
-        )
+     
+  
