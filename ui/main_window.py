@@ -45,6 +45,30 @@ class MainWindow:
         
         logger.info("✅ Dynamic Messe Stand V4 erfolgreich initialisiert!")
         self.setup_content_synchronization()
+        self.setup_presentation_sync()
+
+def setup_presentation_sync(self):
+    """Налаштування централізованої синхронізації"""
+    try:
+        from core.presentation_state import presentation_state
+        
+        # Підписатись на зміни для логування
+        presentation_state.add_observer(self._on_global_presentation_change)
+        
+        logger.info("Presentation synchronization setup complete")
+        
+    except Exception as e:
+        logger.error(f"Error setting up presentation sync: {e}")
+
+def _on_global_presentation_change(self, slide_id, action):
+    """Глобальний обробник змін презентації"""
+    try:
+        if action == 'update':
+            logger.debug(f"Global sync: Slide {slide_id} updated")
+        elif action == 'navigate':
+            logger.debug(f"Global sync: Navigated to slide {slide_id}")
+    except Exception as e:
+        logger.error(f"Error in global presentation change handler: {e}")
 
 def setup_content_synchronization(self):
     """Налаштовує синхронізацію контенту між табами"""
