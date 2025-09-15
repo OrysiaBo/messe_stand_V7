@@ -1,0 +1,1109 @@
+2025-08-29 10:09:46,244 - BertrandtGUI - DEBUG - Slide 9 geladen
+2025-08-29 10:09:46,244 - BertrandtGUI - DEBUG - Slide 8 geladen
+2025-08-29 10:09:46,244 - BertrandtGUI - DEBUG - Slide 2 geladen
+2025-08-29 10:09:46,245 - BertrandtGUI - DEBUG - Slide 4 geladen
+2025-08-29 10:09:46,245 - BertrandtGUI - DEBUG - Slide 5 geladen
+2025-08-29 10:09:46,245 - BertrandtGUI - DEBUG - Slide 6 geladen
+2025-08-29 10:09:46,245 - BertrandtGUI - DEBUG - Slide 3 geladen
+2025-08-29 10:09:46,246 - BertrandtGUI - DEBUG - Slide 7 geladen
+2025-08-29 10:09:46,246 - BertrandtGUI - DEBUG - Slide 1 geladen
+2025-08-29 10:09:46,246 - BertrandtGUI - DEBUG - Slide 10 geladen
+2025-08-29 10:09:46,246 - BertrandtGUI - INFO - 10 Slides geladen (davon 0 neu erstellt)
+2025-08-29 10:09:46,256 - BertrandtGUI - INFO - 🚀 Dynamic Messe Stand V4 wird gestartet...
+2025-08-29 10:09:46,256 - BertrandtGUI - INFO - Python Version: 3.12.3 (main, Jun 18 2025, 17:59:45) [GCC 13.3.0]
+2025-08-29 10:09:46,256 - BertrandtGUI - INFO - Arbeitsverzeichnis: /home/messe_pc/Dynamic_Messe_Stand_V4/Python_GUI
+2025-08-29 10:09:46,256 - BertrandtGUI - INFO - 🔌 Hardware-Setup wird gestartet...
+2025-08-29 10:09:46,256 - BertrandtGUI - ERROR - Fehler beim Verbinden mit ESP32-1: [Errno 2] could not open port /dev/ttyUSB0: [Errno 2] No such file or directory: '/dev/ttyUSB0'
+2025-08-29 10:09:46,256 - BertrandtGUI - ERROR - Fehler beim Verbinden mit ESP32-2: [Errno 2] could not open port /dev/ttyUSB1: [Errno 2] No such file or directory: '/dev/ttyUSB1'
+2025-08-29 10:09:46,256 - BertrandtGUI - ERROR - Fehler beim Verbinden mit ESP32-3: [Errno 2] could not open port /dev/ttyUSB2: [Errno 2] No such file or directory: '/dev/ttyUSB2'
+2025-08-29 10:09:46,256 - BertrandtGUI - ERROR - Fehler beim Verbinden mit Arduino GIGA: [Errno 2] could not open port /dev/ttyACM0: [Errno 2] No such file or directory: '/dev/ttyACM0'
+2025-08-29 10:09:46,256 - BertrandtGUI - INFO - esp32_1: ❌ Fehler
+2025-08-29 10:09:46,256 - BertrandtGUI - INFO - esp32_2: ❌ Fehler
+2025-08-29 10:09:46,256 - BertrandtGUI - INFO - esp32_3: ❌ Fehler
+2025-08-29 10:09:46,256 - BertrandtGUI - INFO - giga: ❌ Fehler
+2025-08-29 10:09:46,256 - BertrandtGUI - WARNING - ⚠️ Keine Hardware-Verbindungen erfolgreich - GUI startet trotzdem
+2025-08-29 10:09:46,256 - BertrandtGUI - INFO - 🖥️ GUI wird initialisiert...
+2025-08-29 10:09:46,256 - BertrandtGUI - INFO - 🚀 Starte Dynamic Messe Stand V4...
+2025-08-29 10:09:46,459 - BertrandtGUI - INFO - Primärer Monitor: 1920x1080 bei (0, 120)
+2025-08-29 10:09:46,459 - BertrandtGUI - INFO - Hauptmonitor erkannt: 1920x1080 bei (0, 120)
+2025-08-29 10:09:46,460 - BertrandtGUI - DEBUG - Responsive Design: 1920x1080, Scale: 1.00
+2025-08-29 10:09:46,542 - BertrandtGUI - INFO - ✅ Bertrandt Layout-Struktur erstellt
+2025-08-29 10:09:46,577 - BertrandtGUI - DEBUG - Slide 1 mit Fallback-Text gerendert
+2025-08-29 10:09:46,614 - BertrandtGUI - DEBUG - Home-Tab angezeigt
+2025-08-29 10:09:46,615 - BertrandtGUI - DEBUG - Tab gewechselt: home
+2025-08-29 10:09:46,615 - BertrandtGUI - INFO - ✅ Dynamic Messe Stand V4 erfolgreich initialisiert!
+2025-08-29 10:09:46,615 - BertrandtGUI - INFO - ✅ Dynamic Messe Stand V4 erfolgreich gestartet!
+2025-08-29 10:09:46,615 - BertrandtGUI - INFO - 💡 Drücke F11 für Vollbild, ESC zum Verlassen
+2025-08-29 10:09:46,615 - BertrandtGUI - INFO - GUI-Hauptschleife gestartet
+2025-08-29 10:09:46,621 - BertrandtGUI - INFO - Fenster auf Hauptmonitor zurück bewegt: (0, 120)
+2025-08-29 10:09:51,179 - BertrandtGUI - DEBUG - Home-Tab versteckt
+2025-08-29 10:09:51,179 - BertrandtGUI - DEBUG - Presentation-Tab angezeigt
+2025-08-29 10:09:51,180 - BertrandtGUI - DEBUG - Tab gewechselt: presentation
+2025-08-29 10:09:52,571 - BertrandtGUI - DEBUG - Presentation-Tab versteckt
+2025-08-29 10:09:52,690 - BertrandtGUI - DEBUG - Canvas: 1127x699, Slide: 1920x1080, Scale: 0.545, Scaled: 1047x589, Offset: (40, 55)
+2025-08-29 10:09:52,691 - BertrandtGUI - DEBUG - Bestehende Elemente neu skaliert mit Faktor 0.545
+2025-08-29 10:09:52,708 - BertrandtGUI - DEBUG - Canvas: 1127x736, Slide: 1920x1080, Scale: 0.545, Scaled: 1047x589, Offset: (40, 74)
+2025-08-29 10:09:52,708 - BertrandtGUI - DEBUG - Bestehende Elemente neu skaliert mit Faktor 0.545
+2025-08-29 10:09:52,771 - BertrandtGUI - DEBUG - Canvas: 1127x736, Slide: 1920x1080, Scale: 0.545, Scaled: 1047x589, Offset: (40, 74)
+2025-08-29 10:09:52,771 - BertrandtGUI - DEBUG - Bestehende Elemente neu skaliert mit Faktor 0.545
+2025-08-29 10:09:52,771 - BertrandtGUI - DEBUG - Slide-Sichtbarkeit optimiert: 1127x736
+2025-08-29 10:09:52,771 - BertrandtGUI - DEBUG - Demo-Slide 1 geladen: BumbleB - Das automatisierte Shuttle
+2025-08-29 10:09:52,771 - BertrandtGUI - DEBUG - Tab gewechselt: creator
+2025-08-29 10:09:52,973 - BertrandtGUI - DEBUG - Canvas: 1127x736, Slide: 1920x1080, Scale: 0.545, Scaled: 1047x589, Offset: (40, 74)
+2025-08-29 10:09:52,974 - BertrandtGUI - DEBUG - Bestehende Elemente neu skaliert mit Faktor 0.545
+2025-08-29 10:09:52,974 - BertrandtGUI - DEBUG - Slide-Sichtbarkeit optimiert: 1127x736
+2025-08-29 10:10:05,900 - BertrandtGUI - DEBUG - Vollbild deaktiviert - bleibt auf Hauptmonitor
+2025-08-29 10:10:05,934 - BertrandtGUI - DEBUG - Canvas: 768x376, Slide: 1920x1080, Scale: 0.274, Scaled: 526x296, Offset: (121, 40)
+2025-08-29 10:10:05,935 - BertrandtGUI - DEBUG - Bestehende Elemente neu skaliert mit Faktor 0.274
+2025-08-29 10:10:21,456 - BertrandtGUI - INFO - 🧹 Cleanup wird durchgeführt...
+2025-08-29 10:10:21,456 - BertrandtGUI - INFO - 👋 Dynamic Messe Stand V4 beendet
+2025-08-29 10:17:45,814 - BertrandtGUI - DEBUG - Slide 9 geladen
+2025-08-29 10:17:45,814 - BertrandtGUI - DEBUG - Slide 8 geladen
+2025-08-29 10:17:45,814 - BertrandtGUI - DEBUG - Slide 2 geladen
+2025-08-29 10:17:45,814 - BertrandtGUI - DEBUG - Slide 4 geladen
+2025-08-29 10:17:45,814 - BertrandtGUI - DEBUG - Slide 5 geladen
+2025-08-29 10:17:45,814 - BertrandtGUI - DEBUG - Slide 6 geladen
+2025-08-29 10:17:45,814 - BertrandtGUI - DEBUG - Slide 3 geladen
+2025-08-29 10:17:45,814 - BertrandtGUI - DEBUG - Slide 7 geladen
+2025-08-29 10:17:45,814 - BertrandtGUI - DEBUG - Slide 1 geladen
+2025-08-29 10:17:45,814 - BertrandtGUI - DEBUG - Slide 10 geladen
+2025-08-29 10:17:45,814 - BertrandtGUI - INFO - 10 Slides geladen (davon 0 neu erstellt)
+2025-08-29 10:17:45,843 - BertrandtGUI - INFO - 🚀 Dynamic Messe Stand V4 wird gestartet...
+2025-08-29 10:17:45,844 - BertrandtGUI - INFO - Python Version: 3.12.3 (main, Jun 18 2025, 17:59:45) [GCC 13.3.0]
+2025-08-29 10:17:45,844 - BertrandtGUI - INFO - Arbeitsverzeichnis: /home/messe_pc/Dynamic_Messe_Stand_V4/Python_GUI
+2025-08-29 10:17:45,844 - BertrandtGUI - INFO - 🔌 Hardware-Setup wird gestartet...
+2025-08-29 10:17:45,844 - BertrandtGUI - ERROR - Fehler beim Verbinden mit ESP32-1: [Errno 2] could not open port /dev/ttyUSB0: [Errno 2] No such file or directory: '/dev/ttyUSB0'
+2025-08-29 10:17:45,844 - BertrandtGUI - ERROR - Fehler beim Verbinden mit ESP32-2: [Errno 2] could not open port /dev/ttyUSB1: [Errno 2] No such file or directory: '/dev/ttyUSB1'
+2025-08-29 10:17:45,844 - BertrandtGUI - ERROR - Fehler beim Verbinden mit ESP32-3: [Errno 2] could not open port /dev/ttyUSB2: [Errno 2] No such file or directory: '/dev/ttyUSB2'
+2025-08-29 10:17:45,844 - BertrandtGUI - ERROR - Fehler beim Verbinden mit Arduino GIGA: [Errno 2] could not open port /dev/ttyACM0: [Errno 2] No such file or directory: '/dev/ttyACM0'
+2025-08-29 10:17:45,844 - BertrandtGUI - INFO - esp32_1: ❌ Fehler
+2025-08-29 10:17:45,844 - BertrandtGUI - INFO - esp32_2: ❌ Fehler
+2025-08-29 10:17:45,844 - BertrandtGUI - INFO - esp32_3: ❌ Fehler
+2025-08-29 10:17:45,844 - BertrandtGUI - INFO - giga: ❌ Fehler
+2025-08-29 10:17:45,844 - BertrandtGUI - WARNING - ⚠️ Keine Hardware-Verbindungen erfolgreich - GUI startet trotzdem
+2025-08-29 10:17:45,844 - BertrandtGUI - INFO - 🖥️ GUI wird initialisiert...
+2025-08-29 10:17:45,844 - BertrandtGUI - INFO - 🚀 Starte Dynamic Messe Stand V4...
+2025-08-29 10:17:46,027 - BertrandtGUI - INFO - Primärer Monitor: 1920x1080 bei (0, 120)
+2025-08-29 10:17:46,027 - BertrandtGUI - INFO - Hauptmonitor erkannt: 1920x1080 bei (0, 120)
+2025-08-29 10:17:46,028 - BertrandtGUI - DEBUG - Responsive Design: 1920x1080, Scale: 1.00
+2025-08-29 10:17:46,094 - BertrandtGUI - INFO - ✅ Bertrandt Layout-Struktur erstellt
+2025-08-29 10:17:46,122 - BertrandtGUI - DEBUG - Slide 1 mit Fallback-Text gerendert
+2025-08-29 10:17:46,123 - BertrandtGUI - DEBUG - Z-Order korrigiert - Content-Elemente sind jetzt über dem Hintergrund
+2025-08-29 10:17:46,156 - BertrandtGUI - DEBUG - Home-Tab angezeigt
+2025-08-29 10:17:46,156 - BertrandtGUI - DEBUG - Tab gewechselt: home
+2025-08-29 10:17:46,156 - BertrandtGUI - INFO - ✅ Dynamic Messe Stand V4 erfolgreich initialisiert!
+2025-08-29 10:17:46,156 - BertrandtGUI - INFO - ✅ Dynamic Messe Stand V4 erfolgreich gestartet!
+2025-08-29 10:17:46,156 - BertrandtGUI - INFO - 💡 Drücke F11 für Vollbild, ESC zum Verlassen
+2025-08-29 10:17:46,156 - BertrandtGUI - INFO - GUI-Hauptschleife gestartet
+2025-08-29 10:17:46,166 - BertrandtGUI - INFO - Fenster auf Hauptmonitor zurück bewegt: (0, 120)
+2025-08-29 10:17:49,078 - BertrandtGUI - DEBUG - Home-Tab versteckt
+2025-08-29 10:17:49,079 - BertrandtGUI - DEBUG - Demo-Tab angezeigt
+2025-08-29 10:17:49,080 - BertrandtGUI - DEBUG - Tab gewechselt: demo
+2025-08-29 10:17:50,502 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_2
+2025-08-29 10:17:50,519 - BertrandtGUI - DEBUG - Slide 2 mit Fallback-Text gerendert
+2025-08-29 10:17:50,519 - BertrandtGUI - DEBUG - Z-Order korrigiert - Content-Elemente sind jetzt über dem Hintergrund
+2025-08-29 10:17:51,382 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_3
+2025-08-29 10:17:51,396 - BertrandtGUI - DEBUG - Slide 3 mit Fallback-Text gerendert
+2025-08-29 10:17:51,397 - BertrandtGUI - DEBUG - Z-Order korrigiert - Content-Elemente sind jetzt über dem Hintergrund
+2025-08-29 10:17:51,934 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_4
+2025-08-29 10:17:51,947 - BertrandtGUI - DEBUG - Slide 4 mit Fallback-Text gerendert
+2025-08-29 10:17:51,947 - BertrandtGUI - DEBUG - Z-Order korrigiert - Content-Elemente sind jetzt über dem Hintergrund
+2025-08-29 10:17:52,270 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_5
+2025-08-29 10:17:52,281 - BertrandtGUI - DEBUG - Slide 5 mit Fallback-Text gerendert
+2025-08-29 10:17:52,281 - BertrandtGUI - DEBUG - Z-Order korrigiert - Content-Elemente sind jetzt über dem Hintergrund
+2025-08-29 10:17:52,550 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_6
+2025-08-29 10:17:52,566 - BertrandtGUI - DEBUG - Slide 6 mit Fallback-Text gerendert
+2025-08-29 10:17:52,566 - BertrandtGUI - DEBUG - Z-Order korrigiert - Content-Elemente sind jetzt über dem Hintergrund
+2025-08-29 10:17:52,846 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_7
+2025-08-29 10:17:52,858 - BertrandtGUI - DEBUG - Slide 7 mit Fallback-Text gerendert
+2025-08-29 10:17:52,858 - BertrandtGUI - DEBUG - Z-Order korrigiert - Content-Elemente sind jetzt über dem Hintergrund
+2025-08-29 10:17:53,110 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_8
+2025-08-29 10:17:53,121 - BertrandtGUI - DEBUG - Slide 8 mit Fallback-Text gerendert
+2025-08-29 10:17:53,121 - BertrandtGUI - DEBUG - Z-Order korrigiert - Content-Elemente sind jetzt über dem Hintergrund
+2025-08-29 10:17:53,366 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_9
+2025-08-29 10:17:53,381 - BertrandtGUI - DEBUG - Slide 9 mit Fallback-Text gerendert
+2025-08-29 10:17:53,381 - BertrandtGUI - DEBUG - Z-Order korrigiert - Content-Elemente sind jetzt über dem Hintergrund
+2025-08-29 10:17:53,774 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_10
+2025-08-29 10:17:53,788 - BertrandtGUI - DEBUG - Slide 10 mit Fallback-Text gerendert
+2025-08-29 10:17:53,788 - BertrandtGUI - DEBUG - Z-Order korrigiert - Content-Elemente sind jetzt über dem Hintergrund
+2025-08-29 10:17:54,134 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_1
+2025-08-29 10:17:54,148 - BertrandtGUI - DEBUG - Slide 1 mit Fallback-Text gerendert
+2025-08-29 10:17:54,148 - BertrandtGUI - DEBUG - Z-Order korrigiert - Content-Elemente sind jetzt über dem Hintergrund
+2025-08-29 10:17:54,398 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_2
+2025-08-29 10:17:54,411 - BertrandtGUI - DEBUG - Slide 2 mit Fallback-Text gerendert
+2025-08-29 10:17:54,411 - BertrandtGUI - DEBUG - Z-Order korrigiert - Content-Elemente sind jetzt über dem Hintergrund
+2025-08-29 10:17:55,726 - BertrandtGUI - DEBUG - Demo-Tab versteckt
+2025-08-29 10:17:55,737 - BertrandtGUI - DEBUG - Creator Z-Order korrigiert - Content-Elemente sind jetzt über dem Hintergrund
+2025-08-29 10:17:55,864 - BertrandtGUI - DEBUG - Canvas: 1127x699, Slide: 1920x1080, Scale: 0.545, Scaled: 1047x589, Offset: (40, 55)
+2025-08-29 10:17:55,865 - BertrandtGUI - DEBUG - Bestehende Elemente neu skaliert mit Faktor 0.545
+2025-08-29 10:17:55,892 - BertrandtGUI - DEBUG - Canvas: 1127x736, Slide: 1920x1080, Scale: 0.545, Scaled: 1047x589, Offset: (40, 74)
+2025-08-29 10:17:55,892 - BertrandtGUI - DEBUG - Bestehende Elemente neu skaliert mit Faktor 0.545
+2025-08-29 10:17:55,986 - BertrandtGUI - DEBUG - Canvas: 1127x736, Slide: 1920x1080, Scale: 0.545, Scaled: 1047x589, Offset: (40, 74)
+2025-08-29 10:17:55,987 - BertrandtGUI - DEBUG - Bestehende Elemente neu skaliert mit Faktor 0.545
+2025-08-29 10:17:55,987 - BertrandtGUI - DEBUG - Slide-Sichtbarkeit optimiert: 1127x736
+2025-08-29 10:17:55,987 - BertrandtGUI - DEBUG - Demo-Slide 1 geladen: BumbleB - Das automatisierte Shuttle
+2025-08-29 10:17:55,987 - BertrandtGUI - DEBUG - Tab gewechselt: creator
+2025-08-29 10:17:56,188 - BertrandtGUI - DEBUG - Canvas: 1127x736, Slide: 1920x1080, Scale: 0.545, Scaled: 1047x589, Offset: (40, 74)
+2025-08-29 10:17:56,189 - BertrandtGUI - DEBUG - Bestehende Elemente neu skaliert mit Faktor 0.545
+2025-08-29 10:17:56,189 - BertrandtGUI - DEBUG - Slide-Sichtbarkeit optimiert: 1127x736
+2025-08-29 10:17:57,424 - BertrandtGUI - DEBUG - Slide 1 gespeichert
+2025-08-29 10:17:57,424 - BertrandtGUI - INFO - Demo-Slide 1 mit 8 Elementen gespeichert
+2025-08-29 10:17:57,436 - BertrandtGUI - DEBUG - Creator Z-Order korrigiert - Content-Elemente sind jetzt über dem Hintergrund
+2025-08-29 10:17:57,450 - BertrandtGUI - DEBUG - Canvas: 1127x736, Slide: 1920x1080, Scale: 0.545, Scaled: 1047x589, Offset: (40, 74)
+2025-08-29 10:17:57,451 - BertrandtGUI - DEBUG - Bestehende Elemente neu skaliert mit Faktor 0.545
+2025-08-29 10:17:57,451 - BertrandtGUI - DEBUG - Slide-Sichtbarkeit optimiert: 1127x736
+2025-08-29 10:17:57,451 - BertrandtGUI - DEBUG - Demo-Slide 2 geladen: BumbleB - Wie die Hummel
+2025-08-29 10:17:58,032 - BertrandtGUI - DEBUG - Slide 2 gespeichert
+2025-08-29 10:17:58,032 - BertrandtGUI - INFO - Demo-Slide 2 mit 8 Elementen gespeichert
+2025-08-29 10:17:58,045 - BertrandtGUI - DEBUG - Creator Z-Order korrigiert - Content-Elemente sind jetzt über dem Hintergrund
+2025-08-29 10:17:58,056 - BertrandtGUI - DEBUG - Canvas: 1127x736, Slide: 1920x1080, Scale: 0.545, Scaled: 1047x589, Offset: (40, 74)
+2025-08-29 10:17:58,057 - BertrandtGUI - DEBUG - Bestehende Elemente neu skaliert mit Faktor 0.545
+2025-08-29 10:17:58,057 - BertrandtGUI - DEBUG - Slide-Sichtbarkeit optimiert: 1127x736
+2025-08-29 10:17:58,057 - BertrandtGUI - DEBUG - Demo-Slide 3 geladen: Einsatzgebiete und Vorteile
+2025-08-29 10:17:58,560 - BertrandtGUI - DEBUG - Slide 3 gespeichert
+2025-08-29 10:17:58,560 - BertrandtGUI - INFO - Demo-Slide 3 mit 12 Elementen gespeichert
+2025-08-29 10:17:58,567 - BertrandtGUI - DEBUG - Creator Z-Order korrigiert - Content-Elemente sind jetzt über dem Hintergrund
+2025-08-29 10:17:58,575 - BertrandtGUI - DEBUG - Canvas: 1127x736, Slide: 1920x1080, Scale: 0.545, Scaled: 1047x589, Offset: (40, 74)
+2025-08-29 10:17:58,576 - BertrandtGUI - DEBUG - Bestehende Elemente neu skaliert mit Faktor 0.545
+2025-08-29 10:17:58,576 - BertrandtGUI - DEBUG - Slide-Sichtbarkeit optimiert: 1127x736
+2025-08-29 10:17:58,577 - BertrandtGUI - DEBUG - Demo-Slide 4 geladen: Sicherheitssysteme
+2025-08-29 10:17:59,153 - BertrandtGUI - DEBUG - Slide 4 gespeichert
+2025-08-29 10:17:59,153 - BertrandtGUI - INFO - Demo-Slide 4 mit 12 Elementen gespeichert
+2025-08-29 10:17:59,165 - BertrandtGUI - DEBUG - Creator Z-Order korrigiert - Content-Elemente sind jetzt über dem Hintergrund
+2025-08-29 10:17:59,173 - BertrandtGUI - DEBUG - Canvas: 1127x736, Slide: 1920x1080, Scale: 0.545, Scaled: 1047x589, Offset: (40, 74)
+2025-08-29 10:17:59,174 - BertrandtGUI - DEBUG - Bestehende Elemente neu skaliert mit Faktor 0.545
+2025-08-29 10:17:59,174 - BertrandtGUI - DEBUG - Slide-Sichtbarkeit optimiert: 1127x736
+2025-08-29 10:17:59,174 - BertrandtGUI - DEBUG - Demo-Slide 5 geladen: Nachhaltigkeit & Umwelt
+2025-08-29 10:17:59,697 - BertrandtGUI - DEBUG - Slide 5 gespeichert
+2025-08-29 10:17:59,697 - BertrandtGUI - INFO - Demo-Slide 5 mit 12 Elementen gespeichert
+2025-08-29 10:17:59,708 - BertrandtGUI - DEBUG - Creator: 12 Canvas-Elemente gerendert
+2025-08-29 10:17:59,709 - BertrandtGUI - DEBUG - Creator Z-Order korrigiert - Content-Elemente sind jetzt über dem Hintergrund
+2025-08-29 10:17:59,720 - BertrandtGUI - DEBUG - Canvas: 1127x736, Slide: 1920x1080, Scale: 0.545, Scaled: 1047x589, Offset: (40, 74)
+2025-08-29 10:17:59,720 - BertrandtGUI - DEBUG - Bestehende Elemente neu skaliert mit Faktor 0.545
+2025-08-29 10:17:59,721 - BertrandtGUI - DEBUG - Slide-Sichtbarkeit optimiert: 1127x736
+2025-08-29 10:17:59,721 - BertrandtGUI - DEBUG - Demo-Slide 5 geladen: Nachhaltigkeit & Umwelt
+2025-08-29 10:18:00,073 - BertrandtGUI - DEBUG - Slide 5 gespeichert
+2025-08-29 10:18:00,073 - BertrandtGUI - INFO - Demo-Slide 5 mit 15 Elementen gespeichert
+2025-08-29 10:18:00,086 - BertrandtGUI - DEBUG - Creator Z-Order korrigiert - Content-Elemente sind jetzt über dem Hintergrund
+2025-08-29 10:18:00,097 - BertrandtGUI - DEBUG - Canvas: 1127x736, Slide: 1920x1080, Scale: 0.545, Scaled: 1047x589, Offset: (40, 74)
+2025-08-29 10:18:00,097 - BertrandtGUI - DEBUG - Bestehende Elemente neu skaliert mit Faktor 0.545
+2025-08-29 10:18:00,097 - BertrandtGUI - DEBUG - Slide-Sichtbarkeit optimiert: 1127x736
+2025-08-29 10:18:00,097 - BertrandtGUI - DEBUG - Demo-Slide 6 geladen: Expertise und Vision
+2025-08-29 10:19:29,120 - BertrandtGUI - INFO - Anwendung durch Benutzer unterbrochen
+2025-08-29 10:19:29,120 - BertrandtGUI - INFO - Anwendung wird beendet...
+2025-08-29 10:19:29,121 - BertrandtGUI - INFO - 🧹 Cleanup wird durchgeführt...
+2025-08-29 10:19:29,121 - BertrandtGUI - INFO - 👋 Dynamic Messe Stand V4 beendet
+2025-08-29 10:19:30,904 - BertrandtGUI - DEBUG - Slide 9 geladen
+2025-08-29 10:19:30,904 - BertrandtGUI - DEBUG - Slide 8 geladen
+2025-08-29 10:19:30,905 - BertrandtGUI - DEBUG - Slide 2 geladen
+2025-08-29 10:19:30,905 - BertrandtGUI - DEBUG - Slide 4 geladen
+2025-08-29 10:19:30,905 - BertrandtGUI - DEBUG - Slide 5 geladen
+2025-08-29 10:19:30,905 - BertrandtGUI - DEBUG - Slide 6 geladen
+2025-08-29 10:19:30,905 - BertrandtGUI - DEBUG - Slide 3 geladen
+2025-08-29 10:19:30,905 - BertrandtGUI - DEBUG - Slide 7 geladen
+2025-08-29 10:19:30,905 - BertrandtGUI - DEBUG - Slide 1 geladen
+2025-08-29 10:19:30,905 - BertrandtGUI - DEBUG - Slide 10 geladen
+2025-08-29 10:19:30,905 - BertrandtGUI - INFO - 10 Slides geladen (davon 0 neu erstellt)
+2025-08-29 10:19:30,928 - BertrandtGUI - INFO - 🚀 Dynamic Messe Stand V4 wird gestartet...
+2025-08-29 10:19:30,928 - BertrandtGUI - INFO - Python Version: 3.12.3 (main, Jun 18 2025, 17:59:45) [GCC 13.3.0]
+2025-08-29 10:19:30,928 - BertrandtGUI - INFO - Arbeitsverzeichnis: /home/messe_pc/Dynamic_Messe_Stand_V4/Python_GUI
+2025-08-29 10:19:30,928 - BertrandtGUI - INFO - 🔌 Hardware-Setup wird gestartet...
+2025-08-29 10:19:30,928 - BertrandtGUI - ERROR - Fehler beim Verbinden mit ESP32-1: [Errno 2] could not open port /dev/ttyUSB0: [Errno 2] No such file or directory: '/dev/ttyUSB0'
+2025-08-29 10:19:30,928 - BertrandtGUI - ERROR - Fehler beim Verbinden mit ESP32-2: [Errno 2] could not open port /dev/ttyUSB1: [Errno 2] No such file or directory: '/dev/ttyUSB1'
+2025-08-29 10:19:30,928 - BertrandtGUI - ERROR - Fehler beim Verbinden mit ESP32-3: [Errno 2] could not open port /dev/ttyUSB2: [Errno 2] No such file or directory: '/dev/ttyUSB2'
+2025-08-29 10:19:30,928 - BertrandtGUI - ERROR - Fehler beim Verbinden mit Arduino GIGA: [Errno 2] could not open port /dev/ttyACM0: [Errno 2] No such file or directory: '/dev/ttyACM0'
+2025-08-29 10:19:30,928 - BertrandtGUI - INFO - esp32_1: ❌ Fehler
+2025-08-29 10:19:30,929 - BertrandtGUI - INFO - esp32_2: ❌ Fehler
+2025-08-29 10:19:30,929 - BertrandtGUI - INFO - esp32_3: ❌ Fehler
+2025-08-29 10:19:30,929 - BertrandtGUI - INFO - giga: ❌ Fehler
+2025-08-29 10:19:30,929 - BertrandtGUI - WARNING - ⚠️ Keine Hardware-Verbindungen erfolgreich - GUI startet trotzdem
+2025-08-29 10:19:30,929 - BertrandtGUI - INFO - 🖥️ GUI wird initialisiert...
+2025-08-29 10:19:30,929 - BertrandtGUI - INFO - 🚀 Starte Dynamic Messe Stand V4...
+2025-08-29 10:19:31,123 - BertrandtGUI - INFO - Primärer Monitor: 1920x1080 bei (0, 120)
+2025-08-29 10:19:31,124 - BertrandtGUI - INFO - Hauptmonitor erkannt: 1920x1080 bei (0, 120)
+2025-08-29 10:19:31,125 - BertrandtGUI - DEBUG - Responsive Design: 1920x1080, Scale: 1.00
+2025-08-29 10:19:31,192 - BertrandtGUI - INFO - ✅ Bertrandt Layout-Struktur erstellt
+2025-08-29 10:19:31,219 - BertrandtGUI - DEBUG - Slide 1 mit 8 Canvas-Elementen gerendert
+2025-08-29 10:19:31,220 - BertrandtGUI - DEBUG - Z-Order korrigiert - Content-Elemente sind jetzt über dem Hintergrund
+2025-08-29 10:19:31,253 - BertrandtGUI - DEBUG - Home-Tab angezeigt
+2025-08-29 10:19:31,253 - BertrandtGUI - DEBUG - Tab gewechselt: home
+2025-08-29 10:19:31,253 - BertrandtGUI - INFO - ✅ Dynamic Messe Stand V4 erfolgreich initialisiert!
+2025-08-29 10:19:31,253 - BertrandtGUI - INFO - ✅ Dynamic Messe Stand V4 erfolgreich gestartet!
+2025-08-29 10:19:31,254 - BertrandtGUI - INFO - 💡 Drücke F11 für Vollbild, ESC zum Verlassen
+2025-08-29 10:19:31,254 - BertrandtGUI - INFO - GUI-Hauptschleife gestartet
+2025-08-29 10:19:31,263 - BertrandtGUI - INFO - Fenster auf Hauptmonitor zurück bewegt: (0, 120)
+2025-08-29 10:19:34,223 - BertrandtGUI - DEBUG - Home-Tab versteckt
+2025-08-29 10:19:34,225 - BertrandtGUI - DEBUG - Creator: 8 Canvas-Elemente gerendert
+2025-08-29 10:19:34,225 - BertrandtGUI - DEBUG - Creator Z-Order korrigiert - Content-Elemente sind jetzt über dem Hintergrund
+2025-08-29 10:19:34,341 - BertrandtGUI - DEBUG - Canvas: 1127x699, Slide: 1920x1080, Scale: 0.545, Scaled: 1047x589, Offset: (40, 55)
+2025-08-29 10:19:34,342 - BertrandtGUI - DEBUG - Bestehende Elemente neu skaliert mit Faktor 0.545
+2025-08-29 10:19:34,363 - BertrandtGUI - DEBUG - Canvas: 1127x736, Slide: 1920x1080, Scale: 0.545, Scaled: 1047x589, Offset: (40, 74)
+2025-08-29 10:19:34,363 - BertrandtGUI - DEBUG - Bestehende Elemente neu skaliert mit Faktor 0.545
+2025-08-29 10:19:34,442 - BertrandtGUI - DEBUG - Canvas: 1127x736, Slide: 1920x1080, Scale: 0.545, Scaled: 1047x589, Offset: (40, 74)
+2025-08-29 10:19:34,443 - BertrandtGUI - DEBUG - Bestehende Elemente neu skaliert mit Faktor 0.545
+2025-08-29 10:19:34,443 - BertrandtGUI - DEBUG - Slide-Sichtbarkeit optimiert: 1127x736
+2025-08-29 10:19:34,443 - BertrandtGUI - DEBUG - Demo-Slide 1 geladen: BumbleB - Das automatisierte Shuttle
+2025-08-29 10:19:34,443 - BertrandtGUI - DEBUG - Tab gewechselt: creator
+2025-08-29 10:19:34,644 - BertrandtGUI - DEBUG - Canvas: 1127x736, Slide: 1920x1080, Scale: 0.545, Scaled: 1047x589, Offset: (40, 74)
+2025-08-29 10:19:34,645 - BertrandtGUI - DEBUG - Bestehende Elemente neu skaliert mit Faktor 0.545
+2025-08-29 10:19:34,645 - BertrandtGUI - DEBUG - Slide-Sichtbarkeit optimiert: 1127x736
+2025-08-29 10:19:35,811 - BertrandtGUI - DEBUG - Slide 1 gespeichert
+2025-08-29 10:19:35,811 - BertrandtGUI - INFO - Demo-Slide 1 mit 11 Elementen gespeichert
+2025-08-29 10:19:35,825 - BertrandtGUI - DEBUG - Creator: 8 Canvas-Elemente gerendert
+2025-08-29 10:19:35,825 - BertrandtGUI - DEBUG - Creator Z-Order korrigiert - Content-Elemente sind jetzt über dem Hintergrund
+2025-08-29 10:19:35,834 - BertrandtGUI - DEBUG - Canvas: 1127x736, Slide: 1920x1080, Scale: 0.545, Scaled: 1047x589, Offset: (40, 74)
+2025-08-29 10:19:35,834 - BertrandtGUI - DEBUG - Bestehende Elemente neu skaliert mit Faktor 0.545
+2025-08-29 10:19:35,834 - BertrandtGUI - DEBUG - Slide-Sichtbarkeit optimiert: 1127x736
+2025-08-29 10:19:35,834 - BertrandtGUI - DEBUG - Demo-Slide 2 geladen: BumbleB - Wie die Hummel
+2025-08-29 10:19:36,305 - BertrandtGUI - DEBUG - Slide 2 gespeichert
+2025-08-29 10:19:36,306 - BertrandtGUI - INFO - Demo-Slide 2 mit 11 Elementen gespeichert
+2025-08-29 10:19:36,319 - BertrandtGUI - DEBUG - Creator: 12 Canvas-Elemente gerendert
+2025-08-29 10:19:36,319 - BertrandtGUI - DEBUG - Creator Z-Order korrigiert - Content-Elemente sind jetzt über dem Hintergrund
+2025-08-29 10:19:36,331 - BertrandtGUI - DEBUG - Canvas: 1127x736, Slide: 1920x1080, Scale: 0.545, Scaled: 1047x589, Offset: (40, 74)
+2025-08-29 10:19:36,331 - BertrandtGUI - DEBUG - Bestehende Elemente neu skaliert mit Faktor 0.545
+2025-08-29 10:19:36,332 - BertrandtGUI - DEBUG - Slide-Sichtbarkeit optimiert: 1127x736
+2025-08-29 10:19:36,332 - BertrandtGUI - DEBUG - Demo-Slide 3 geladen: Einsatzgebiete und Vorteile
+2025-08-29 10:19:36,842 - BertrandtGUI - DEBUG - Slide 3 gespeichert
+2025-08-29 10:19:36,843 - BertrandtGUI - INFO - Demo-Slide 3 mit 15 Elementen gespeichert
+2025-08-29 10:19:36,856 - BertrandtGUI - DEBUG - Creator: 12 Canvas-Elemente gerendert
+2025-08-29 10:19:36,856 - BertrandtGUI - DEBUG - Creator Z-Order korrigiert - Content-Elemente sind jetzt über dem Hintergrund
+2025-08-29 10:19:36,863 - BertrandtGUI - DEBUG - Canvas: 1127x736, Slide: 1920x1080, Scale: 0.545, Scaled: 1047x589, Offset: (40, 74)
+2025-08-29 10:19:36,864 - BertrandtGUI - DEBUG - Bestehende Elemente neu skaliert mit Faktor 0.545
+2025-08-29 10:19:36,864 - BertrandtGUI - DEBUG - Slide-Sichtbarkeit optimiert: 1127x736
+2025-08-29 10:19:36,864 - BertrandtGUI - DEBUG - Demo-Slide 4 geladen: Sicherheitssysteme
+2025-08-29 10:19:37,347 - BertrandtGUI - DEBUG - Slide 4 gespeichert
+2025-08-29 10:19:37,347 - BertrandtGUI - INFO - Demo-Slide 4 mit 15 Elementen gespeichert
+2025-08-29 10:19:37,362 - BertrandtGUI - DEBUG - Creator: 15 Canvas-Elemente gerendert
+2025-08-29 10:19:37,362 - BertrandtGUI - DEBUG - Creator Z-Order korrigiert - Content-Elemente sind jetzt über dem Hintergrund
+2025-08-29 10:19:37,371 - BertrandtGUI - DEBUG - Canvas: 1127x736, Slide: 1920x1080, Scale: 0.545, Scaled: 1047x589, Offset: (40, 74)
+2025-08-29 10:19:37,372 - BertrandtGUI - DEBUG - Bestehende Elemente neu skaliert mit Faktor 0.545
+2025-08-29 10:19:37,372 - BertrandtGUI - DEBUG - Slide-Sichtbarkeit optimiert: 1127x736
+2025-08-29 10:19:37,372 - BertrandtGUI - DEBUG - Demo-Slide 5 geladen: Nachhaltigkeit & Umwelt
+2025-08-29 10:19:52,447 - BertrandtGUI - DEBUG - Demo-Tab angezeigt
+2025-08-29 10:19:52,447 - BertrandtGUI - DEBUG - Tab gewechselt: demo
+2025-08-29 10:19:53,607 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_2
+2025-08-29 10:19:53,609 - BertrandtGUI - DEBUG - Slide 2 mit 11 Canvas-Elementen gerendert
+2025-08-29 10:19:53,609 - BertrandtGUI - DEBUG - Z-Order korrigiert - Content-Elemente sind jetzt über dem Hintergrund
+2025-08-29 10:19:55,088 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_3
+2025-08-29 10:19:55,090 - BertrandtGUI - DEBUG - Slide 3 mit 15 Canvas-Elementen gerendert
+2025-08-29 10:19:55,090 - BertrandtGUI - DEBUG - Z-Order korrigiert - Content-Elemente sind jetzt über dem Hintergrund
+2025-08-29 10:19:55,824 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_4
+2025-08-29 10:19:55,826 - BertrandtGUI - DEBUG - Slide 4 mit 15 Canvas-Elementen gerendert
+2025-08-29 10:19:55,826 - BertrandtGUI - DEBUG - Z-Order korrigiert - Content-Elemente sind jetzt über dem Hintergrund
+2025-08-29 10:19:56,728 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_5
+2025-08-29 10:19:56,730 - BertrandtGUI - DEBUG - Slide 5 mit 15 Canvas-Elementen gerendert
+2025-08-29 10:19:56,731 - BertrandtGUI - DEBUG - Z-Order korrigiert - Content-Elemente sind jetzt über dem Hintergrund
+2025-08-29 10:19:57,160 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_6
+2025-08-29 10:19:57,172 - BertrandtGUI - DEBUG - Slide 6 mit Fallback-Text gerendert
+2025-08-29 10:19:57,172 - BertrandtGUI - DEBUG - Z-Order korrigiert - Content-Elemente sind jetzt über dem Hintergrund
+2025-08-29 10:19:57,368 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_7
+2025-08-29 10:19:57,380 - BertrandtGUI - DEBUG - Slide 7 mit Fallback-Text gerendert
+2025-08-29 10:19:57,380 - BertrandtGUI - DEBUG - Z-Order korrigiert - Content-Elemente sind jetzt über dem Hintergrund
+2025-08-29 10:19:57,568 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_8
+2025-08-29 10:19:57,579 - BertrandtGUI - DEBUG - Slide 8 mit Fallback-Text gerendert
+2025-08-29 10:19:57,579 - BertrandtGUI - DEBUG - Z-Order korrigiert - Content-Elemente sind jetzt über dem Hintergrund
+2025-08-29 10:19:57,848 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_9
+2025-08-29 10:19:57,858 - BertrandtGUI - DEBUG - Slide 9 mit Fallback-Text gerendert
+2025-08-29 10:19:57,858 - BertrandtGUI - DEBUG - Z-Order korrigiert - Content-Elemente sind jetzt über dem Hintergrund
+2025-08-29 10:19:58,056 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_10
+2025-08-29 10:19:58,067 - BertrandtGUI - DEBUG - Slide 10 mit Fallback-Text gerendert
+2025-08-29 10:19:58,067 - BertrandtGUI - DEBUG - Z-Order korrigiert - Content-Elemente sind jetzt über dem Hintergrund
+2025-08-29 10:19:58,263 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_1
+2025-08-29 10:19:58,273 - BertrandtGUI - DEBUG - Slide 1 mit 11 Canvas-Elementen gerendert
+2025-08-29 10:19:58,273 - BertrandtGUI - DEBUG - Z-Order korrigiert - Content-Elemente sind jetzt über dem Hintergrund
+2025-08-29 10:19:58,464 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_2
+2025-08-29 10:19:58,465 - BertrandtGUI - DEBUG - Slide 2 mit 11 Canvas-Elementen gerendert
+2025-08-29 10:19:58,465 - BertrandtGUI - DEBUG - Z-Order korrigiert - Content-Elemente sind jetzt über dem Hintergrund
+2025-08-29 10:19:58,712 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_3
+2025-08-29 10:19:58,714 - BertrandtGUI - DEBUG - Slide 3 mit 15 Canvas-Elementen gerendert
+2025-08-29 10:19:58,714 - BertrandtGUI - DEBUG - Z-Order korrigiert - Content-Elemente sind jetzt über dem Hintergrund
+2025-08-29 10:19:58,928 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_4
+2025-08-29 10:19:58,930 - BertrandtGUI - DEBUG - Slide 4 mit 15 Canvas-Elementen gerendert
+2025-08-29 10:19:58,930 - BertrandtGUI - DEBUG - Z-Order korrigiert - Content-Elemente sind jetzt über dem Hintergrund
+2025-08-29 10:19:59,152 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_5
+2025-08-29 10:19:59,153 - BertrandtGUI - DEBUG - Slide 5 mit 15 Canvas-Elementen gerendert
+2025-08-29 10:19:59,153 - BertrandtGUI - DEBUG - Z-Order korrigiert - Content-Elemente sind jetzt über dem Hintergrund
+2025-08-29 10:19:59,352 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_6
+2025-08-29 10:19:59,361 - BertrandtGUI - DEBUG - Slide 6 mit Fallback-Text gerendert
+2025-08-29 10:19:59,361 - BertrandtGUI - DEBUG - Z-Order korrigiert - Content-Elemente sind jetzt über dem Hintergrund
+2025-08-29 10:19:59,568 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_7
+2025-08-29 10:19:59,574 - BertrandtGUI - DEBUG - Slide 7 mit Fallback-Text gerendert
+2025-08-29 10:19:59,574 - BertrandtGUI - DEBUG - Z-Order korrigiert - Content-Elemente sind jetzt über dem Hintergrund
+2025-08-29 10:19:59,991 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_8
+2025-08-29 10:20:00,000 - BertrandtGUI - DEBUG - Slide 8 mit Fallback-Text gerendert
+2025-08-29 10:20:00,001 - BertrandtGUI - DEBUG - Z-Order korrigiert - Content-Elemente sind jetzt über dem Hintergrund
+2025-08-29 10:20:00,207 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_9
+2025-08-29 10:20:00,216 - BertrandtGUI - DEBUG - Slide 9 mit Fallback-Text gerendert
+2025-08-29 10:20:00,217 - BertrandtGUI - DEBUG - Z-Order korrigiert - Content-Elemente sind jetzt über dem Hintergrund
+2025-08-29 10:25:17,140 - BertrandtGUI - INFO - Anwendung durch Benutzer unterbrochen
+2025-08-29 10:25:17,140 - BertrandtGUI - INFO - Anwendung wird beendet...
+2025-08-29 10:25:17,140 - BertrandtGUI - INFO - 🧹 Cleanup wird durchgeführt...
+2025-08-29 10:25:17,140 - BertrandtGUI - INFO - 👋 Dynamic Messe Stand V4 beendet
+2025-08-29 10:25:28,387 - BertrandtGUI - DEBUG - Slide 9 geladen
+2025-08-29 10:25:28,387 - BertrandtGUI - DEBUG - Slide 8 geladen
+2025-08-29 10:25:28,387 - BertrandtGUI - DEBUG - Slide 2 geladen
+2025-08-29 10:25:28,387 - BertrandtGUI - DEBUG - Slide 4 geladen
+2025-08-29 10:25:28,387 - BertrandtGUI - DEBUG - Slide 5 geladen
+2025-08-29 10:25:28,387 - BertrandtGUI - DEBUG - Slide 6 geladen
+2025-08-29 10:25:28,387 - BertrandtGUI - DEBUG - Slide 3 geladen
+2025-08-29 10:25:28,387 - BertrandtGUI - DEBUG - Slide 7 geladen
+2025-08-29 10:25:28,388 - BertrandtGUI - DEBUG - Slide 1 geladen
+2025-08-29 10:25:28,388 - BertrandtGUI - DEBUG - Slide 10 geladen
+2025-08-29 10:25:28,388 - BertrandtGUI - INFO - 10 Slides geladen (davon 0 neu erstellt)
+2025-08-29 10:25:28,411 - BertrandtGUI - INFO - 🚀 Dynamic Messe Stand V4 wird gestartet...
+2025-08-29 10:25:28,411 - BertrandtGUI - INFO - Python Version: 3.12.3 (main, Jun 18 2025, 17:59:45) [GCC 13.3.0]
+2025-08-29 10:25:28,411 - BertrandtGUI - INFO - Arbeitsverzeichnis: /home/messe_pc/Dynamic_Messe_Stand_V4/Python_GUI
+2025-08-29 10:25:28,411 - BertrandtGUI - INFO - 🔌 Hardware-Setup wird gestartet...
+2025-08-29 10:25:28,411 - BertrandtGUI - ERROR - Fehler beim Verbinden mit ESP32-1: [Errno 2] could not open port /dev/ttyUSB0: [Errno 2] No such file or directory: '/dev/ttyUSB0'
+2025-08-29 10:25:28,411 - BertrandtGUI - ERROR - Fehler beim Verbinden mit ESP32-2: [Errno 2] could not open port /dev/ttyUSB1: [Errno 2] No such file or directory: '/dev/ttyUSB1'
+2025-08-29 10:25:28,411 - BertrandtGUI - ERROR - Fehler beim Verbinden mit ESP32-3: [Errno 2] could not open port /dev/ttyUSB2: [Errno 2] No such file or directory: '/dev/ttyUSB2'
+2025-08-29 10:25:28,411 - BertrandtGUI - ERROR - Fehler beim Verbinden mit Arduino GIGA: [Errno 2] could not open port /dev/ttyACM0: [Errno 2] No such file or directory: '/dev/ttyACM0'
+2025-08-29 10:25:28,411 - BertrandtGUI - INFO - esp32_1: ❌ Fehler
+2025-08-29 10:25:28,411 - BertrandtGUI - INFO - esp32_2: ❌ Fehler
+2025-08-29 10:25:28,411 - BertrandtGUI - INFO - esp32_3: ❌ Fehler
+2025-08-29 10:25:28,411 - BertrandtGUI - INFO - giga: ❌ Fehler
+2025-08-29 10:25:28,411 - BertrandtGUI - WARNING - ⚠️ Keine Hardware-Verbindungen erfolgreich - GUI startet trotzdem
+2025-08-29 10:25:28,411 - BertrandtGUI - INFO - 🖥️ GUI wird initialisiert...
+2025-08-29 10:25:28,411 - BertrandtGUI - INFO - 🚀 Starte Dynamic Messe Stand V4...
+2025-08-29 10:25:28,609 - BertrandtGUI - INFO - Primärer Monitor: 1920x1080 bei (0, 120)
+2025-08-29 10:25:28,610 - BertrandtGUI - INFO - Hauptmonitor erkannt: 1920x1080 bei (0, 120)
+2025-08-29 10:25:28,613 - BertrandtGUI - DEBUG - Responsive Design: 1920x1080, Scale: 1.00
+2025-08-29 10:25:28,674 - BertrandtGUI - INFO - ✅ Bertrandt Layout-Struktur erstellt
+2025-08-29 10:25:28,703 - BertrandtGUI - DEBUG - Slide 1 mit 11 Canvas-Elementen gerendert
+2025-08-29 10:25:28,704 - BertrandtGUI - DEBUG - Z-Order korrigiert - Content-Elemente sind jetzt über dem Hintergrund
+2025-08-29 10:25:28,737 - BertrandtGUI - DEBUG - Home-Tab angezeigt
+2025-08-29 10:25:28,737 - BertrandtGUI - DEBUG - Tab gewechselt: home
+2025-08-29 10:25:28,737 - BertrandtGUI - INFO - ✅ Dynamic Messe Stand V4 erfolgreich initialisiert!
+2025-08-29 10:25:28,737 - BertrandtGUI - INFO - ✅ Dynamic Messe Stand V4 erfolgreich gestartet!
+2025-08-29 10:25:28,737 - BertrandtGUI - INFO - 💡 Drücke F11 für Vollbild, ESC zum Verlassen
+2025-08-29 10:25:28,738 - BertrandtGUI - INFO - GUI-Hauptschleife gestartet
+2025-08-29 10:25:28,748 - BertrandtGUI - INFO - Fenster auf Hauptmonitor zurück bewegt: (0, 120)
+2025-08-29 10:25:30,378 - BertrandtGUI - DEBUG - Home-Tab versteckt
+2025-08-29 10:25:30,379 - BertrandtGUI - DEBUG - Demo-Tab angezeigt
+2025-08-29 10:25:30,379 - BertrandtGUI - DEBUG - Tab gewechselt: demo
+2025-08-29 10:25:31,674 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_2
+2025-08-29 10:25:31,690 - BertrandtGUI - DEBUG - Slide 2 mit 11 Canvas-Elementen gerendert
+2025-08-29 10:25:31,691 - BertrandtGUI - DEBUG - Z-Order korrigiert - Content-Elemente sind jetzt über dem Hintergrund
+2025-08-29 10:25:32,122 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_3
+2025-08-29 10:25:32,135 - BertrandtGUI - DEBUG - Slide 3 mit 15 Canvas-Elementen gerendert
+2025-08-29 10:25:32,135 - BertrandtGUI - DEBUG - Z-Order korrigiert - Content-Elemente sind jetzt über dem Hintergrund
+2025-08-29 10:25:32,554 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_4
+2025-08-29 10:25:32,564 - BertrandtGUI - DEBUG - Slide 4 mit 15 Canvas-Elementen gerendert
+2025-08-29 10:25:32,564 - BertrandtGUI - DEBUG - Z-Order korrigiert - Content-Elemente sind jetzt über dem Hintergrund
+2025-08-29 10:25:32,938 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_5
+2025-08-29 10:25:32,954 - BertrandtGUI - DEBUG - Slide 5 mit 15 Canvas-Elementen gerendert
+2025-08-29 10:25:32,954 - BertrandtGUI - DEBUG - Z-Order korrigiert - Content-Elemente sind jetzt über dem Hintergrund
+2025-08-29 10:25:33,850 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_6
+2025-08-29 10:25:33,866 - BertrandtGUI - DEBUG - Slide 6 mit Fallback-Text gerendert
+2025-08-29 10:25:33,866 - BertrandtGUI - DEBUG - Z-Order korrigiert - Content-Elemente sind jetzt über dem Hintergrund
+2025-08-29 10:25:35,618 - BertrandtGUI - DEBUG - Demo-Tab versteckt
+2025-08-29 10:25:35,629 - BertrandtGUI - DEBUG - Creator: 11 Canvas-Elemente gerendert
+2025-08-29 10:25:35,630 - BertrandtGUI - DEBUG - Creator Z-Order korrigiert - Content-Elemente sind jetzt über dem Hintergrund
+2025-08-29 10:25:35,765 - BertrandtGUI - DEBUG - Canvas: 1127x699, Slide: 1920x1080, Scale: 0.545, Scaled: 1047x589, Offset: (40, 55)
+2025-08-29 10:25:35,765 - BertrandtGUI - DEBUG - Bestehende Elemente neu skaliert mit Faktor 0.545
+2025-08-29 10:25:35,794 - BertrandtGUI - DEBUG - Canvas: 1127x736, Slide: 1920x1080, Scale: 0.545, Scaled: 1047x589, Offset: (40, 74)
+2025-08-29 10:25:35,795 - BertrandtGUI - DEBUG - Bestehende Elemente neu skaliert mit Faktor 0.545
+2025-08-29 10:25:35,894 - BertrandtGUI - DEBUG - Canvas: 1127x736, Slide: 1920x1080, Scale: 0.545, Scaled: 1047x589, Offset: (40, 74)
+2025-08-29 10:25:35,895 - BertrandtGUI - DEBUG - Bestehende Elemente neu skaliert mit Faktor 0.545
+2025-08-29 10:25:35,895 - BertrandtGUI - DEBUG - Slide-Sichtbarkeit optimiert: 1127x736
+2025-08-29 10:25:35,895 - BertrandtGUI - DEBUG - Demo-Slide 1 geladen: BumbleB - Das automatisierte Shuttle
+2025-08-29 10:25:35,895 - BertrandtGUI - DEBUG - Tab gewechselt: creator
+2025-08-29 10:25:35,897 - BertrandtGUI - DEBUG - Creator Z-Order korrigiert - Content-Elemente sind jetzt über dem Hintergrund
+2025-08-29 10:25:36,096 - BertrandtGUI - DEBUG - Canvas: 1127x736, Slide: 1920x1080, Scale: 0.545, Scaled: 1047x589, Offset: (40, 74)
+2025-08-29 10:25:36,097 - BertrandtGUI - DEBUG - Bestehende Elemente neu skaliert mit Faktor 0.545
+2025-08-29 10:25:36,097 - BertrandtGUI - DEBUG - Slide-Sichtbarkeit optimiert: 1127x736
+2025-08-29 10:25:36,996 - BertrandtGUI - DEBUG - Slide 1 gespeichert
+2025-08-29 10:25:36,996 - BertrandtGUI - INFO - Demo-Slide 1 mit 14 Elementen gespeichert
+2025-08-29 10:25:37,007 - BertrandtGUI - DEBUG - Creator: 11 Canvas-Elemente gerendert
+2025-08-29 10:25:37,007 - BertrandtGUI - DEBUG - Creator Z-Order korrigiert - Content-Elemente sind jetzt über dem Hintergrund
+2025-08-29 10:25:37,020 - BertrandtGUI - DEBUG - Canvas: 1127x736, Slide: 1920x1080, Scale: 0.545, Scaled: 1047x589, Offset: (40, 74)
+2025-08-29 10:25:37,021 - BertrandtGUI - DEBUG - Bestehende Elemente neu skaliert mit Faktor 0.545
+2025-08-29 10:25:37,021 - BertrandtGUI - DEBUG - Slide-Sichtbarkeit optimiert: 1127x736
+2025-08-29 10:25:37,021 - BertrandtGUI - DEBUG - Demo-Slide 2 geladen: BumbleB - Wie die Hummel
+2025-08-29 10:25:37,108 - BertrandtGUI - DEBUG - Creator Z-Order korrigiert - Content-Elemente sind jetzt über dem Hintergrund
+2025-08-29 10:25:37,646 - BertrandtGUI - DEBUG - Slide 2 gespeichert
+2025-08-29 10:25:37,646 - BertrandtGUI - INFO - Demo-Slide 2 mit 14 Elementen gespeichert
+2025-08-29 10:25:37,657 - BertrandtGUI - DEBUG - Creator: 15 Canvas-Elemente gerendert
+2025-08-29 10:25:37,657 - BertrandtGUI - DEBUG - Creator Z-Order korrigiert - Content-Elemente sind jetzt über dem Hintergrund
+2025-08-29 10:25:37,669 - BertrandtGUI - DEBUG - Canvas: 1127x736, Slide: 1920x1080, Scale: 0.545, Scaled: 1047x589, Offset: (40, 74)
+2025-08-29 10:25:37,671 - BertrandtGUI - DEBUG - Bestehende Elemente neu skaliert mit Faktor 0.545
+2025-08-29 10:25:37,671 - BertrandtGUI - DEBUG - Slide-Sichtbarkeit optimiert: 1127x736
+2025-08-29 10:25:37,671 - BertrandtGUI - DEBUG - Demo-Slide 3 geladen: Einsatzgebiete und Vorteile
+2025-08-29 10:25:37,758 - BertrandtGUI - DEBUG - Creator Z-Order korrigiert - Content-Elemente sind jetzt über dem Hintergrund
+2025-08-29 10:25:38,093 - BertrandtGUI - DEBUG - Slide 3 gespeichert
+2025-08-29 10:25:38,093 - BertrandtGUI - INFO - Demo-Slide 3 mit 18 Elementen gespeichert
+2025-08-29 10:25:38,103 - BertrandtGUI - DEBUG - Creator: 15 Canvas-Elemente gerendert
+2025-08-29 10:25:38,104 - BertrandtGUI - DEBUG - Creator Z-Order korrigiert - Content-Elemente sind jetzt über dem Hintergrund
+2025-08-29 10:25:38,113 - BertrandtGUI - DEBUG - Canvas: 1127x736, Slide: 1920x1080, Scale: 0.545, Scaled: 1047x589, Offset: (40, 74)
+2025-08-29 10:25:38,114 - BertrandtGUI - DEBUG - Bestehende Elemente neu skaliert mit Faktor 0.545
+2025-08-29 10:25:38,114 - BertrandtGUI - DEBUG - Slide-Sichtbarkeit optimiert: 1127x736
+2025-08-29 10:25:38,114 - BertrandtGUI - DEBUG - Demo-Slide 4 geladen: Sicherheitssysteme
+2025-08-29 10:25:38,205 - BertrandtGUI - DEBUG - Creator Z-Order korrigiert - Content-Elemente sind jetzt über dem Hintergrund
+2025-08-29 10:27:52,815 - BertrandtGUI - INFO - Element 'title_text' hinzugefügt bei (1201.1461318051577, 211.74785100286533)
+2025-08-29 10:28:07,207 - BertrandtGUI - DEBUG - Vollbild deaktiviert - bleibt auf Hauptmonitor
+2025-08-29 10:28:07,247 - BertrandtGUI - DEBUG - Canvas: 768x376, Slide: 1920x1080, Scale: 0.274, Scaled: 526x296, Offset: (121, 40)
+2025-08-29 10:28:07,257 - BertrandtGUI - DEBUG - Bestehende Elemente neu skaliert mit Faktor 0.274
+2025-08-29 10:28:08,997 - BertrandtGUI - INFO - 🧹 Cleanup wird durchgeführt...
+2025-08-29 10:28:08,998 - BertrandtGUI - INFO - 👋 Dynamic Messe Stand V4 beendet
+2025-08-29 10:29:12,044 - BertrandtGUI - DEBUG - Slide 9 geladen
+2025-08-29 10:29:12,044 - BertrandtGUI - DEBUG - Slide 8 geladen
+2025-08-29 10:29:12,044 - BertrandtGUI - DEBUG - Slide 2 geladen
+2025-08-29 10:29:12,044 - BertrandtGUI - DEBUG - Slide 4 geladen
+2025-08-29 10:29:12,044 - BertrandtGUI - DEBUG - Slide 5 geladen
+2025-08-29 10:29:12,045 - BertrandtGUI - DEBUG - Slide 6 geladen
+2025-08-29 10:29:12,045 - BertrandtGUI - DEBUG - Slide 3 geladen
+2025-08-29 10:29:12,045 - BertrandtGUI - DEBUG - Slide 7 geladen
+2025-08-29 10:29:12,045 - BertrandtGUI - DEBUG - Slide 1 geladen
+2025-08-29 10:29:12,045 - BertrandtGUI - DEBUG - Slide 10 geladen
+2025-08-29 10:29:12,045 - BertrandtGUI - INFO - 10 Slides geladen (davon 0 neu erstellt)
+2025-08-29 10:29:12,076 - BertrandtGUI - INFO - 🚀 Dynamic Messe Stand V4 wird gestartet...
+2025-08-29 10:29:12,076 - BertrandtGUI - INFO - Python Version: 3.12.3 (main, Jun 18 2025, 17:59:45) [GCC 13.3.0]
+2025-08-29 10:29:12,076 - BertrandtGUI - INFO - Arbeitsverzeichnis: /home/messe_pc/Dynamic_Messe_Stand_V4/Python_GUI
+2025-08-29 10:29:12,076 - BertrandtGUI - INFO - 🔌 Hardware-Setup wird gestartet...
+2025-08-29 10:29:12,076 - BertrandtGUI - ERROR - Fehler beim Verbinden mit ESP32-1: [Errno 2] could not open port /dev/ttyUSB0: [Errno 2] No such file or directory: '/dev/ttyUSB0'
+2025-08-29 10:29:12,076 - BertrandtGUI - ERROR - Fehler beim Verbinden mit ESP32-2: [Errno 2] could not open port /dev/ttyUSB1: [Errno 2] No such file or directory: '/dev/ttyUSB1'
+2025-08-29 10:29:12,076 - BertrandtGUI - ERROR - Fehler beim Verbinden mit ESP32-3: [Errno 2] could not open port /dev/ttyUSB2: [Errno 2] No such file or directory: '/dev/ttyUSB2'
+2025-08-29 10:29:12,076 - BertrandtGUI - ERROR - Fehler beim Verbinden mit Arduino GIGA: [Errno 2] could not open port /dev/ttyACM0: [Errno 2] No such file or directory: '/dev/ttyACM0'
+2025-08-29 10:29:12,076 - BertrandtGUI - INFO - esp32_1: ❌ Fehler
+2025-08-29 10:29:12,076 - BertrandtGUI - INFO - esp32_2: ❌ Fehler
+2025-08-29 10:29:12,076 - BertrandtGUI - INFO - esp32_3: ❌ Fehler
+2025-08-29 10:29:12,077 - BertrandtGUI - INFO - giga: ❌ Fehler
+2025-08-29 10:29:12,077 - BertrandtGUI - WARNING - ⚠️ Keine Hardware-Verbindungen erfolgreich - GUI startet trotzdem
+2025-08-29 10:29:12,077 - BertrandtGUI - INFO - 🖥️ GUI wird initialisiert...
+2025-08-29 10:29:12,077 - BertrandtGUI - INFO - 🚀 Starte Dynamic Messe Stand V4...
+2025-08-29 10:29:12,262 - BertrandtGUI - INFO - Primärer Monitor: 1920x1080 bei (0, 120)
+2025-08-29 10:29:12,262 - BertrandtGUI - INFO - Hauptmonitor erkannt: 1920x1080 bei (0, 120)
+2025-08-29 10:29:12,265 - BertrandtGUI - DEBUG - Responsive Design: 1920x1080, Scale: 1.00
+2025-08-29 10:29:12,333 - BertrandtGUI - INFO - ✅ Bertrandt Layout-Struktur erstellt
+2025-08-29 10:29:12,357 - BertrandtGUI - DEBUG - Slide 1 mit 14 Canvas-Elementen gerendert
+2025-08-29 10:29:12,357 - BertrandtGUI - DEBUG - Z-Order korrigiert - Content-Elemente sind jetzt über dem Hintergrund
+2025-08-29 10:29:12,391 - BertrandtGUI - DEBUG - Home-Tab angezeigt
+2025-08-29 10:29:12,392 - BertrandtGUI - DEBUG - Tab gewechselt: home
+2025-08-29 10:29:12,392 - BertrandtGUI - INFO - ✅ Dynamic Messe Stand V4 erfolgreich initialisiert!
+2025-08-29 10:29:12,392 - BertrandtGUI - INFO - ✅ Dynamic Messe Stand V4 erfolgreich gestartet!
+2025-08-29 10:29:12,392 - BertrandtGUI - INFO - 💡 Drücke F11 für Vollbild, ESC zum Verlassen
+2025-08-29 10:29:12,392 - BertrandtGUI - INFO - GUI-Hauptschleife gestartet
+2025-08-29 10:29:12,401 - BertrandtGUI - INFO - Fenster auf Hauptmonitor zurück bewegt: (0, 120)
+2025-08-29 10:29:16,330 - BertrandtGUI - DEBUG - Home-Tab versteckt
+2025-08-29 10:29:16,333 - BertrandtGUI - DEBUG - Creator: 14 Canvas-Elemente gerendert
+2025-08-29 10:29:16,333 - BertrandtGUI - DEBUG - Creator Z-Order korrigiert - Content-Elemente sind jetzt über dem Hintergrund
+2025-08-29 10:29:16,462 - BertrandtGUI - DEBUG - Canvas: 1127x699, Slide: 1920x1080, Scale: 0.545, Scaled: 1047x589, Offset: (40, 55)
+2025-08-29 10:29:16,463 - BertrandtGUI - DEBUG - Bestehende Elemente neu skaliert mit Faktor 0.545
+2025-08-29 10:29:16,502 - BertrandtGUI - DEBUG - Canvas: 1127x736, Slide: 1920x1080, Scale: 0.545, Scaled: 1047x589, Offset: (40, 74)
+2025-08-29 10:29:16,502 - BertrandtGUI - DEBUG - Bestehende Elemente neu skaliert mit Faktor 0.545
+2025-08-29 10:29:16,587 - BertrandtGUI - DEBUG - Canvas: 1127x736, Slide: 1920x1080, Scale: 0.545, Scaled: 1047x589, Offset: (40, 74)
+2025-08-29 10:29:16,588 - BertrandtGUI - DEBUG - Bestehende Elemente neu skaliert mit Faktor 0.545
+2025-08-29 10:29:16,588 - BertrandtGUI - DEBUG - Slide-Sichtbarkeit optimiert: 1127x736
+2025-08-29 10:29:16,588 - BertrandtGUI - DEBUG - Demo-Slide 1 geladen: BumbleB - Das automatisierte Shuttle
+2025-08-29 10:29:16,588 - BertrandtGUI - DEBUG - Tab gewechselt: creator
+2025-08-29 10:29:16,589 - BertrandtGUI - DEBUG - Creator Z-Order korrigiert - Content-Elemente sind jetzt über dem Hintergrund
+2025-08-29 10:29:16,789 - BertrandtGUI - DEBUG - Canvas: 1127x736, Slide: 1920x1080, Scale: 0.545, Scaled: 1047x589, Offset: (40, 74)
+2025-08-29 10:29:16,790 - BertrandtGUI - DEBUG - Bestehende Elemente neu skaliert mit Faktor 0.545
+2025-08-29 10:29:16,790 - BertrandtGUI - DEBUG - Slide-Sichtbarkeit optimiert: 1127x736
+2025-08-29 10:29:17,398 - BertrandtGUI - DEBUG - Slide 1 gespeichert
+2025-08-29 10:29:17,398 - BertrandtGUI - INFO - Demo-Slide 1 mit 17 Elementen gespeichert
+2025-08-29 10:29:17,412 - BertrandtGUI - DEBUG - Creator: 14 Canvas-Elemente gerendert
+2025-08-29 10:29:17,412 - BertrandtGUI - DEBUG - Creator Z-Order korrigiert - Content-Elemente sind jetzt über dem Hintergrund
+2025-08-29 10:29:17,423 - BertrandtGUI - DEBUG - Canvas: 1127x736, Slide: 1920x1080, Scale: 0.545, Scaled: 1047x589, Offset: (40, 74)
+2025-08-29 10:29:17,424 - BertrandtGUI - DEBUG - Bestehende Elemente neu skaliert mit Faktor 0.545
+2025-08-29 10:29:17,424 - BertrandtGUI - DEBUG - Slide-Sichtbarkeit optimiert: 1127x736
+2025-08-29 10:29:17,424 - BertrandtGUI - DEBUG - Demo-Slide 2 geladen: BumbleB - Wie die Hummel
+2025-08-29 10:29:17,513 - BertrandtGUI - DEBUG - Creator Z-Order korrigiert - Content-Elemente sind jetzt über dem Hintergrund
+2025-08-29 10:29:18,319 - BertrandtGUI - DEBUG - Slide 2 gespeichert
+2025-08-29 10:29:18,319 - BertrandtGUI - INFO - Demo-Slide 2 mit 17 Elementen gespeichert
+2025-08-29 10:29:18,333 - BertrandtGUI - DEBUG - Creator: 18 Canvas-Elemente gerendert
+2025-08-29 10:29:18,334 - BertrandtGUI - DEBUG - Creator Z-Order korrigiert - Content-Elemente sind jetzt über dem Hintergrund
+2025-08-29 10:29:18,342 - BertrandtGUI - DEBUG - Canvas: 1127x736, Slide: 1920x1080, Scale: 0.545, Scaled: 1047x589, Offset: (40, 74)
+2025-08-29 10:29:18,343 - BertrandtGUI - DEBUG - Bestehende Elemente neu skaliert mit Faktor 0.545
+2025-08-29 10:29:18,343 - BertrandtGUI - DEBUG - Slide-Sichtbarkeit optimiert: 1127x736
+2025-08-29 10:29:18,343 - BertrandtGUI - DEBUG - Demo-Slide 3 geladen: Einsatzgebiete und Vorteile
+2025-08-29 10:29:18,435 - BertrandtGUI - DEBUG - Creator Z-Order korrigiert - Content-Elemente sind jetzt über dem Hintergrund
+2025-08-29 10:29:18,910 - BertrandtGUI - DEBUG - Slide 3 gespeichert
+2025-08-29 10:29:18,910 - BertrandtGUI - INFO - Demo-Slide 3 mit 21 Elementen gespeichert
+2025-08-29 10:29:18,926 - BertrandtGUI - DEBUG - Creator: 15 Canvas-Elemente gerendert
+2025-08-29 10:29:18,927 - BertrandtGUI - DEBUG - Creator Z-Order korrigiert - Content-Elemente sind jetzt über dem Hintergrund
+2025-08-29 10:29:18,938 - BertrandtGUI - DEBUG - Canvas: 1127x736, Slide: 1920x1080, Scale: 0.545, Scaled: 1047x589, Offset: (40, 74)
+2025-08-29 10:29:18,939 - BertrandtGUI - DEBUG - Bestehende Elemente neu skaliert mit Faktor 0.545
+2025-08-29 10:29:18,939 - BertrandtGUI - DEBUG - Slide-Sichtbarkeit optimiert: 1127x736
+2025-08-29 10:29:18,939 - BertrandtGUI - DEBUG - Demo-Slide 4 geladen: Sicherheitssysteme
+2025-08-29 10:29:19,027 - BertrandtGUI - DEBUG - Creator Z-Order korrigiert - Content-Elemente sind jetzt über dem Hintergrund
+2025-08-29 10:29:20,315 - BertrandtGUI - DEBUG - Demo-Tab angezeigt
+2025-08-29 10:29:20,316 - BertrandtGUI - DEBUG - Tab gewechselt: demo
+2025-08-29 10:29:21,379 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_2
+2025-08-29 10:29:21,381 - BertrandtGUI - DEBUG - Slide 2 mit 17 Canvas-Elementen gerendert
+2025-08-29 10:29:21,381 - BertrandtGUI - DEBUG - Z-Order korrigiert - Content-Elemente sind jetzt über dem Hintergrund
+2025-08-29 10:29:21,787 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_3
+2025-08-29 10:29:21,789 - BertrandtGUI - DEBUG - Slide 3 mit 21 Canvas-Elementen gerendert
+2025-08-29 10:29:21,789 - BertrandtGUI - DEBUG - Z-Order korrigiert - Content-Elemente sind jetzt über dem Hintergrund
+2025-08-29 10:29:22,107 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_4
+2025-08-29 10:29:22,109 - BertrandtGUI - DEBUG - Slide 4 mit 15 Canvas-Elementen gerendert
+2025-08-29 10:29:22,109 - BertrandtGUI - DEBUG - Z-Order korrigiert - Content-Elemente sind jetzt über dem Hintergrund
+2025-08-29 10:29:22,347 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_5
+2025-08-29 10:29:22,350 - BertrandtGUI - DEBUG - Slide 5 mit 15 Canvas-Elementen gerendert
+2025-08-29 10:29:22,350 - BertrandtGUI - DEBUG - Z-Order korrigiert - Content-Elemente sind jetzt über dem Hintergrund
+2025-08-29 10:29:22,611 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_6
+2025-08-29 10:29:22,620 - BertrandtGUI - DEBUG - Slide 6 mit Fallback-Text gerendert
+2025-08-29 10:29:22,620 - BertrandtGUI - DEBUG - Z-Order korrigiert - Content-Elemente sind jetzt über dem Hintergrund
+2025-08-29 10:29:22,963 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_7
+2025-08-29 10:29:22,972 - BertrandtGUI - DEBUG - Slide 7 mit Fallback-Text gerendert
+2025-08-29 10:29:22,972 - BertrandtGUI - DEBUG - Z-Order korrigiert - Content-Elemente sind jetzt über dem Hintergrund
+2025-08-29 10:29:24,027 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_6
+2025-08-29 10:29:24,035 - BertrandtGUI - DEBUG - Slide 6 mit Fallback-Text gerendert
+2025-08-29 10:29:24,036 - BertrandtGUI - DEBUG - Z-Order korrigiert - Content-Elemente sind jetzt über dem Hintergrund
+2025-08-29 10:29:24,243 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_5
+2025-08-29 10:29:24,245 - BertrandtGUI - DEBUG - Slide 5 mit 15 Canvas-Elementen gerendert
+2025-08-29 10:29:24,246 - BertrandtGUI - DEBUG - Z-Order korrigiert - Content-Elemente sind jetzt über dem Hintergrund
+2025-08-29 10:29:24,907 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_6
+2025-08-29 10:29:24,915 - BertrandtGUI - DEBUG - Slide 6 mit Fallback-Text gerendert
+2025-08-29 10:29:24,915 - BertrandtGUI - DEBUG - Z-Order korrigiert - Content-Elemente sind jetzt über dem Hintergrund
+2025-08-29 10:34:28,538 - BertrandtGUI - INFO - Anwendung durch Benutzer unterbrochen
+2025-08-29 10:34:28,539 - BertrandtGUI - INFO - Anwendung wird beendet...
+2025-08-29 10:34:28,539 - BertrandtGUI - INFO - 🧹 Cleanup wird durchgeführt...
+2025-08-29 10:34:28,539 - BertrandtGUI - INFO - 👋 Dynamic Messe Stand V4 beendet
+2025-08-29 10:34:31,273 - BertrandtGUI - DEBUG - Slide 9 geladen
+2025-08-29 10:34:31,273 - BertrandtGUI - DEBUG - Slide 8 geladen
+2025-08-29 10:34:31,273 - BertrandtGUI - DEBUG - Slide 2 geladen
+2025-08-29 10:34:31,273 - BertrandtGUI - DEBUG - Slide 4 geladen
+2025-08-29 10:34:31,273 - BertrandtGUI - DEBUG - Slide 5 geladen
+2025-08-29 10:34:31,274 - BertrandtGUI - DEBUG - Slide 6 geladen
+2025-08-29 10:34:31,274 - BertrandtGUI - DEBUG - Slide 3 geladen
+2025-08-29 10:34:31,274 - BertrandtGUI - DEBUG - Slide 7 geladen
+2025-08-29 10:34:31,274 - BertrandtGUI - DEBUG - Slide 1 geladen
+2025-08-29 10:34:31,274 - BertrandtGUI - DEBUG - Slide 10 geladen
+2025-08-29 10:34:31,274 - BertrandtGUI - INFO - 10 Slides geladen (davon 0 neu erstellt)
+2025-08-29 10:34:31,289 - BertrandtGUI - INFO - 🚀 Dynamic Messe Stand V4 wird gestartet...
+2025-08-29 10:34:31,289 - BertrandtGUI - INFO - Python Version: 3.12.3 (main, Jun 18 2025, 17:59:45) [GCC 13.3.0]
+2025-08-29 10:34:31,289 - BertrandtGUI - INFO - Arbeitsverzeichnis: /home/messe_pc/Dynamic_Messe_Stand_V4/Python_GUI
+2025-08-29 10:34:31,289 - BertrandtGUI - INFO - 🔌 Hardware-Setup wird gestartet...
+2025-08-29 10:34:31,289 - BertrandtGUI - ERROR - Fehler beim Verbinden mit ESP32-1: [Errno 2] could not open port /dev/ttyUSB0: [Errno 2] No such file or directory: '/dev/ttyUSB0'
+2025-08-29 10:34:31,289 - BertrandtGUI - ERROR - Fehler beim Verbinden mit ESP32-2: [Errno 2] could not open port /dev/ttyUSB1: [Errno 2] No such file or directory: '/dev/ttyUSB1'
+2025-08-29 10:34:31,289 - BertrandtGUI - ERROR - Fehler beim Verbinden mit ESP32-3: [Errno 2] could not open port /dev/ttyUSB2: [Errno 2] No such file or directory: '/dev/ttyUSB2'
+2025-08-29 10:34:31,289 - BertrandtGUI - ERROR - Fehler beim Verbinden mit Arduino GIGA: [Errno 2] could not open port /dev/ttyACM0: [Errno 2] No such file or directory: '/dev/ttyACM0'
+2025-08-29 10:34:31,290 - BertrandtGUI - INFO - esp32_1: ❌ Fehler
+2025-08-29 10:34:31,290 - BertrandtGUI - INFO - esp32_2: ❌ Fehler
+2025-08-29 10:34:31,290 - BertrandtGUI - INFO - esp32_3: ❌ Fehler
+2025-08-29 10:34:31,290 - BertrandtGUI - INFO - giga: ❌ Fehler
+2025-08-29 10:34:31,290 - BertrandtGUI - WARNING - ⚠️ Keine Hardware-Verbindungen erfolgreich - GUI startet trotzdem
+2025-08-29 10:34:31,290 - BertrandtGUI - INFO - 🖥️ GUI wird initialisiert...
+2025-08-29 10:34:31,290 - BertrandtGUI - INFO - 🚀 Starte Dynamic Messe Stand V4...
+2025-08-29 10:34:31,474 - BertrandtGUI - INFO - Primärer Monitor: 1920x1080 bei (0, 120)
+2025-08-29 10:34:31,475 - BertrandtGUI - INFO - Hauptmonitor erkannt: 1920x1080 bei (0, 120)
+2025-08-29 10:34:31,477 - BertrandtGUI - DEBUG - Responsive Design: 1920x1080, Scale: 1.00
+2025-08-29 10:34:31,541 - BertrandtGUI - INFO - ✅ Bertrandt Layout-Struktur erstellt
+2025-08-29 10:34:31,566 - BertrandtGUI - DEBUG - Slide 1 mit Text direkt auf der Folie gerendert
+2025-08-29 10:34:31,566 - BertrandtGUI - DEBUG - Z-Order korrigiert - Content-Elemente sind jetzt über dem Hintergrund
+2025-08-29 10:34:31,598 - BertrandtGUI - DEBUG - Home-Tab angezeigt
+2025-08-29 10:34:31,598 - BertrandtGUI - DEBUG - Tab gewechselt: home
+2025-08-29 10:34:31,598 - BertrandtGUI - INFO - ✅ Dynamic Messe Stand V4 erfolgreich initialisiert!
+2025-08-29 10:34:31,598 - BertrandtGUI - INFO - ✅ Dynamic Messe Stand V4 erfolgreich gestartet!
+2025-08-29 10:34:31,598 - BertrandtGUI - INFO - 💡 Drücke F11 für Vollbild, ESC zum Verlassen
+2025-08-29 10:34:31,598 - BertrandtGUI - INFO - GUI-Hauptschleife gestartet
+2025-08-29 10:34:31,610 - BertrandtGUI - INFO - Fenster auf Hauptmonitor zurück bewegt: (0, 120)
+2025-08-29 10:34:33,874 - BertrandtGUI - DEBUG - Home-Tab versteckt
+2025-08-29 10:34:33,874 - BertrandtGUI - DEBUG - Demo-Tab angezeigt
+2025-08-29 10:34:33,875 - BertrandtGUI - DEBUG - Tab gewechselt: demo
+2025-08-29 10:34:35,051 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_2
+2025-08-29 10:34:35,067 - BertrandtGUI - DEBUG - Slide 2 mit Text direkt auf der Folie gerendert
+2025-08-29 10:34:35,067 - BertrandtGUI - DEBUG - Z-Order korrigiert - Content-Elemente sind jetzt über dem Hintergrund
+2025-08-29 10:34:35,738 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_3
+2025-08-29 10:34:35,753 - BertrandtGUI - DEBUG - Slide 3 mit Text direkt auf der Folie gerendert
+2025-08-29 10:34:35,753 - BertrandtGUI - DEBUG - Z-Order korrigiert - Content-Elemente sind jetzt über dem Hintergrund
+2025-08-29 10:34:36,146 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_4
+2025-08-29 10:34:36,160 - BertrandtGUI - DEBUG - Slide 4 mit Text direkt auf der Folie gerendert
+2025-08-29 10:34:36,160 - BertrandtGUI - DEBUG - Z-Order korrigiert - Content-Elemente sind jetzt über dem Hintergrund
+2025-08-29 10:34:36,347 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_5
+2025-08-29 10:34:36,361 - BertrandtGUI - DEBUG - Slide 5 mit Text direkt auf der Folie gerendert
+2025-08-29 10:34:36,361 - BertrandtGUI - DEBUG - Z-Order korrigiert - Content-Elemente sind jetzt über dem Hintergrund
+2025-08-29 10:34:36,538 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_6
+2025-08-29 10:34:36,552 - BertrandtGUI - DEBUG - Slide 6 mit Text direkt auf der Folie gerendert
+2025-08-29 10:34:36,552 - BertrandtGUI - DEBUG - Z-Order korrigiert - Content-Elemente sind jetzt über dem Hintergrund
+2025-08-29 10:34:36,738 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_7
+2025-08-29 10:34:36,752 - BertrandtGUI - DEBUG - Slide 7 mit Text direkt auf der Folie gerendert
+2025-08-29 10:34:36,752 - BertrandtGUI - DEBUG - Z-Order korrigiert - Content-Elemente sind jetzt über dem Hintergrund
+2025-08-29 10:34:36,914 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_8
+2025-08-29 10:34:36,925 - BertrandtGUI - DEBUG - Slide 8 mit Text direkt auf der Folie gerendert
+2025-08-29 10:34:36,925 - BertrandtGUI - DEBUG - Z-Order korrigiert - Content-Elemente sind jetzt über dem Hintergrund
+2025-08-29 10:34:37,122 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_9
+2025-08-29 10:34:37,133 - BertrandtGUI - DEBUG - Slide 9 mit Text direkt auf der Folie gerendert
+2025-08-29 10:34:37,133 - BertrandtGUI - DEBUG - Z-Order korrigiert - Content-Elemente sind jetzt über dem Hintergrund
+2025-08-29 10:34:37,314 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_10
+2025-08-29 10:34:37,325 - BertrandtGUI - DEBUG - Slide 10 mit Text direkt auf der Folie gerendert
+2025-08-29 10:34:37,325 - BertrandtGUI - DEBUG - Z-Order korrigiert - Content-Elemente sind jetzt über dem Hintergrund
+2025-08-29 10:34:37,506 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_1
+2025-08-29 10:34:37,517 - BertrandtGUI - DEBUG - Slide 1 mit Text direkt auf der Folie gerendert
+2025-08-29 10:34:37,517 - BertrandtGUI - DEBUG - Z-Order korrigiert - Content-Elemente sind jetzt über dem Hintergrund
+2025-08-29 10:34:37,690 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_2
+2025-08-29 10:34:37,703 - BertrandtGUI - DEBUG - Slide 2 mit Text direkt auf der Folie gerendert
+2025-08-29 10:34:37,703 - BertrandtGUI - DEBUG - Z-Order korrigiert - Content-Elemente sind jetzt über dem Hintergrund
+2025-08-29 10:34:37,906 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_3
+2025-08-29 10:34:37,920 - BertrandtGUI - DEBUG - Slide 3 mit Text direkt auf der Folie gerendert
+2025-08-29 10:34:37,920 - BertrandtGUI - DEBUG - Z-Order korrigiert - Content-Elemente sind jetzt über dem Hintergrund
+2025-08-29 10:34:38,083 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_4
+2025-08-29 10:34:38,095 - BertrandtGUI - DEBUG - Slide 4 mit Text direkt auf der Folie gerendert
+2025-08-29 10:34:38,095 - BertrandtGUI - DEBUG - Z-Order korrigiert - Content-Elemente sind jetzt über dem Hintergrund
+2025-08-29 10:34:38,906 - BertrandtGUI - DEBUG - Demo-Tab versteckt
+2025-08-29 10:34:38,913 - BertrandtGUI - DEBUG - Creator: 17 Canvas-Elemente gerendert
+2025-08-29 10:34:38,913 - BertrandtGUI - DEBUG - Creator Z-Order korrigiert - Content-Elemente sind jetzt über dem Hintergrund
+2025-08-29 10:34:39,015 - BertrandtGUI - DEBUG - Canvas: 1127x699, Slide: 1920x1080, Scale: 0.545, Scaled: 1047x589, Offset: (40, 55)
+2025-08-29 10:34:39,015 - BertrandtGUI - DEBUG - Bestehende Elemente neu skaliert mit Faktor 0.545
+2025-08-29 10:34:39,034 - BertrandtGUI - DEBUG - Canvas: 1127x736, Slide: 1920x1080, Scale: 0.545, Scaled: 1047x589, Offset: (40, 74)
+2025-08-29 10:34:39,035 - BertrandtGUI - DEBUG - Bestehende Elemente neu skaliert mit Faktor 0.545
+2025-08-29 10:34:39,124 - BertrandtGUI - DEBUG - Canvas: 1127x736, Slide: 1920x1080, Scale: 0.545, Scaled: 1047x589, Offset: (40, 74)
+2025-08-29 10:34:39,125 - BertrandtGUI - DEBUG - Bestehende Elemente neu skaliert mit Faktor 0.545
+2025-08-29 10:34:39,125 - BertrandtGUI - DEBUG - Slide-Sichtbarkeit optimiert: 1127x736
+2025-08-29 10:34:39,125 - BertrandtGUI - DEBUG - Demo-Slide 1 geladen: BumbleB - Das automatisierte Shuttle
+2025-08-29 10:34:39,125 - BertrandtGUI - DEBUG - Tab gewechselt: creator
+2025-08-29 10:34:39,127 - BertrandtGUI - DEBUG - Creator Z-Order korrigiert - Content-Elemente sind jetzt über dem Hintergrund
+2025-08-29 10:34:39,326 - BertrandtGUI - DEBUG - Canvas: 1127x736, Slide: 1920x1080, Scale: 0.545, Scaled: 1047x589, Offset: (40, 74)
+2025-08-29 10:34:39,327 - BertrandtGUI - DEBUG - Bestehende Elemente neu skaliert mit Faktor 0.545
+2025-08-29 10:34:39,327 - BertrandtGUI - DEBUG - Slide-Sichtbarkeit optimiert: 1127x736
+2025-08-29 10:34:49,700 - BertrandtGUI - DEBUG - Slide 1 gespeichert
+2025-08-29 10:34:49,700 - BertrandtGUI - INFO - Demo-Slide 1 mit 20 Elementen gespeichert
+2025-08-29 10:34:49,710 - BertrandtGUI - DEBUG - Creator: 17 Canvas-Elemente gerendert
+2025-08-29 10:34:49,710 - BertrandtGUI - DEBUG - Creator Z-Order korrigiert - Content-Elemente sind jetzt über dem Hintergrund
+2025-08-29 10:34:49,725 - BertrandtGUI - DEBUG - Canvas: 1127x736, Slide: 1920x1080, Scale: 0.545, Scaled: 1047x589, Offset: (40, 74)
+2025-08-29 10:34:49,726 - BertrandtGUI - DEBUG - Bestehende Elemente neu skaliert mit Faktor 0.545
+2025-08-29 10:34:49,726 - BertrandtGUI - DEBUG - Slide-Sichtbarkeit optimiert: 1127x736
+2025-08-29 10:34:49,726 - BertrandtGUI - DEBUG - Demo-Slide 2 geladen: BumbleB - Wie die Hummel
+2025-08-29 10:34:49,811 - BertrandtGUI - DEBUG - Creator Z-Order korrigiert - Content-Elemente sind jetzt über dem Hintergrund
+2025-08-29 10:34:50,174 - BertrandtGUI - DEBUG - Slide 2 gespeichert
+2025-08-29 10:34:50,174 - BertrandtGUI - INFO - Demo-Slide 2 mit 20 Elementen gespeichert
+2025-08-29 10:34:50,189 - BertrandtGUI - DEBUG - Creator: 21 Canvas-Elemente gerendert
+2025-08-29 10:34:50,190 - BertrandtGUI - DEBUG - Creator Z-Order korrigiert - Content-Elemente sind jetzt über dem Hintergrund
+2025-08-29 10:34:50,198 - BertrandtGUI - DEBUG - Canvas: 1127x736, Slide: 1920x1080, Scale: 0.545, Scaled: 1047x589, Offset: (40, 74)
+2025-08-29 10:34:50,199 - BertrandtGUI - DEBUG - Bestehende Elemente neu skaliert mit Faktor 0.545
+2025-08-29 10:34:50,199 - BertrandtGUI - DEBUG - Slide-Sichtbarkeit optimiert: 1127x736
+2025-08-29 10:34:50,199 - BertrandtGUI - DEBUG - Demo-Slide 3 geladen: Einsatzgebiete und Vorteile
+2025-08-29 10:34:50,291 - BertrandtGUI - DEBUG - Creator Z-Order korrigiert - Content-Elemente sind jetzt über dem Hintergrund
+2025-08-29 10:34:50,383 - BertrandtGUI - DEBUG - Slide 3 gespeichert
+2025-08-29 10:34:50,383 - BertrandtGUI - INFO - Demo-Slide 3 mit 24 Elementen gespeichert
+2025-08-29 10:34:50,396 - BertrandtGUI - DEBUG - Creator: 15 Canvas-Elemente gerendert
+2025-08-29 10:34:50,396 - BertrandtGUI - DEBUG - Creator Z-Order korrigiert - Content-Elemente sind jetzt über dem Hintergrund
+2025-08-29 10:34:50,403 - BertrandtGUI - DEBUG - Canvas: 1127x736, Slide: 1920x1080, Scale: 0.545, Scaled: 1047x589, Offset: (40, 74)
+2025-08-29 10:34:50,404 - BertrandtGUI - DEBUG - Bestehende Elemente neu skaliert mit Faktor 0.545
+2025-08-29 10:34:50,404 - BertrandtGUI - DEBUG - Slide-Sichtbarkeit optimiert: 1127x736
+2025-08-29 10:34:50,404 - BertrandtGUI - DEBUG - Demo-Slide 4 geladen: Sicherheitssysteme
+2025-08-29 10:34:50,497 - BertrandtGUI - DEBUG - Creator Z-Order korrigiert - Content-Elemente sind jetzt über dem Hintergrund
+2025-08-29 10:34:50,566 - BertrandtGUI - DEBUG - Slide 4 gespeichert
+2025-08-29 10:34:50,567 - BertrandtGUI - INFO - Demo-Slide 4 mit 18 Elementen gespeichert
+2025-08-29 10:34:50,580 - BertrandtGUI - DEBUG - Creator: 15 Canvas-Elemente gerendert
+2025-08-29 10:34:50,581 - BertrandtGUI - DEBUG - Creator Z-Order korrigiert - Content-Elemente sind jetzt über dem Hintergrund
+2025-08-29 10:34:50,590 - BertrandtGUI - DEBUG - Canvas: 1127x736, Slide: 1920x1080, Scale: 0.545, Scaled: 1047x589, Offset: (40, 74)
+2025-08-29 10:34:50,591 - BertrandtGUI - DEBUG - Bestehende Elemente neu skaliert mit Faktor 0.545
+2025-08-29 10:34:50,591 - BertrandtGUI - DEBUG - Slide-Sichtbarkeit optimiert: 1127x736
+2025-08-29 10:34:50,591 - BertrandtGUI - DEBUG - Demo-Slide 5 geladen: Nachhaltigkeit & Umwelt
+2025-08-29 10:34:50,682 - BertrandtGUI - DEBUG - Creator Z-Order korrigiert - Content-Elemente sind jetzt über dem Hintergrund
+2025-08-29 10:34:50,790 - BertrandtGUI - DEBUG - Slide 5 gespeichert
+2025-08-29 10:34:50,790 - BertrandtGUI - INFO - Demo-Slide 5 mit 18 Elementen gespeichert
+2025-08-29 10:34:50,797 - BertrandtGUI - DEBUG - Titel als editierbares Widget auf Folie erstellt: Expertise und Vision...
+2025-08-29 10:34:50,800 - BertrandtGUI - DEBUG - Content als editierbares Widget auf Folie erstellt: 3 Zeilen
+2025-08-29 10:34:50,805 - BertrandtGUI - INFO - Bestehender Folien-Inhalt als editierbare Widgets direkt auf der Folie gerendert
+2025-08-29 10:34:50,805 - BertrandtGUI - DEBUG - Text-Widget (Text) nach vorne gebracht
+2025-08-29 10:34:50,805 - BertrandtGUI - DEBUG - Text-Widget (Text) nach vorne gebracht
+2025-08-29 10:34:50,806 - BertrandtGUI - DEBUG - Text-Widget (Label) nach vorne gebracht
+2025-08-29 10:34:50,806 - BertrandtGUI - DEBUG - Text-Widget (Label) nach vorne gebracht
+2025-08-29 10:34:50,806 - BertrandtGUI - DEBUG - Creator Z-Order korrigiert - Content-Elemente sind jetzt über dem Hintergrund
+2025-08-29 10:34:50,845 - BertrandtGUI - DEBUG - Canvas: 1127x736, Slide: 1920x1080, Scale: 0.545, Scaled: 1047x589, Offset: (40, 74)
+2025-08-29 10:34:50,846 - BertrandtGUI - DEBUG - Bestehende Elemente neu skaliert mit Faktor 0.545
+2025-08-29 10:34:50,846 - BertrandtGUI - DEBUG - Slide-Sichtbarkeit optimiert: 1127x736
+2025-08-29 10:34:50,846 - BertrandtGUI - DEBUG - Demo-Slide 6 geladen: Expertise und Vision
+2025-08-29 10:34:50,907 - BertrandtGUI - DEBUG - Text-Widget (Text) nach vorne gebracht
+2025-08-29 10:34:50,907 - BertrandtGUI - DEBUG - Text-Widget (Text) nach vorne gebracht
+2025-08-29 10:34:50,907 - BertrandtGUI - DEBUG - Text-Widget (Label) nach vorne gebracht
+2025-08-29 10:34:50,907 - BertrandtGUI - DEBUG - Text-Widget (Label) nach vorne gebracht
+2025-08-29 10:34:50,907 - BertrandtGUI - DEBUG - Creator Z-Order korrigiert - Content-Elemente sind jetzt über dem Hintergrund
+2025-08-29 10:34:50,991 - BertrandtGUI - DEBUG - Slide 6 gespeichert
+2025-08-29 10:34:50,991 - BertrandtGUI - INFO - Demo-Slide 6 mit 7 Elementen gespeichert
+2025-08-29 10:34:50,992 - BertrandtGUI - DEBUG - Titel als editierbares Widget auf Folie erstellt: violis Plattform...
+2025-08-29 10:34:50,993 - BertrandtGUI - DEBUG - Content als editierbares Widget auf Folie erstellt: 3 Zeilen
+2025-08-29 10:34:50,993 - BertrandtGUI - INFO - Bestehender Folien-Inhalt als editierbare Widgets direkt auf der Folie gerendert
+2025-08-29 10:34:50,994 - BertrandtGUI - DEBUG - Text-Widget (Text) nach vorne gebracht
+2025-08-29 10:34:50,995 - BertrandtGUI - DEBUG - Text-Widget (Text) nach vorne gebracht
+2025-08-29 10:34:50,995 - BertrandtGUI - DEBUG - Text-Widget (Label) nach vorne gebracht
+2025-08-29 10:34:50,995 - BertrandtGUI - DEBUG - Text-Widget (Label) nach vorne gebracht
+2025-08-29 10:34:50,995 - BertrandtGUI - DEBUG - Creator Z-Order korrigiert - Content-Elemente sind jetzt über dem Hintergrund
+2025-08-29 10:34:51,033 - BertrandtGUI - DEBUG - Canvas: 1127x736, Slide: 1920x1080, Scale: 0.545, Scaled: 1047x589, Offset: (40, 74)
+2025-08-29 10:34:51,033 - BertrandtGUI - DEBUG - Bestehende Elemente neu skaliert mit Faktor 0.545
+2025-08-29 10:34:51,033 - BertrandtGUI - DEBUG - Slide-Sichtbarkeit optimiert: 1127x736
+2025-08-29 10:34:51,033 - BertrandtGUI - DEBUG - Demo-Slide 7 geladen: violis Plattform
+2025-08-29 10:34:51,095 - BertrandtGUI - DEBUG - Text-Widget (Text) nach vorne gebracht
+2025-08-29 10:34:51,096 - BertrandtGUI - DEBUG - Text-Widget (Text) nach vorne gebracht
+2025-08-29 10:34:51,096 - BertrandtGUI - DEBUG - Text-Widget (Label) nach vorne gebracht
+2025-08-29 10:34:51,096 - BertrandtGUI - DEBUG - Text-Widget (Label) nach vorne gebracht
+2025-08-29 10:34:51,096 - BertrandtGUI - DEBUG - Creator Z-Order korrigiert - Content-Elemente sind jetzt über dem Hintergrund
+2025-08-29 10:34:51,199 - BertrandtGUI - DEBUG - Slide 7 gespeichert
+2025-08-29 10:34:51,199 - BertrandtGUI - INFO - Demo-Slide 7 mit 7 Elementen gespeichert
+2025-08-29 10:34:51,200 - BertrandtGUI - DEBUG - Titel als editierbares Widget auf Folie erstellt: Virtuelle Testplattform...
+2025-08-29 10:34:51,200 - BertrandtGUI - DEBUG - Content als editierbares Widget auf Folie erstellt: 3 Zeilen
+2025-08-29 10:34:51,201 - BertrandtGUI - INFO - Bestehender Folien-Inhalt als editierbare Widgets direkt auf der Folie gerendert
+2025-08-29 10:34:51,201 - BertrandtGUI - DEBUG - Text-Widget (Text) nach vorne gebracht
+2025-08-29 10:34:51,201 - BertrandtGUI - DEBUG - Text-Widget (Text) nach vorne gebracht
+2025-08-29 10:34:51,201 - BertrandtGUI - DEBUG - Text-Widget (Label) nach vorne gebracht
+2025-08-29 10:34:51,201 - BertrandtGUI - DEBUG - Text-Widget (Label) nach vorne gebracht
+2025-08-29 10:34:51,201 - BertrandtGUI - DEBUG - Creator Z-Order korrigiert - Content-Elemente sind jetzt über dem Hintergrund
+2025-08-29 10:34:51,237 - BertrandtGUI - DEBUG - Canvas: 1127x736, Slide: 1920x1080, Scale: 0.545, Scaled: 1047x589, Offset: (40, 74)
+2025-08-29 10:34:51,237 - BertrandtGUI - DEBUG - Bestehende Elemente neu skaliert mit Faktor 0.545
+2025-08-29 10:34:51,237 - BertrandtGUI - DEBUG - Slide-Sichtbarkeit optimiert: 1127x736
+2025-08-29 10:34:51,237 - BertrandtGUI - DEBUG - Demo-Slide 8 geladen: Virtuelle Testplattform
+2025-08-29 10:34:51,302 - BertrandtGUI - DEBUG - Text-Widget (Text) nach vorne gebracht
+2025-08-29 10:34:51,302 - BertrandtGUI - DEBUG - Text-Widget (Text) nach vorne gebracht
+2025-08-29 10:34:51,302 - BertrandtGUI - DEBUG - Text-Widget (Label) nach vorne gebracht
+2025-08-29 10:34:51,303 - BertrandtGUI - DEBUG - Text-Widget (Label) nach vorne gebracht
+2025-08-29 10:34:51,303 - BertrandtGUI - DEBUG - Creator Z-Order korrigiert - Content-Elemente sind jetzt über dem Hintergrund
+2025-08-29 10:34:52,111 - BertrandtGUI - DEBUG - Slide 8 gespeichert
+2025-08-29 10:34:52,112 - BertrandtGUI - INFO - Demo-Slide 8 mit 7 Elementen gespeichert
+2025-08-29 10:34:52,114 - BertrandtGUI - DEBUG - Creator: 7 Canvas-Elemente gerendert
+2025-08-29 10:34:52,114 - BertrandtGUI - DEBUG - Text-Widget (Text) nach vorne gebracht
+2025-08-29 10:34:52,114 - BertrandtGUI - DEBUG - Text-Widget (Text) nach vorne gebracht
+2025-08-29 10:34:52,114 - BertrandtGUI - DEBUG - Text-Widget (Label) nach vorne gebracht
+2025-08-29 10:34:52,114 - BertrandtGUI - DEBUG - Text-Widget (Label) nach vorne gebracht
+2025-08-29 10:34:52,114 - BertrandtGUI - DEBUG - Creator Z-Order korrigiert - Content-Elemente sind jetzt über dem Hintergrund
+2025-08-29 10:34:52,138 - BertrandtGUI - DEBUG - Canvas: 1127x736, Slide: 1920x1080, Scale: 0.545, Scaled: 1047x589, Offset: (40, 74)
+2025-08-29 10:34:52,138 - BertrandtGUI - DEBUG - Bestehende Elemente neu skaliert mit Faktor 0.545
+2025-08-29 10:34:52,138 - BertrandtGUI - DEBUG - Slide-Sichtbarkeit optimiert: 1127x736
+2025-08-29 10:34:52,138 - BertrandtGUI - DEBUG - Demo-Slide 7 geladen: violis Plattform
+2025-08-29 10:34:52,215 - BertrandtGUI - DEBUG - Text-Widget (Text) nach vorne gebracht
+2025-08-29 10:34:52,215 - BertrandtGUI - DEBUG - Text-Widget (Text) nach vorne gebracht
+2025-08-29 10:34:52,215 - BertrandtGUI - DEBUG - Text-Widget (Label) nach vorne gebracht
+2025-08-29 10:34:52,216 - BertrandtGUI - DEBUG - Text-Widget (Label) nach vorne gebracht
+2025-08-29 10:34:52,216 - BertrandtGUI - DEBUG - Creator Z-Order korrigiert - Content-Elemente sind jetzt über dem Hintergrund
+2025-08-29 10:34:52,352 - BertrandtGUI - DEBUG - Slide 7 gespeichert
+2025-08-29 10:34:52,352 - BertrandtGUI - INFO - Demo-Slide 7 mit 10 Elementen gespeichert
+2025-08-29 10:34:52,355 - BertrandtGUI - DEBUG - Creator: 7 Canvas-Elemente gerendert
+2025-08-29 10:34:52,356 - BertrandtGUI - DEBUG - Text-Widget (Text) nach vorne gebracht
+2025-08-29 10:34:52,356 - BertrandtGUI - DEBUG - Text-Widget (Text) nach vorne gebracht
+2025-08-29 10:34:52,356 - BertrandtGUI - DEBUG - Text-Widget (Label) nach vorne gebracht
+2025-08-29 10:34:52,356 - BertrandtGUI - DEBUG - Text-Widget (Label) nach vorne gebracht
+2025-08-29 10:34:52,356 - BertrandtGUI - DEBUG - Creator Z-Order korrigiert - Content-Elemente sind jetzt über dem Hintergrund
+2025-08-29 10:34:52,388 - BertrandtGUI - DEBUG - Canvas: 1127x736, Slide: 1920x1080, Scale: 0.545, Scaled: 1047x589, Offset: (40, 74)
+2025-08-29 10:34:52,388 - BertrandtGUI - DEBUG - Bestehende Elemente neu skaliert mit Faktor 0.545
+2025-08-29 10:34:52,388 - BertrandtGUI - DEBUG - Slide-Sichtbarkeit optimiert: 1127x736
+2025-08-29 10:34:52,388 - BertrandtGUI - DEBUG - Demo-Slide 6 geladen: Expertise und Vision
+2025-08-29 10:34:52,457 - BertrandtGUI - DEBUG - Text-Widget (Text) nach vorne gebracht
+2025-08-29 10:34:52,457 - BertrandtGUI - DEBUG - Text-Widget (Text) nach vorne gebracht
+2025-08-29 10:34:52,457 - BertrandtGUI - DEBUG - Text-Widget (Label) nach vorne gebracht
+2025-08-29 10:34:52,457 - BertrandtGUI - DEBUG - Text-Widget (Label) nach vorne gebracht
+2025-08-29 10:34:52,457 - BertrandtGUI - DEBUG - Creator Z-Order korrigiert - Content-Elemente sind jetzt über dem Hintergrund
+2025-08-29 10:44:42,203 - BertrandtGUI - DEBUG - Vollbild deaktiviert - bleibt auf Hauptmonitor
+2025-08-29 10:44:42,236 - BertrandtGUI - DEBUG - Canvas: 768x376, Slide: 1920x1080, Scale: 0.274, Scaled: 526x296, Offset: (121, 40)
+2025-08-29 10:44:42,237 - BertrandtGUI - DEBUG - Bestehende Elemente neu skaliert mit Faktor 0.274
+2025-08-29 10:44:44,093 - BertrandtGUI - INFO - 🧹 Cleanup wird durchgeführt...
+2025-08-29 10:44:44,093 - BertrandtGUI - INFO - 👋 Dynamic Messe Stand V4 beendet
+2025-08-29 10:44:45,730 - BertrandtGUI - DEBUG - Slide 9 geladen
+2025-08-29 10:44:45,731 - BertrandtGUI - DEBUG - Slide 8 geladen
+2025-08-29 10:44:45,731 - BertrandtGUI - DEBUG - Slide 2 geladen
+2025-08-29 10:44:45,731 - BertrandtGUI - DEBUG - Slide 4 geladen
+2025-08-29 10:44:45,731 - BertrandtGUI - DEBUG - Slide 5 geladen
+2025-08-29 10:44:45,731 - BertrandtGUI - DEBUG - Slide 6 geladen
+2025-08-29 10:44:45,731 - BertrandtGUI - DEBUG - Slide 3 geladen
+2025-08-29 10:44:45,732 - BertrandtGUI - DEBUG - Slide 7 geladen
+2025-08-29 10:44:45,732 - BertrandtGUI - DEBUG - Slide 1 geladen
+2025-08-29 10:44:45,732 - BertrandtGUI - DEBUG - Slide 10 geladen
+2025-08-29 10:44:45,732 - BertrandtGUI - INFO - 10 Slides geladen (davon 0 neu erstellt)
+2025-08-29 10:44:45,755 - BertrandtGUI - INFO - 🚀 Dynamic Messe Stand V4 wird gestartet...
+2025-08-29 10:44:45,755 - BertrandtGUI - INFO - Python Version: 3.12.3 (main, Jun 18 2025, 17:59:45) [GCC 13.3.0]
+2025-08-29 10:44:45,755 - BertrandtGUI - INFO - Arbeitsverzeichnis: /home/messe_pc/Dynamic_Messe_Stand_V4/Python_GUI
+2025-08-29 10:44:45,755 - BertrandtGUI - INFO - 🔌 Hardware-Setup wird gestartet...
+2025-08-29 10:44:45,756 - BertrandtGUI - ERROR - Fehler beim Verbinden mit ESP32-1: [Errno 2] could not open port /dev/ttyUSB0: [Errno 2] No such file or directory: '/dev/ttyUSB0'
+2025-08-29 10:44:45,756 - BertrandtGUI - ERROR - Fehler beim Verbinden mit ESP32-2: [Errno 2] could not open port /dev/ttyUSB1: [Errno 2] No such file or directory: '/dev/ttyUSB1'
+2025-08-29 10:44:45,756 - BertrandtGUI - ERROR - Fehler beim Verbinden mit ESP32-3: [Errno 2] could not open port /dev/ttyUSB2: [Errno 2] No such file or directory: '/dev/ttyUSB2'
+2025-08-29 10:44:45,756 - BertrandtGUI - ERROR - Fehler beim Verbinden mit Arduino GIGA: [Errno 2] could not open port /dev/ttyACM0: [Errno 2] No such file or directory: '/dev/ttyACM0'
+2025-08-29 10:44:45,756 - BertrandtGUI - INFO - esp32_1: ❌ Fehler
+2025-08-29 10:44:45,756 - BertrandtGUI - INFO - esp32_2: ❌ Fehler
+2025-08-29 10:44:45,756 - BertrandtGUI - INFO - esp32_3: ❌ Fehler
+2025-08-29 10:44:45,756 - BertrandtGUI - INFO - giga: ❌ Fehler
+2025-08-29 10:44:45,756 - BertrandtGUI - WARNING - ⚠️ Keine Hardware-Verbindungen erfolgreich - GUI startet trotzdem
+2025-08-29 10:44:45,756 - BertrandtGUI - INFO - 🖥️ GUI wird initialisiert...
+2025-08-29 10:44:45,756 - BertrandtGUI - INFO - 🚀 Starte Dynamic Messe Stand V4...
+2025-08-29 10:44:45,948 - BertrandtGUI - INFO - Primärer Monitor: 1920x1080 bei (0, 120)
+2025-08-29 10:44:45,948 - BertrandtGUI - INFO - Hauptmonitor erkannt: 1920x1080 bei (0, 120)
+2025-08-29 10:44:45,949 - BertrandtGUI - DEBUG - Responsive Design: 1920x1080, Scale: 1.00
+2025-08-29 10:44:46,007 - BertrandtGUI - INFO - ✅ Bertrandt Layout-Struktur erstellt
+2025-08-29 10:44:46,039 - BertrandtGUI - DEBUG - Slide 1 mit Text direkt auf der Folie gerendert
+2025-08-29 10:44:46,039 - BertrandtGUI - DEBUG - Z-Order korrigiert - Content-Elemente sind jetzt über dem Hintergrund
+2025-08-29 10:44:46,070 - BertrandtGUI - DEBUG - Home-Tab angezeigt
+2025-08-29 10:44:46,070 - BertrandtGUI - DEBUG - Tab gewechselt: home
+2025-08-29 10:44:46,070 - BertrandtGUI - INFO - ✅ Dynamic Messe Stand V4 erfolgreich initialisiert!
+2025-08-29 10:44:46,070 - BertrandtGUI - INFO - ✅ Dynamic Messe Stand V4 erfolgreich gestartet!
+2025-08-29 10:44:46,070 - BertrandtGUI - INFO - 💡 Drücke F11 für Vollbild, ESC zum Verlassen
+2025-08-29 10:44:46,070 - BertrandtGUI - INFO - GUI-Hauptschleife gestartet
+2025-08-29 10:44:46,079 - BertrandtGUI - INFO - Fenster auf Hauptmonitor zurück bewegt: (0, 120)
+2025-08-29 10:44:47,511 - BertrandtGUI - DEBUG - Home-Tab versteckt
+2025-08-29 10:44:47,512 - BertrandtGUI - DEBUG - Demo-Tab angezeigt
+2025-08-29 10:44:47,512 - BertrandtGUI - DEBUG - Tab gewechselt: demo
+2025-08-29 10:44:49,384 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_2
+2025-08-29 10:44:49,395 - BertrandtGUI - DEBUG - Slide 2 mit Text direkt auf der Folie gerendert
+2025-08-29 10:44:49,395 - BertrandtGUI - DEBUG - Z-Order korrigiert - Content-Elemente sind jetzt über dem Hintergrund
+2025-08-29 10:44:50,391 - BertrandtGUI - DEBUG - Demo-Tab versteckt
+2025-08-29 10:44:50,402 - BertrandtGUI - DEBUG - Titel als editierbares Widget auf Folie erstellt: BumbleB - Das automatisierte S...
+2025-08-29 10:44:50,406 - BertrandtGUI - DEBUG - Content als editierbares Widget auf Folie erstellt: 1 Zeilen
+2025-08-29 10:44:50,409 - BertrandtGUI - INFO - Bestehender Folien-Inhalt als editierbare Widgets direkt auf der Folie gerendert
+2025-08-29 10:44:50,409 - BertrandtGUI - DEBUG - Text-Widget (Text) nach vorne gebracht
+2025-08-29 10:44:50,410 - BertrandtGUI - DEBUG - Text-Widget (Text) nach vorne gebracht
+2025-08-29 10:44:50,410 - BertrandtGUI - DEBUG - Text-Widget (Label) nach vorne gebracht
+2025-08-29 10:44:50,410 - BertrandtGUI - DEBUG - Text-Widget (Label) nach vorne gebracht
+2025-08-29 10:44:50,410 - BertrandtGUI - DEBUG - Creator Z-Order korrigiert - Content-Elemente sind jetzt über dem Hintergrund
+2025-08-29 10:44:50,520 - BertrandtGUI - DEBUG - Canvas: 1127x699, Slide: 1920x1080, Scale: 0.545, Scaled: 1047x589, Offset: (40, 55)
+2025-08-29 10:44:50,520 - BertrandtGUI - DEBUG - Bestehende Elemente neu skaliert mit Faktor 0.545
+2025-08-29 10:44:50,552 - BertrandtGUI - DEBUG - Canvas: 1127x736, Slide: 1920x1080, Scale: 0.545, Scaled: 1047x589, Offset: (40, 74)
+2025-08-29 10:44:50,552 - BertrandtGUI - DEBUG - Bestehende Elemente neu skaliert mit Faktor 0.545
+2025-08-29 10:44:50,669 - BertrandtGUI - DEBUG - Canvas: 1127x736, Slide: 1920x1080, Scale: 0.545, Scaled: 1047x589, Offset: (40, 74)
+2025-08-29 10:44:50,670 - BertrandtGUI - DEBUG - Bestehende Elemente neu skaliert mit Faktor 0.545
+2025-08-29 10:44:50,670 - BertrandtGUI - DEBUG - Slide-Sichtbarkeit optimiert: 1127x736
+2025-08-29 10:44:50,670 - BertrandtGUI - DEBUG - Demo-Slide 1 geladen: BumbleB - Das automatisierte Shuttle
+2025-08-29 10:44:50,670 - BertrandtGUI - DEBUG - Tab gewechselt: creator
+2025-08-29 10:44:50,671 - BertrandtGUI - DEBUG - Text-Widget (Text) nach vorne gebracht
+2025-08-29 10:44:50,671 - BertrandtGUI - DEBUG - Text-Widget (Text) nach vorne gebracht
+2025-08-29 10:44:50,671 - BertrandtGUI - DEBUG - Text-Widget (Label) nach vorne gebracht
+2025-08-29 10:44:50,671 - BertrandtGUI - DEBUG - Text-Widget (Label) nach vorne gebracht
+2025-08-29 10:44:50,671 - BertrandtGUI - DEBUG - Creator Z-Order korrigiert - Content-Elemente sind jetzt über dem Hintergrund
+2025-08-29 10:44:50,871 - BertrandtGUI - DEBUG - Canvas: 1127x736, Slide: 1920x1080, Scale: 0.545, Scaled: 1047x589, Offset: (40, 74)
+2025-08-29 10:44:50,872 - BertrandtGUI - DEBUG - Bestehende Elemente neu skaliert mit Faktor 0.545
+2025-08-29 10:44:50,872 - BertrandtGUI - DEBUG - Slide-Sichtbarkeit optimiert: 1127x736
+2025-08-29 10:44:52,919 - BertrandtGUI - DEBUG - Slide 1 gespeichert
+2025-08-29 10:44:52,919 - BertrandtGUI - INFO - Demo-Slide 1 mit 7 Elementen gespeichert
+2025-08-29 10:44:52,922 - BertrandtGUI - DEBUG - Titel als editierbares Widget auf Folie erstellt: BumbleB - Wie die Hummel...
+2025-08-29 10:44:52,923 - BertrandtGUI - DEBUG - Content als editierbares Widget auf Folie erstellt: 1 Zeilen
+2025-08-29 10:44:52,923 - BertrandtGUI - INFO - Bestehender Folien-Inhalt als editierbare Widgets direkt auf der Folie gerendert
+2025-08-29 10:44:52,924 - BertrandtGUI - DEBUG - Text-Widget (Text) nach vorne gebracht
+2025-08-29 10:44:52,924 - BertrandtGUI - DEBUG - Text-Widget (Text) nach vorne gebracht
+2025-08-29 10:44:52,924 - BertrandtGUI - DEBUG - Text-Widget (Label) nach vorne gebracht
+2025-08-29 10:44:52,924 - BertrandtGUI - DEBUG - Text-Widget (Label) nach vorne gebracht
+2025-08-29 10:44:52,924 - BertrandtGUI - DEBUG - Creator Z-Order korrigiert - Content-Elemente sind jetzt über dem Hintergrund
+2025-08-29 10:44:52,962 - BertrandtGUI - DEBUG - Canvas: 1127x736, Slide: 1920x1080, Scale: 0.545, Scaled: 1047x589, Offset: (40, 74)
+2025-08-29 10:44:52,962 - BertrandtGUI - DEBUG - Bestehende Elemente neu skaliert mit Faktor 0.545
+2025-08-29 10:44:52,962 - BertrandtGUI - DEBUG - Slide-Sichtbarkeit optimiert: 1127x736
+2025-08-29 10:44:52,962 - BertrandtGUI - DEBUG - Demo-Slide 2 geladen: BumbleB - Wie die Hummel
+2025-08-29 10:44:53,025 - BertrandtGUI - DEBUG - Text-Widget (Text) nach vorne gebracht
+2025-08-29 10:44:53,025 - BertrandtGUI - DEBUG - Text-Widget (Text) nach vorne gebracht
+2025-08-29 10:44:53,025 - BertrandtGUI - DEBUG - Text-Widget (Label) nach vorne gebracht
+2025-08-29 10:44:53,025 - BertrandtGUI - DEBUG - Text-Widget (Label) nach vorne gebracht
+2025-08-29 10:44:53,025 - BertrandtGUI - DEBUG - Creator Z-Order korrigiert - Content-Elemente sind jetzt über dem Hintergrund
+2025-08-29 10:44:53,540 - BertrandtGUI - DEBUG - Slide 2 gespeichert
+2025-08-29 10:44:53,540 - BertrandtGUI - INFO - Demo-Slide 2 mit 7 Elementen gespeichert
+2025-08-29 10:44:53,541 - BertrandtGUI - DEBUG - Titel als editierbares Widget auf Folie erstellt: Einsatzgebiete und Vorteile...
+2025-08-29 10:44:53,542 - BertrandtGUI - DEBUG - Content als editierbares Widget auf Folie erstellt: 9 Zeilen
+2025-08-29 10:44:53,542 - BertrandtGUI - INFO - Bestehender Folien-Inhalt als editierbare Widgets direkt auf der Folie gerendert
+2025-08-29 10:44:53,542 - BertrandtGUI - DEBUG - Text-Widget (Text) nach vorne gebracht
+2025-08-29 10:44:53,542 - BertrandtGUI - DEBUG - Text-Widget (Text) nach vorne gebracht
+2025-08-29 10:44:53,542 - BertrandtGUI - DEBUG - Text-Widget (Label) nach vorne gebracht
+2025-08-29 10:44:53,542 - BertrandtGUI - DEBUG - Text-Widget (Label) nach vorne gebracht
+2025-08-29 10:44:53,542 - BertrandtGUI - DEBUG - Creator Z-Order korrigiert - Content-Elemente sind jetzt über dem Hintergrund
+2025-08-29 10:44:53,585 - BertrandtGUI - DEBUG - Canvas: 1127x736, Slide: 1920x1080, Scale: 0.545, Scaled: 1047x589, Offset: (40, 74)
+2025-08-29 10:44:53,586 - BertrandtGUI - DEBUG - Bestehende Elemente neu skaliert mit Faktor 0.545
+2025-08-29 10:44:53,586 - BertrandtGUI - DEBUG - Slide-Sichtbarkeit optimiert: 1127x736
+2025-08-29 10:44:53,586 - BertrandtGUI - DEBUG - Demo-Slide 3 geladen: Einsatzgebiete und Vorteile
+2025-08-29 10:44:53,643 - BertrandtGUI - DEBUG - Text-Widget (Text) nach vorne gebracht
+2025-08-29 10:44:53,644 - BertrandtGUI - DEBUG - Text-Widget (Text) nach vorne gebracht
+2025-08-29 10:44:53,644 - BertrandtGUI - DEBUG - Text-Widget (Label) nach vorne gebracht
+2025-08-29 10:44:53,644 - BertrandtGUI - DEBUG - Text-Widget (Label) nach vorne gebracht
+2025-08-29 10:44:53,644 - BertrandtGUI - DEBUG - Creator Z-Order korrigiert - Content-Elemente sind jetzt über dem Hintergrund
+2025-08-29 10:44:54,067 - BertrandtGUI - DEBUG - Slide 3 gespeichert
+2025-08-29 10:44:54,068 - BertrandtGUI - INFO - Demo-Slide 3 mit 7 Elementen gespeichert
+2025-08-29 10:44:54,070 - BertrandtGUI - DEBUG - Titel als editierbares Widget auf Folie erstellt: Sicherheitssysteme...
+2025-08-29 10:44:54,071 - BertrandtGUI - DEBUG - Content als editierbares Widget auf Folie erstellt: 9 Zeilen
+2025-08-29 10:44:54,071 - BertrandtGUI - INFO - Bestehender Folien-Inhalt als editierbare Widgets direkt auf der Folie gerendert
+2025-08-29 10:44:54,072 - BertrandtGUI - DEBUG - Text-Widget (Text) nach vorne gebracht
+2025-08-29 10:44:54,072 - BertrandtGUI - DEBUG - Text-Widget (Text) nach vorne gebracht
+2025-08-29 10:44:54,072 - BertrandtGUI - DEBUG - Text-Widget (Label) nach vorne gebracht
+2025-08-29 10:44:54,072 - BertrandtGUI - DEBUG - Text-Widget (Label) nach vorne gebracht
+2025-08-29 10:44:54,072 - BertrandtGUI - DEBUG - Creator Z-Order korrigiert - Content-Elemente sind jetzt über dem Hintergrund
+2025-08-29 10:44:54,105 - BertrandtGUI - DEBUG - Canvas: 1127x736, Slide: 1920x1080, Scale: 0.545, Scaled: 1047x589, Offset: (40, 74)
+2025-08-29 10:44:54,106 - BertrandtGUI - DEBUG - Bestehende Elemente neu skaliert mit Faktor 0.545
+2025-08-29 10:44:54,106 - BertrandtGUI - DEBUG - Slide-Sichtbarkeit optimiert: 1127x736
+2025-08-29 10:44:54,106 - BertrandtGUI - DEBUG - Demo-Slide 4 geladen: Sicherheitssysteme
+2025-08-29 10:44:54,173 - BertrandtGUI - DEBUG - Text-Widget (Text) nach vorne gebracht
+2025-08-29 10:44:54,173 - BertrandtGUI - DEBUG - Text-Widget (Text) nach vorne gebracht
+2025-08-29 10:44:54,173 - BertrandtGUI - DEBUG - Text-Widget (Label) nach vorne gebracht
+2025-08-29 10:44:54,173 - BertrandtGUI - DEBUG - Text-Widget (Label) nach vorne gebracht
+2025-08-29 10:44:54,173 - BertrandtGUI - DEBUG - Creator Z-Order korrigiert - Content-Elemente sind jetzt über dem Hintergrund
+2025-08-29 10:44:54,388 - BertrandtGUI - DEBUG - Slide 4 gespeichert
+2025-08-29 10:44:54,388 - BertrandtGUI - INFO - Demo-Slide 4 mit 7 Elementen gespeichert
+2025-08-29 10:44:54,390 - BertrandtGUI - DEBUG - Titel als editierbares Widget auf Folie erstellt: Nachhaltigkeit & Umwelt...
+2025-08-29 10:44:54,391 - BertrandtGUI - DEBUG - Content als editierbares Widget auf Folie erstellt: 9 Zeilen
+2025-08-29 10:44:54,392 - BertrandtGUI - INFO - Bestehender Folien-Inhalt als editierbare Widgets direkt auf der Folie gerendert
+2025-08-29 10:44:54,392 - BertrandtGUI - DEBUG - Text-Widget (Text) nach vorne gebracht
+2025-08-29 10:44:54,392 - BertrandtGUI - DEBUG - Text-Widget (Text) nach vorne gebracht
+2025-08-29 10:44:54,392 - BertrandtGUI - DEBUG - Text-Widget (Label) nach vorne gebracht
+2025-08-29 10:44:54,392 - BertrandtGUI - DEBUG - Text-Widget (Label) nach vorne gebracht
+2025-08-29 10:44:54,393 - BertrandtGUI - DEBUG - Creator Z-Order korrigiert - Content-Elemente sind jetzt über dem Hintergrund
+2025-08-29 10:44:54,431 - BertrandtGUI - DEBUG - Canvas: 1127x736, Slide: 1920x1080, Scale: 0.545, Scaled: 1047x589, Offset: (40, 74)
+2025-08-29 10:44:54,432 - BertrandtGUI - DEBUG - Bestehende Elemente neu skaliert mit Faktor 0.545
+2025-08-29 10:44:54,432 - BertrandtGUI - DEBUG - Slide-Sichtbarkeit optimiert: 1127x736
+2025-08-29 10:44:54,432 - BertrandtGUI - DEBUG - Demo-Slide 5 geladen: Nachhaltigkeit & Umwelt
+2025-08-29 10:44:54,493 - BertrandtGUI - DEBUG - Text-Widget (Text) nach vorne gebracht
+2025-08-29 10:44:54,494 - BertrandtGUI - DEBUG - Text-Widget (Text) nach vorne gebracht
+2025-08-29 10:44:54,494 - BertrandtGUI - DEBUG - Text-Widget (Label) nach vorne gebracht
+2025-08-29 10:44:54,494 - BertrandtGUI - DEBUG - Text-Widget (Label) nach vorne gebracht
+2025-08-29 10:44:54,494 - BertrandtGUI - DEBUG - Creator Z-Order korrigiert - Content-Elemente sind jetzt über dem Hintergrund
+2025-08-29 10:44:56,349 - BertrandtGUI - INFO - Element 'title_text' hinzugefügt bei (1434.0401146131805, 257.59312320916905)
+2025-08-29 10:45:02,696 - BertrandtGUI - INFO - Anwendung durch Benutzer unterbrochen
+2025-08-29 10:45:02,697 - BertrandtGUI - INFO - Anwendung wird beendet...
+2025-08-29 10:45:02,697 - BertrandtGUI - INFO - 🧹 Cleanup wird durchgeführt...
+2025-08-29 10:45:02,697 - BertrandtGUI - INFO - 👋 Dynamic Messe Stand V4 beendet
+2025-08-29 10:45:11,666 - BertrandtGUI - DEBUG - Slide 9 geladen
+2025-08-29 10:45:11,666 - BertrandtGUI - DEBUG - Slide 8 geladen
+2025-08-29 10:45:11,666 - BertrandtGUI - DEBUG - Slide 2 geladen
+2025-08-29 10:45:11,666 - BertrandtGUI - DEBUG - Slide 4 geladen
+2025-08-29 10:45:11,666 - BertrandtGUI - DEBUG - Slide 5 geladen
+2025-08-29 10:45:11,666 - BertrandtGUI - DEBUG - Slide 6 geladen
+2025-08-29 10:45:11,666 - BertrandtGUI - DEBUG - Slide 3 geladen
+2025-08-29 10:45:11,667 - BertrandtGUI - DEBUG - Slide 7 geladen
+2025-08-29 10:45:11,667 - BertrandtGUI - DEBUG - Slide 1 geladen
+2025-08-29 10:45:11,667 - BertrandtGUI - DEBUG - Slide 10 geladen
+2025-08-29 10:45:11,667 - BertrandtGUI - INFO - 10 Slides geladen (davon 0 neu erstellt)
+2025-08-29 10:45:11,672 - BertrandtGUI - INFO - 🚀 Dynamic Messe Stand V4 wird gestartet...
+2025-08-29 10:45:11,672 - BertrandtGUI - INFO - Python Version: 3.12.3 (main, Jun 18 2025, 17:59:45) [GCC 13.3.0]
+2025-08-29 10:45:11,672 - BertrandtGUI - INFO - Arbeitsverzeichnis: /home/messe_pc/Dynamic_Messe_Stand_V4/Python_GUI
+2025-08-29 10:45:11,672 - BertrandtGUI - INFO - 🔌 Hardware-Setup wird gestartet...
+2025-08-29 10:45:11,672 - BertrandtGUI - ERROR - Fehler beim Verbinden mit ESP32-1: [Errno 2] could not open port /dev/ttyUSB0: [Errno 2] No such file or directory: '/dev/ttyUSB0'
+2025-08-29 10:45:11,672 - BertrandtGUI - ERROR - Fehler beim Verbinden mit ESP32-2: [Errno 2] could not open port /dev/ttyUSB1: [Errno 2] No such file or directory: '/dev/ttyUSB1'
+2025-08-29 10:45:11,672 - BertrandtGUI - ERROR - Fehler beim Verbinden mit ESP32-3: [Errno 2] could not open port /dev/ttyUSB2: [Errno 2] No such file or directory: '/dev/ttyUSB2'
+2025-08-29 10:45:11,673 - BertrandtGUI - ERROR - Fehler beim Verbinden mit Arduino GIGA: [Errno 2] could not open port /dev/ttyACM0: [Errno 2] No such file or directory: '/dev/ttyACM0'
+2025-08-29 10:45:11,673 - BertrandtGUI - INFO - esp32_1: ❌ Fehler
+2025-08-29 10:45:11,673 - BertrandtGUI - INFO - esp32_2: ❌ Fehler
+2025-08-29 10:45:11,673 - BertrandtGUI - INFO - esp32_3: ❌ Fehler
+2025-08-29 10:45:11,673 - BertrandtGUI - INFO - giga: ❌ Fehler
+2025-08-29 10:45:11,673 - BertrandtGUI - WARNING - ⚠️ Keine Hardware-Verbindungen erfolgreich - GUI startet trotzdem
+2025-08-29 10:45:11,673 - BertrandtGUI - INFO - 🖥️ GUI wird initialisiert...
+2025-08-29 10:45:11,673 - BertrandtGUI - INFO - 🚀 Starte Dynamic Messe Stand V4...
+2025-08-29 10:45:11,881 - BertrandtGUI - INFO - Primärer Monitor: 1920x1080 bei (0, 120)
+2025-08-29 10:45:11,881 - BertrandtGUI - INFO - Hauptmonitor erkannt: 1920x1080 bei (0, 120)
+2025-08-29 10:45:11,884 - BertrandtGUI - DEBUG - Responsive Design: 1920x1080, Scale: 1.00
+2025-08-29 10:45:11,960 - BertrandtGUI - INFO - ✅ Bertrandt Layout-Struktur erstellt
+2025-08-29 10:45:11,987 - BertrandtGUI - DEBUG - Slide 1 mit Text direkt auf der Folie gerendert
+2025-08-29 10:45:11,987 - BertrandtGUI - DEBUG - Z-Order korrigiert - Content-Elemente sind jetzt über dem Hintergrund
+2025-08-29 10:45:12,022 - BertrandtGUI - DEBUG - Home-Tab angezeigt
+2025-08-29 10:45:12,022 - BertrandtGUI - DEBUG - Tab gewechselt: home
+2025-08-29 10:45:12,023 - BertrandtGUI - INFO - ✅ Dynamic Messe Stand V4 erfolgreich initialisiert!
+2025-08-29 10:45:12,023 - BertrandtGUI - INFO - ✅ Dynamic Messe Stand V4 erfolgreich gestartet!
+2025-08-29 10:45:12,023 - BertrandtGUI - INFO - 💡 Drücke F11 für Vollbild, ESC zum Verlassen
+2025-08-29 10:45:12,023 - BertrandtGUI - INFO - GUI-Hauptschleife gestartet
+2025-08-29 10:45:12,038 - BertrandtGUI - INFO - Fenster auf Hauptmonitor zurück bewegt: (0, 120)
+2025-08-29 10:45:28,640 - BertrandtGUI - DEBUG - Home-Tab versteckt
+2025-08-29 10:45:28,640 - BertrandtGUI - DEBUG - Demo-Tab angezeigt
+2025-08-29 10:45:28,641 - BertrandtGUI - DEBUG - Tab gewechselt: demo
+2025-08-29 10:45:30,040 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_2
+2025-08-29 10:45:30,049 - BertrandtGUI - DEBUG - Slide 2 mit Text direkt auf der Folie gerendert
+2025-08-29 10:45:30,049 - BertrandtGUI - DEBUG - Z-Order korrigiert - Content-Elemente sind jetzt über dem Hintergrund
+2025-08-29 10:45:31,056 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_3
+2025-08-29 10:45:31,072 - BertrandtGUI - DEBUG - Slide 3 mit Text direkt auf der Folie gerendert
+2025-08-29 10:45:31,072 - BertrandtGUI - DEBUG - Z-Order korrigiert - Content-Elemente sind jetzt über dem Hintergrund
+2025-08-29 10:45:31,656 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_4
+2025-08-29 10:45:31,671 - BertrandtGUI - DEBUG - Slide 4 mit Text direkt auf der Folie gerendert
+2025-08-29 10:45:31,672 - BertrandtGUI - DEBUG - Z-Order korrigiert - Content-Elemente sind jetzt über dem Hintergrund
+2025-08-29 10:45:32,072 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_5
+2025-08-29 10:45:32,086 - BertrandtGUI - DEBUG - Slide 5 mit Text direkt auf der Folie gerendert
+2025-08-29 10:45:32,086 - BertrandtGUI - DEBUG - Z-Order korrigiert - Content-Elemente sind jetzt über dem Hintergrund
+2025-08-29 10:45:33,352 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_4
+2025-08-29 10:45:33,360 - BertrandtGUI - DEBUG - Slide 4 mit Text direkt auf der Folie gerendert
+2025-08-29 10:45:33,360 - BertrandtGUI - DEBUG - Z-Order korrigiert - Content-Elemente sind jetzt über dem Hintergrund
+2025-08-29 10:45:33,968 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_3
+2025-08-29 10:45:33,980 - BertrandtGUI - DEBUG - Slide 3 mit Text direkt auf der Folie gerendert
+2025-08-29 10:45:33,980 - BertrandtGUI - DEBUG - Z-Order korrigiert - Content-Elemente sind jetzt über dem Hintergrund
+2025-08-29 10:45:34,520 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_2
+2025-08-29 10:45:34,534 - BertrandtGUI - DEBUG - Slide 2 mit Text direkt auf der Folie gerendert
+2025-08-29 10:45:34,534 - BertrandtGUI - DEBUG - Z-Order korrigiert - Content-Elemente sind jetzt über dem Hintergrund
+2025-08-29 10:45:35,112 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_1
+2025-08-29 10:45:35,121 - BertrandtGUI - DEBUG - Slide 1 mit Text direkt auf der Folie gerendert
+2025-08-29 10:45:35,121 - BertrandtGUI - DEBUG - Z-Order korrigiert - Content-Elemente sind jetzt über dem Hintergrund
+2025-08-29 10:45:37,064 - BertrandtGUI - DEBUG - Demo-Tab versteckt
+2025-08-29 10:45:37,088 - BertrandtGUI - DEBUG - Titel als editierbares Widget auf Folie erstellt: BumbleB - Das automatisierte S...
+2025-08-29 10:45:37,093 - BertrandtGUI - DEBUG - Content als editierbares Widget auf Folie erstellt: 1 Zeilen
+2025-08-29 10:45:37,097 - BertrandtGUI - INFO - Bestehender Folien-Inhalt als editierbare Widgets direkt auf der Folie gerendert
+2025-08-29 10:45:37,098 - BertrandtGUI - DEBUG - Text-Widget (Text) nach vorne gebracht
+2025-08-29 10:45:37,098 - BertrandtGUI - DEBUG - Text-Widget (Text) nach vorne gebracht
+2025-08-29 10:45:37,098 - BertrandtGUI - DEBUG - Text-Widget (Label) nach vorne gebracht
+2025-08-29 10:45:37,098 - BertrandtGUI - DEBUG - Text-Widget (Label) nach vorne gebracht
+2025-08-29 10:45:37,098 - BertrandtGUI - DEBUG - Creator Z-Order korrigiert - Content-Elemente sind jetzt über dem Hintergrund
+2025-08-29 10:45:37,302 - BertrandtGUI - DEBUG - Canvas: 1127x699, Slide: 1920x1080, Scale: 0.545, Scaled: 1047x589, Offset: (40, 55)
+2025-08-29 10:45:37,302 - BertrandtGUI - DEBUG - Bestehende Elemente neu skaliert mit Faktor 0.545
+2025-08-29 10:45:37,370 - BertrandtGUI - DEBUG - Canvas: 1127x736, Slide: 1920x1080, Scale: 0.545, Scaled: 1047x589, Offset: (40, 74)
+2025-08-29 10:45:37,370 - BertrandtGUI - DEBUG - Bestehende Elemente neu skaliert mit Faktor 0.545
+2025-08-29 10:45:37,526 - BertrandtGUI - DEBUG - Canvas: 1127x736, Slide: 1920x1080, Scale: 0.545, Scaled: 1047x589, Offset: (40, 74)
+2025-08-29 10:45:37,526 - BertrandtGUI - DEBUG - Bestehende Elemente neu skaliert mit Faktor 0.545
+2025-08-29 10:45:37,526 - BertrandtGUI - DEBUG - Slide-Sichtbarkeit optimiert: 1127x736
+2025-08-29 10:45:37,526 - BertrandtGUI - DEBUG - Demo-Slide 1 geladen: BumbleB - Das automatisierte Shuttle
+2025-08-29 10:45:37,526 - BertrandtGUI - DEBUG - Tab gewechselt: creator
+2025-08-29 10:45:37,528 - BertrandtGUI - DEBUG - Text-Widget (Text) nach vorne gebracht
+2025-08-29 10:45:37,528 - BertrandtGUI - DEBUG - Text-Widget (Text) nach vorne gebracht
+2025-08-29 10:45:37,528 - BertrandtGUI - DEBUG - Text-Widget (Label) nach vorne gebracht
+2025-08-29 10:45:37,528 - BertrandtGUI - DEBUG - Text-Widget (Label) nach vorne gebracht
+2025-08-29 10:45:37,528 - BertrandtGUI - DEBUG - Creator Z-Order korrigiert - Content-Elemente sind jetzt über dem Hintergrund
+2025-08-29 10:45:37,727 - BertrandtGUI - DEBUG - Canvas: 1127x736, Slide: 1920x1080, Scale: 0.545, Scaled: 1047x589, Offset: (40, 74)
+2025-08-29 10:45:37,728 - BertrandtGUI - DEBUG - Bestehende Elemente neu skaliert mit Faktor 0.545
+2025-08-29 10:45:37,728 - BertrandtGUI - DEBUG - Slide-Sichtbarkeit optimiert: 1127x736
+2025-08-29 10:45:40,173 - BertrandtGUI - DEBUG - Slide 1 gespeichert
+2025-08-29 10:45:40,173 - BertrandtGUI - INFO - Demo-Slide 1 mit 7 Elementen gespeichert
+2025-08-29 10:45:40,176 - BertrandtGUI - DEBUG - Titel als editierbares Widget auf Folie erstellt: BumbleB - Wie die Hummel...
+2025-08-29 10:45:40,177 - BertrandtGUI - DEBUG - Content als editierbares Widget auf Folie erstellt: 1 Zeilen
+2025-08-29 10:45:40,178 - BertrandtGUI - INFO - Bestehender Folien-Inhalt als editierbare Widgets direkt auf der Folie gerendert
+2025-08-29 10:45:40,178 - BertrandtGUI - DEBUG - Text-Widget (Text) nach vorne gebracht
+2025-08-29 10:45:40,178 - BertrandtGUI - DEBUG - Text-Widget (Text) nach vorne gebracht
+2025-08-29 10:45:40,178 - BertrandtGUI - DEBUG - Text-Widget (Label) nach vorne gebracht
+2025-08-29 10:45:40,178 - BertrandtGUI - DEBUG - Text-Widget (Label) nach vorne gebracht
+2025-08-29 10:45:40,178 - BertrandtGUI - DEBUG - Creator Z-Order korrigiert - Content-Elemente sind jetzt über dem Hintergrund
+2025-08-29 10:45:40,232 - BertrandtGUI - DEBUG - Canvas: 1127x736, Slide: 1920x1080, Scale: 0.545, Scaled: 1047x589, Offset: (40, 74)
+2025-08-29 10:45:40,232 - BertrandtGUI - DEBUG - Bestehende Elemente neu skaliert mit Faktor 0.545
+2025-08-29 10:45:40,232 - BertrandtGUI - DEBUG - Slide-Sichtbarkeit optimiert: 1127x736
+2025-08-29 10:45:40,232 - BertrandtGUI - DEBUG - Demo-Slide 2 geladen: BumbleB - Wie die Hummel
+2025-08-29 10:45:40,280 - BertrandtGUI - DEBUG - Text-Widget (Text) nach vorne gebracht
+2025-08-29 10:45:40,280 - BertrandtGUI - DEBUG - Text-Widget (Text) nach vorne gebracht
+2025-08-29 10:45:40,280 - BertrandtGUI - DEBUG - Text-Widget (Label) nach vorne gebracht
+2025-08-29 10:45:40,280 - BertrandtGUI - DEBUG - Text-Widget (Label) nach vorne gebracht
+2025-08-29 10:45:40,280 - BertrandtGUI - DEBUG - Creator Z-Order korrigiert - Content-Elemente sind jetzt über dem Hintergrund
+2025-08-29 10:45:40,804 - BertrandtGUI - DEBUG - Slide 2 gespeichert
+2025-08-29 10:45:40,804 - BertrandtGUI - INFO - Demo-Slide 2 mit 7 Elementen gespeichert
+2025-08-29 10:45:40,806 - BertrandtGUI - DEBUG - Titel als editierbares Widget auf Folie erstellt: Einsatzgebiete und Vorteile...
+2025-08-29 10:45:40,807 - BertrandtGUI - DEBUG - Content als editierbares Widget auf Folie erstellt: 9 Zeilen
+2025-08-29 10:45:40,808 - BertrandtGUI - INFO - Bestehender Folien-Inhalt als editierbare Widgets direkt auf der Folie gerendert
+2025-08-29 10:45:40,808 - BertrandtGUI - DEBUG - Text-Widget (Text) nach vorne gebracht
+2025-08-29 10:45:40,808 - BertrandtGUI - DEBUG - Text-Widget (Text) nach vorne gebracht
+2025-08-29 10:45:40,808 - BertrandtGUI - DEBUG - Text-Widget (Label) nach vorne gebracht
+2025-08-29 10:45:40,808 - BertrandtGUI - DEBUG - Text-Widget (Label) nach vorne gebracht
+2025-08-29 10:45:40,808 - BertrandtGUI - DEBUG - Creator Z-Order korrigiert - Content-Elemente sind jetzt über dem Hintergrund
+2025-08-29 10:45:40,862 - BertrandtGUI - DEBUG - Canvas: 1127x736, Slide: 1920x1080, Scale: 0.545, Scaled: 1047x589, Offset: (40, 74)
+2025-08-29 10:45:40,863 - BertrandtGUI - DEBUG - Bestehende Elemente neu skaliert mit Faktor 0.545
+2025-08-29 10:45:40,863 - BertrandtGUI - DEBUG - Slide-Sichtbarkeit optimiert: 1127x736
+2025-08-29 10:45:40,863 - BertrandtGUI - DEBUG - Demo-Slide 3 geladen: Einsatzgebiete und Vorteile
+2025-08-29 10:45:40,909 - BertrandtGUI - DEBUG - Text-Widget (Text) nach vorne gebracht
+2025-08-29 10:45:40,909 - BertrandtGUI - DEBUG - Text-Widget (Text) nach vorne gebracht
+2025-08-29 10:45:40,909 - BertrandtGUI - DEBUG - Text-Widget (Label) nach vorne gebracht
+2025-08-29 10:45:40,909 - BertrandtGUI - DEBUG - Text-Widget (Label) nach vorne gebracht
+2025-08-29 10:45:40,909 - BertrandtGUI - DEBUG - Creator Z-Order korrigiert - Content-Elemente sind jetzt über dem Hintergrund
+2025-08-29 10:45:43,770 - BertrandtGUI - INFO - Element 'text_block' hinzugefügt bei (1237.8223495702007, 470.31518624641836)
+2025-08-29 10:45:48,408 - BertrandtGUI - INFO - Element 'icon_rocket' hinzugefügt bei (1325.845272206304, 409.7994269340974)
+2025-08-29 10:45:55,494 - BertrandtGUI - INFO - Bertrandt Logo (yellow) erfolgreich geladen: assets/Bertrandt_logo_gelb.png
+2025-08-29 10:45:55,496 - BertrandtGUI - INFO - Element 'logo_yellow' hinzugefügt bei (306.24641833810887, 59.541547277936964)
+2025-08-29 10:45:58,323 - BertrandtGUI - INFO - Bertrandt Logo (black) erfolgreich geladen: assets/Bertrandt_logo_schwarz.png
+2025-08-29 10:45:58,324 - BertrandtGUI - INFO - Element 'logo_black' hinzugefügt bei (293.4097421203439, 142.06303724928367)
+2025-08-29 10:46:01,046 - BertrandtGUI - INFO - Bertrandt Logo (white) erfolgreich geladen: assets/Bertrandt_logo_weis.png
+2025-08-29 10:46:01,047 - BertrandtGUI - INFO - Element 'logo_white' hinzugefügt bei (289.74212034383953, 235.58739255014328)
+2025-08-29 10:46:03,169 - BertrandtGUI - DEBUG - Presentation-Tab angezeigt
+2025-08-29 10:46:03,170 - BertrandtGUI - DEBUG - Tab gewechselt: presentation
+2025-08-29 10:46:04,545 - BertrandtGUI - INFO - Zu Slide 2 gewechselt
+2025-08-29 10:46:05,024 - BertrandtGUI - INFO - Zu Slide 3 gewechselt
+2025-08-29 10:46:06,710 - BertrandtGUI - DEBUG - Home-Tab Theme aktualisiert
+2025-08-29 10:46:06,710 - BertrandtGUI - DEBUG - Theme für home-Tab aktualisiert
+2025-08-29 10:46:06,712 - BertrandtGUI - DEBUG - Demo-Tab Theme aktualisiert
+2025-08-29 10:46:06,712 - BertrandtGUI - DEBUG - Theme für demo-Tab aktualisiert
+2025-08-29 10:46:06,712 - BertrandtGUI - DEBUG - Demo-Thumbnails für demo-Tab aktualisiert
+2025-08-29 10:46:06,721 - BertrandtGUI - DEBUG - Slide 1 mit Text direkt auf der Folie gerendert
+2025-08-29 10:46:06,721 - BertrandtGUI - DEBUG - Z-Order korrigiert - Content-Elemente sind jetzt über dem Hintergrund
+2025-08-29 10:46:06,722 - BertrandtGUI - DEBUG - Slide-Display für demo-Tab aktualisiert
+2025-08-29 10:46:06,730 - BertrandtGUI - DEBUG - Thumbnails aktualisiert
+2025-08-29 10:46:06,731 - BertrandtGUI - DEBUG - Thumbnails für creator-Tab aktualisiert
+2025-08-29 10:46:06,733 - BertrandtGUI - DEBUG - Presentation-Tab Theme aktualisiert
+2025-08-29 10:46:06,733 - BertrandtGUI - DEBUG - Theme für presentation-Tab aktualisiert
+2025-08-29 10:46:06,733 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_1
+2025-08-29 10:46:06,740 - BertrandtGUI - DEBUG - Slide 1 mit Text direkt auf der Folie gerendert
+2025-08-29 10:46:06,740 - BertrandtGUI - DEBUG - Z-Order korrigiert - Content-Elemente sind jetzt über dem Hintergrund
+2025-08-29 10:46:06,740 - BertrandtGUI - INFO - Demo zur ersten Slide zurückgesetzt
+2025-08-29 10:46:06,740 - BertrandtGUI - DEBUG - Demo-Service nach Präsentations-Import zurückgesetzt
+2025-08-29 10:46:06,741 - BertrandtGUI - INFO - Theme gewechselt zu: dark
+2025-08-29 10:46:08,329 - BertrandtGUI - DEBUG - Presentation-Tab versteckt
+2025-08-29 10:46:08,329 - BertrandtGUI - DEBUG - Home-Tab angezeigt
+2025-08-29 10:46:08,329 - BertrandtGUI - DEBUG - Tab gewechselt: home
+2025-08-29 10:46:13,175 - BertrandtGUI - DEBUG - Vollbild deaktiviert - bleibt auf Hauptmonitor
+2025-08-29 10:46:17,492 - BertrandtGUI - INFO - 🧹 Cleanup wird durchgeführt...
+2025-08-29 10:46:17,492 - BertrandtGUI - INFO - 👋 Dynamic Messe Stand V4 beendet

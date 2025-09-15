@@ -1,0 +1,140 @@
+{
+  "title": "Expertise und Vision",
+  "content": "Möglich macht das nicht nur unsere Expertise zusammen mit der klaren Vision, dabei helfen zu wollen automatisierte Shuttles flächendeckend bereitzustellen\n\nViele kleine Shuttles stehen am Straßenrand",
+  "layout": "fullscreen_image",
+  "background_color": "#FFFFFF",
+  "text_color": "#003366",
+  "signal_id": "page_6",
+  "canvas_elements": [
+    {
+      "type": "rectangle",
+      "tags": "slide_background_main",
+      "coords": [
+        0.0,
+        0.0,
+        1920.0,
+        1080.0
+      ],
+      "activewidth": "0.0",
+      "dashoffset": "0",
+      "disabledwidth": "0.0",
+      "fill": "#FFFFFF",
+      "offset": "0,0",
+      "outline": "#666666",
+      "outlineoffset": "0,0",
+      "width": "1.0"
+    },
+    {
+      "type": "rectangle",
+      "tags": "slide_background_shadow",
+      "coords": [
+        9.169054441260746,
+        9.169054441260746,
+        1929.1690544412609,
+        1089.1690544412609
+      ],
+      "activewidth": "0.0",
+      "dashoffset": "0",
+      "disabledwidth": "0.0",
+      "fill": "#CCCCCC",
+      "offset": "0,0",
+      "outlineoffset": "0,0",
+      "width": "1.0"
+    },
+    {
+      "type": "rectangle",
+      "tags": "slide_background_frame",
+      "coords": [
+        -3.667621776504298,
+        -3.667621776504298,
+        1923.6676217765043,
+        1083.6676217765043
+      ],
+      "activewidth": "0.0",
+      "dashoffset": "0",
+      "disabledwidth": "0.0",
+      "offset": "0,0",
+      "outline": "#333333",
+      "outlineoffset": "0,0",
+      "width": "2.0"
+    },
+    {
+      "type": "window",
+      "tags": [
+        "slide_content"
+      ],
+      "coords": [
+        80.0,
+        60.0
+      ],
+      "widget_type": "Text",
+      "text": "Expertise und Vision",
+      "font": "{Segoe UI} 28 bold",
+      "bg": "white",
+      "fg": "#1E88E5",
+      "width": 60,
+      "height": 3
+    },
+    {
+      "type": "window",
+      "tags": [
+        "slide_content"
+      ],
+      "coords": [
+        80.0,
+        180.0
+      ],
+      "widget_type": "Text",
+      "text": "Möglich macht das nicht nur unsere Expertise zusammen mit der klaren Vision, dabei helfen zu wollen automatisierte Shuttles flächendeckend bereitzustellen\nViele kleine Shuttles stehen am Straßenrand",
+      "font": "{Segoe UI} 16",
+      "bg": "white",
+      "fg": "#2C3E50",
+      "width": 70,
+      "height": 8
+    },
+    {
+      "type": "window",
+      "tags": [
+        "slide_content"
+      ],
+      "coords": [
+        1670.0,
+        960.0
+      ],
+      "widget_type": "Label",
+      "text": "BERTRANDT",
+      "has_image": false,
+      "font": "{Segoe UI} 20 bold",
+      "bg": "white",
+      "fg": "#003366",
+      "width": 0,
+      "height": 0,
+      "anchor": "center",
+      "justify": "center"
+    },
+    {
+      "type": "window",
+      "tags": [
+        "slide_content"
+      ],
+      "coords": [
+        80.0,
+        960.0
+      ],
+      "widget_type": "Label",
+      "text": "Folie 6",
+      "has_image": false,
+      "font": "{Segoe UI} 16",
+      "bg": "white",
+      "fg": "#666666",
+      "width": 0,
+      "height": 0,
+      "anchor": "center",
+      "justify": "center"
+    }
+  ],
+  "slide_width": 1920,
+  "slide_height": 1080,
+  "last_modified": "2025-08-29T10:34:50.990510",
+  "creator_version": "1.0"
+}

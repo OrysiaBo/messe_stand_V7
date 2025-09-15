@@ -1,0 +1,172 @@
+2025-08-18 08:53:37,171 - BertrandtGUI - DEBUG - Slide 9 geladen
+2025-08-18 08:53:37,171 - BertrandtGUI - DEBUG - Slide 8 geladen
+2025-08-18 08:53:37,171 - BertrandtGUI - DEBUG - Slide 2 geladen
+2025-08-18 08:53:37,171 - BertrandtGUI - DEBUG - Slide 4 geladen
+2025-08-18 08:53:37,171 - BertrandtGUI - DEBUG - Slide 5 geladen
+2025-08-18 08:53:37,172 - BertrandtGUI - DEBUG - Slide 6 geladen
+2025-08-18 08:53:37,172 - BertrandtGUI - DEBUG - Slide 3 geladen
+2025-08-18 08:53:37,172 - BertrandtGUI - DEBUG - Slide 7 geladen
+2025-08-18 08:53:37,172 - BertrandtGUI - DEBUG - Slide 1 geladen
+2025-08-18 08:53:37,172 - BertrandtGUI - DEBUG - Slide 10 geladen
+2025-08-18 08:53:37,172 - BertrandtGUI - INFO - 10 Slides geladen
+2025-08-18 08:53:37,177 - BertrandtGUI - INFO - 🚀 Dynamic Messe Stand V4 wird gestartet...
+2025-08-18 08:53:37,177 - BertrandtGUI - INFO - Python Version: 3.12.3 (main, Jun 18 2025, 17:59:45) [GCC 13.3.0]
+2025-08-18 08:53:37,177 - BertrandtGUI - INFO - Arbeitsverzeichnis: /home/messe_pc/Dynamic_Messe_Stand_V4/Python_GUI
+2025-08-18 08:53:37,177 - BertrandtGUI - INFO - 🔌 Hardware-Setup wird gestartet...
+2025-08-18 08:53:37,177 - BertrandtGUI - ERROR - Fehler beim Verbinden mit ESP32-1: [Errno 2] could not open port /dev/ttyUSB0: [Errno 2] No such file or directory: '/dev/ttyUSB0'
+2025-08-18 08:53:37,177 - BertrandtGUI - ERROR - Fehler beim Verbinden mit ESP32-2: [Errno 2] could not open port /dev/ttyUSB1: [Errno 2] No such file or directory: '/dev/ttyUSB1'
+2025-08-18 08:53:37,177 - BertrandtGUI - ERROR - Fehler beim Verbinden mit ESP32-3: [Errno 2] could not open port /dev/ttyUSB2: [Errno 2] No such file or directory: '/dev/ttyUSB2'
+2025-08-18 08:53:37,177 - BertrandtGUI - ERROR - Fehler beim Verbinden mit Arduino GIGA: [Errno 2] could not open port /dev/ttyACM0: [Errno 2] No such file or directory: '/dev/ttyACM0'
+2025-08-18 08:53:37,177 - BertrandtGUI - INFO - esp32_1: ❌ Fehler
+2025-08-18 08:53:37,177 - BertrandtGUI - INFO - esp32_2: ❌ Fehler
+2025-08-18 08:53:37,177 - BertrandtGUI - INFO - esp32_3: ❌ Fehler
+2025-08-18 08:53:37,177 - BertrandtGUI - INFO - giga: ❌ Fehler
+2025-08-18 08:53:37,177 - BertrandtGUI - WARNING - ⚠️ Keine Hardware-Verbindungen erfolgreich - GUI startet trotzdem
+2025-08-18 08:53:37,177 - BertrandtGUI - INFO - 🖥️ GUI wird initialisiert...
+2025-08-18 08:53:37,178 - BertrandtGUI - INFO - 🚀 Starte Dynamic Messe Stand V4...
+2025-08-18 08:53:37,389 - BertrandtGUI - INFO - Primärer Monitor: 1920x1080 bei (0, 120)
+2025-08-18 08:53:37,389 - BertrandtGUI - INFO - Hauptmonitor erkannt: 1920x1080 bei (0, 120)
+2025-08-18 08:53:37,390 - BertrandtGUI - DEBUG - Responsive Design: 1920x1080, Scale: 1.00
+2025-08-18 08:53:37,473 - BertrandtGUI - INFO - ✅ Bertrandt Layout-Struktur erstellt
+2025-08-18 08:53:37,517 - BertrandtGUI - DEBUG - Home-Tab angezeigt
+2025-08-18 08:53:37,517 - BertrandtGUI - DEBUG - Tab gewechselt: home
+2025-08-18 08:53:37,517 - BertrandtGUI - INFO - ✅ Dynamic Messe Stand V4 erfolgreich initialisiert!
+2025-08-18 08:53:37,517 - BertrandtGUI - INFO - ✅ Dynamic Messe Stand V4 erfolgreich gestartet!
+2025-08-18 08:53:37,517 - BertrandtGUI - INFO - 💡 Drücke F11 für Vollbild, ESC zum Verlassen
+2025-08-18 08:53:37,518 - BertrandtGUI - INFO - GUI-Hauptschleife gestartet
+2025-08-18 08:57:36,915 - BertrandtGUI - DEBUG - Home-Tab versteckt
+2025-08-18 08:57:36,915 - BertrandtGUI - DEBUG - Demo-Tab angezeigt
+2025-08-18 08:57:36,915 - BertrandtGUI - DEBUG - Tab gewechselt: demo
+2025-08-18 08:57:45,235 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_2
+2025-08-18 08:57:46,498 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_3
+2025-08-18 08:57:47,139 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_4
+2025-08-18 08:57:47,603 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_1
+2025-08-18 08:57:48,059 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_2
+2025-08-18 08:57:53,859 - BertrandtGUI - DEBUG - Demo-Tab versteckt
+2025-08-18 08:57:53,867 - BertrandtGUI - DEBUG - Demo-Slide 1 geladen: BumbleB - Das automatisierte Shuttle
+2025-08-18 08:57:53,867 - BertrandtGUI - DEBUG - Tab gewechselt: creator
+2025-08-18 08:57:58,123 - BertrandtGUI - DEBUG - Slide 1 gespeichert
+2025-08-18 08:57:58,123 - BertrandtGUI - INFO - Demo-Slide 1 gespeichert
+2025-08-18 08:57:58,131 - BertrandtGUI - DEBUG - Demo-Slide 2 geladen: BumbleB - Wie die Hummel
+2025-08-18 08:58:10,563 - BertrandtGUI - DEBUG - Slide 2 gespeichert
+2025-08-18 08:58:10,563 - BertrandtGUI - INFO - Demo-Slide 2 gespeichert
+2025-08-18 08:58:10,570 - BertrandtGUI - DEBUG - Demo-Slide 1 geladen: BumbleB - Das automatisierte Shuttle
+2025-08-18 08:58:13,171 - BertrandtGUI - DEBUG - Presentation-Tab angezeigt
+2025-08-18 08:58:13,171 - BertrandtGUI - DEBUG - Tab gewechselt: presentation
+2025-08-18 08:58:17,931 - BertrandtGUI - INFO - Zu Slide 2 gewechselt
+2025-08-18 08:58:19,387 - BertrandtGUI - INFO - Zu Slide 3 gewechselt
+2025-08-18 08:58:19,915 - BertrandtGUI - INFO - Zu Slide 2 gewechselt
+2025-08-18 08:58:21,211 - BertrandtGUI - INFO - Zu Slide 1 gewechselt
+2025-08-18 08:58:21,843 - BertrandtGUI - INFO - Zu Slide 2 gewechselt
+2025-08-18 08:58:23,243 - BertrandtGUI - INFO - Zu Slide 3 gewechselt
+2025-08-18 08:58:23,659 - BertrandtGUI - INFO - Zu Slide 2 gewechselt
+2025-08-18 08:58:24,123 - BertrandtGUI - INFO - Zu Slide 1 gewechselt
+2025-08-18 08:58:24,579 - BertrandtGUI - INFO - Zu Slide 2 gewechselt
+2025-08-18 08:58:27,988 - BertrandtGUI - DEBUG - Home-Tab Theme aktualisiert
+2025-08-18 08:58:27,988 - BertrandtGUI - DEBUG - Theme für home-Tab aktualisiert
+2025-08-18 08:58:27,990 - BertrandtGUI - DEBUG - Demo-Tab Theme aktualisiert
+2025-08-18 08:58:27,990 - BertrandtGUI - DEBUG - Theme für demo-Tab aktualisiert
+2025-08-18 08:58:27,991 - BertrandtGUI - DEBUG - Presentation-Tab Theme aktualisiert
+2025-08-18 08:58:27,991 - BertrandtGUI - DEBUG - Theme für presentation-Tab aktualisiert
+2025-08-18 08:58:27,992 - BertrandtGUI - INFO - Theme gewechselt zu: dark
+2025-08-18 08:58:35,915 - BertrandtGUI - DEBUG - Presentation-Tab versteckt
+2025-08-18 08:58:35,915 - BertrandtGUI - DEBUG - Tab gewechselt: creator
+2025-08-18 08:58:37,786 - BertrandtGUI - DEBUG - Home-Tab Theme aktualisiert
+2025-08-18 08:58:37,786 - BertrandtGUI - DEBUG - Theme für home-Tab aktualisiert
+2025-08-18 08:58:37,787 - BertrandtGUI - DEBUG - Demo-Tab Theme aktualisiert
+2025-08-18 08:58:37,787 - BertrandtGUI - DEBUG - Theme für demo-Tab aktualisiert
+2025-08-18 08:58:37,789 - BertrandtGUI - DEBUG - Presentation-Tab Theme aktualisiert
+2025-08-18 08:58:37,789 - BertrandtGUI - DEBUG - Theme für presentation-Tab aktualisiert
+2025-08-18 08:58:37,790 - BertrandtGUI - INFO - Theme gewechselt zu: light
+2025-08-18 08:58:38,450 - BertrandtGUI - DEBUG - Home-Tab Theme aktualisiert
+2025-08-18 08:58:38,451 - BertrandtGUI - DEBUG - Theme für home-Tab aktualisiert
+2025-08-18 08:58:38,452 - BertrandtGUI - DEBUG - Demo-Tab Theme aktualisiert
+2025-08-18 08:58:38,452 - BertrandtGUI - DEBUG - Theme für demo-Tab aktualisiert
+2025-08-18 08:58:38,453 - BertrandtGUI - DEBUG - Presentation-Tab Theme aktualisiert
+2025-08-18 08:58:38,453 - BertrandtGUI - DEBUG - Theme für presentation-Tab aktualisiert
+2025-08-18 08:58:38,454 - BertrandtGUI - INFO - Theme gewechselt zu: dark
+2025-08-18 08:58:50,578 - BertrandtGUI - DEBUG - Home-Tab Theme aktualisiert
+2025-08-18 08:58:50,578 - BertrandtGUI - DEBUG - Theme für home-Tab aktualisiert
+2025-08-18 08:58:50,579 - BertrandtGUI - DEBUG - Demo-Tab Theme aktualisiert
+2025-08-18 08:58:50,579 - BertrandtGUI - DEBUG - Theme für demo-Tab aktualisiert
+2025-08-18 08:58:50,581 - BertrandtGUI - DEBUG - Presentation-Tab Theme aktualisiert
+2025-08-18 08:58:50,581 - BertrandtGUI - DEBUG - Theme für presentation-Tab aktualisiert
+2025-08-18 08:58:50,581 - BertrandtGUI - INFO - Theme gewechselt zu: light
+2025-08-18 08:58:58,699 - BertrandtGUI - DEBUG - Home-Tab Theme aktualisiert
+2025-08-18 08:58:58,699 - BertrandtGUI - DEBUG - Theme für home-Tab aktualisiert
+2025-08-18 08:58:58,700 - BertrandtGUI - DEBUG - Demo-Tab Theme aktualisiert
+2025-08-18 08:58:58,700 - BertrandtGUI - DEBUG - Theme für demo-Tab aktualisiert
+2025-08-18 08:58:58,701 - BertrandtGUI - DEBUG - Presentation-Tab Theme aktualisiert
+2025-08-18 08:58:58,701 - BertrandtGUI - DEBUG - Theme für presentation-Tab aktualisiert
+2025-08-18 08:58:58,702 - BertrandtGUI - INFO - Theme gewechselt zu: dark
+2025-08-18 08:58:59,611 - BertrandtGUI - DEBUG - Demo-Tab angezeigt
+2025-08-18 08:58:59,611 - BertrandtGUI - DEBUG - Tab gewechselt: demo
+2025-08-18 08:59:03,611 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_5
+2025-08-18 08:59:09,539 - BertrandtGUI - DEBUG - Demo-Tab versteckt
+2025-08-18 08:59:09,539 - BertrandtGUI - DEBUG - Home-Tab angezeigt
+2025-08-18 08:59:09,539 - BertrandtGUI - DEBUG - Tab gewechselt: home
+2025-08-18 08:59:16,739 - BertrandtGUI - DEBUG - Home-Tab versteckt
+2025-08-18 08:59:16,739 - BertrandtGUI - DEBUG - Demo-Tab angezeigt
+2025-08-18 08:59:16,739 - BertrandtGUI - DEBUG - Tab gewechselt: demo
+2025-08-18 08:59:18,331 - BertrandtGUI - DEBUG - Demo-Tab versteckt
+2025-08-18 08:59:18,331 - BertrandtGUI - DEBUG - Home-Tab angezeigt
+2025-08-18 08:59:18,331 - BertrandtGUI - DEBUG - Tab gewechselt: home
+2025-08-18 08:59:19,371 - BertrandtGUI - DEBUG - Home-Tab versteckt
+2025-08-18 08:59:19,371 - BertrandtGUI - DEBUG - Presentation-Tab angezeigt
+2025-08-18 08:59:19,371 - BertrandtGUI - DEBUG - Tab gewechselt: presentation
+2025-08-18 08:59:22,251 - BertrandtGUI - INFO - Zu Slide 1 gewechselt
+2025-08-18 08:59:22,899 - BertrandtGUI - INFO - Zu Slide 2 gewechselt
+2025-08-18 08:59:23,243 - BertrandtGUI - INFO - Zu Slide 3 gewechselt
+2025-08-18 08:59:30,235 - BertrandtGUI - DEBUG - Presentation-Tab versteckt
+2025-08-18 08:59:30,235 - BertrandtGUI - DEBUG - Home-Tab angezeigt
+2025-08-18 08:59:30,235 - BertrandtGUI - DEBUG - Tab gewechselt: home
+2025-08-18 08:59:36,681 - BertrandtGUI - DEBUG - Vollbild deaktiviert - bleibt auf Hauptmonitor
+2025-08-18 09:08:42,388 - BertrandtGUI - DEBUG - Home-Tab versteckt
+2025-08-18 09:08:42,389 - BertrandtGUI - DEBUG - Demo-Tab angezeigt
+2025-08-18 09:08:42,389 - BertrandtGUI - DEBUG - Tab gewechselt: demo
+2025-08-18 09:08:43,308 - BertrandtGUI - DEBUG - Home-Tab Theme aktualisiert
+2025-08-18 09:08:43,309 - BertrandtGUI - DEBUG - Theme für home-Tab aktualisiert
+2025-08-18 09:08:43,310 - BertrandtGUI - DEBUG - Demo-Tab Theme aktualisiert
+2025-08-18 09:08:43,310 - BertrandtGUI - DEBUG - Theme für demo-Tab aktualisiert
+2025-08-18 09:08:43,311 - BertrandtGUI - DEBUG - Presentation-Tab Theme aktualisiert
+2025-08-18 09:08:43,311 - BertrandtGUI - DEBUG - Theme für presentation-Tab aktualisiert
+2025-08-18 09:08:43,311 - BertrandtGUI - INFO - Theme gewechselt zu: light
+2025-08-18 09:08:44,221 - BertrandtGUI - DEBUG - Demo-Tab versteckt
+2025-08-18 09:08:44,221 - BertrandtGUI - DEBUG - Home-Tab angezeigt
+2025-08-18 09:08:44,247 - BertrandtGUI - DEBUG - Tab gewechselt: home
+2025-08-19 13:01:23,337 - BertrandtGUI - DEBUG - Home-Tab Theme aktualisiert
+2025-08-19 13:01:23,337 - BertrandtGUI - DEBUG - Theme für home-Tab aktualisiert
+2025-08-19 13:01:23,339 - BertrandtGUI - DEBUG - Demo-Tab Theme aktualisiert
+2025-08-19 13:01:23,339 - BertrandtGUI - DEBUG - Theme für demo-Tab aktualisiert
+2025-08-19 13:01:23,341 - BertrandtGUI - DEBUG - Presentation-Tab Theme aktualisiert
+2025-08-19 13:01:23,341 - BertrandtGUI - DEBUG - Theme für presentation-Tab aktualisiert
+2025-08-19 13:01:23,342 - BertrandtGUI - INFO - Theme gewechselt zu: dark
+2025-08-19 13:01:24,217 - BertrandtGUI - DEBUG - Home-Tab Theme aktualisiert
+2025-08-19 13:01:24,217 - BertrandtGUI - DEBUG - Theme für home-Tab aktualisiert
+2025-08-19 13:01:24,218 - BertrandtGUI - DEBUG - Demo-Tab Theme aktualisiert
+2025-08-19 13:01:24,218 - BertrandtGUI - DEBUG - Theme für demo-Tab aktualisiert
+2025-08-19 13:01:24,219 - BertrandtGUI - DEBUG - Presentation-Tab Theme aktualisiert
+2025-08-19 13:01:24,219 - BertrandtGUI - DEBUG - Theme für presentation-Tab aktualisiert
+2025-08-19 13:01:24,219 - BertrandtGUI - INFO - Theme gewechselt zu: light
+2025-08-19 13:15:17,747 - BertrandtGUI - DEBUG - Home-Tab versteckt
+2025-08-19 13:15:17,748 - BertrandtGUI - DEBUG - Demo-Tab angezeigt
+2025-08-19 13:15:17,749 - BertrandtGUI - DEBUG - Tab gewechselt: demo
+2025-08-19 13:15:20,361 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_7
+2025-08-19 13:15:20,924 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_8
+2025-08-19 13:15:21,579 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_9
+2025-08-19 13:15:22,862 - BertrandtGUI - INFO - Slide-Dauer geändert: 5s
+2025-08-19 13:15:22,862 - BertrandtGUI - INFO - Loop-Modus: aktiviert
+2025-08-19 13:15:22,863 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_1
+2025-08-19 13:15:22,863 - BertrandtGUI - INFO - Demo gestartet - Slide 1, 5s pro Slide
+2025-08-19 13:15:27,901 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_2
+2025-08-19 13:15:27,904 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_2
+2025-08-19 13:15:30,427 - BertrandtGUI - INFO - Demo gestoppt
+2025-08-19 13:15:31,544 - BertrandtGUI - DEBUG - Demo-Tab versteckt
+2025-08-19 13:15:31,545 - BertrandtGUI - DEBUG - Tab gewechselt: creator
+2025-08-19 13:15:34,405 - BertrandtGUI - INFO - Element 'textfield' hinzugefügt bei (961.993148551853, 802.0990345686702)
+2025-08-19 13:15:42,716 - BertrandtGUI - DEBUG - Presentation-Tab angezeigt
+2025-08-19 13:15:42,717 - BertrandtGUI - DEBUG - Tab gewechselt: presentation
+2025-08-19 13:15:50,836 - BertrandtGUI - INFO - Zu Slide 3 gewechselt
+2025-08-19 13:16:01,327 - BertrandtGUI - DEBUG - Presentation-Tab versteckt
+2025-08-19 13:16:01,328 - BertrandtGUI - DEBUG - Home-Tab angezeigt
+2025-08-19 13:16:01,328 - BertrandtGUI - DEBUG - Tab gewechselt: home

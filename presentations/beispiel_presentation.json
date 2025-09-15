@@ -1,0 +1,97 @@
+{
+  "metadata": {
+    "title": "BumbleB Präsentation",
+    "description": "Automatisierte Shuttle-Präsentation",
+    "created_at": "2024-01-15T10:30:00",
+    "version": "1.0",
+    "total_slides": 3,
+    "format": "json"
+  },
+  "settings": {
+    "slide_duration": 5,
+    "loop_mode": true,
+    "auto_start": false
+  },
+  "slides": {
+    "1": {
+      "slide_id": 1,
+      "title": "BumbleB - Das automatisierte Shuttle",
+      "content": "Willkommen zur BumbleB Präsentation!\\n\\nBumbleB ist ein innovatives, autonomes Shuttle-System, das speziell für den urbanen Transport entwickelt wurde.\\n\\n• Vollständig elektrisch\\n• Autonome Navigation\\n• Umweltfreundlich\\n• Sicher und zuverlässig",
+      "layout": "fullscreen_image",
+      "config_data": {
+        "title": "BumbleB - Das automatisierte Shuttle",
+        "content": "Willkommen zur BumbleB Präsentation!\n\nBumbleB ist ein innovatives, autonomes Shuttle-System, das speziell für den urbanen Transport entwickelt wurde.\n\n• Vollständig elektrisch\n• Autonome Navigation\n• Umweltfreundlich\n• Sicher und zuverlässig",
+        "layout": "fullscreen_image",
+        "background_color": "#FFFFFF",
+        "text_color": "#003366",
+        "canvas_elements": [
+          {
+            "type": "window",
+            "coords": [100, 80],
+            "widget_type": "Text",
+            "text": "BumbleB - Das automatisierte Shuttle",
+            "font": "Arial 24 bold",
+            "bg": "white",
+            "fg": "#1E88E5",
+            "width": 40,
+            "height": 2
+          },
+          {
+            "type": "window", 
+            "coords": [100, 200],
+            "widget_type": "Text",
+            "text": "Willkommen zur BumbleB Präsentation!\n\nBumbleB ist ein innovatives, autonomes Shuttle-System, das speziell für den urbanen Transport entwickelt wurde.\n\n• Vollständig elektrisch\n• Autonome Navigation\n• Umweltfreundlich\n• Sicher und zuverlässig",
+            "font": "Arial 16",
+            "bg": "white",
+            "fg": "black",
+            "width": 60,
+            "height": 12
+          },
+          {
+            "type": "window",
+            "coords": [1400, 900],
+            "widget_type": "Label",
+            "text": "BERTRANDT",
+            "font": "Arial 16 bold",
+            "bg": "white",
+            "fg": "#003366"
+          }
+        ],
+        "slide_width": 1920,
+        "slide_height": 1080
+      },
+      "created_at": "2024-01-15T10:30:00",
+      "modified_at": "2024-01-15T10:30:00"
+    },
+    "2": {
+      "slide_id": 2,
+      "title": "Technische Spezifikationen",
+      "content": "BumbleB Technische Details:\\n\\n• Kapazität: 8-12 Passagiere\\n• Geschwindigkeit: bis 25 km/h\\n• Reichweite: 150 km pro Ladung\\n• Ladezeit: 2 Stunden (Schnellladung)\\n• Sensoren: LiDAR, Kameras, Radar\\n• Betriebssystem: Linux-basiert\\n• Konnektivität: 5G, WiFi, Bluetooth",
+      "layout": "fullscreen_image",
+      "config_data": {
+        "title": "Technische Spezifikationen",
+        "content": "BumbleB Technische Details:\n\n• Kapazität: 8-12 Passagiere\n• Geschwindigkeit: bis 25 km/h\n• Reichweite: 150 km pro Ladung\n• Ladezeit: 2 Stunden (Schnellladung)\n• Sensoren: LiDAR, Kameras, Radar\n• Betriebssystem: Linux-basiert\n• Konnektivität: 5G, WiFi, Bluetooth",
+        "layout": "fullscreen_image",
+        "background_color": "#FFFFFF",
+        "text_color": "#003366"
+      },
+      "created_at": "2024-01-15T10:30:00",
+      "modified_at": "2024-01-15T10:30:00"
+    },
+    "3": {
+      "slide_id": 3,
+      "title": "Einsatzgebiete und Vorteile",
+      "content": "BumbleB Anwendungsbereiche:\\n\\n• Städtischer ÖPNV\\n• Campus-Transport (Universitäten, Firmen)\\n• Flughäfen und Bahnhöfe\\n• Touristische Routen\\n• Last-Mile-Delivery\\n\\nVorteile:\\n• Reduzierte Emissionen\\n• Kosteneffizient\\n• Flexibel einsetzbar\\n• Benutzerfreundlich\\n• Zukunftssicher",
+      "layout": "fullscreen_image",
+      "config_data": {
+        "title": "Einsatzgebiete und Vorteile",
+        "content": "BumbleB Anwendungsbereiche:\n\n• Städtischer ÖPNV\n• Campus-Transport (Universitäten, Firmen)\n• Flughäfen und Bahnhöfe\n• Touristische Routen\n• Last-Mile-Delivery\n\nVorteile:\n• Reduzierte Emissionen\n• Kosteneffizient\n• Flexibel einsetzbar\n• Benutzerfreundlich\n• Zukunftssicher",
+        "layout": "fullscreen_image",
+        "background_color": "#FFFFFF",
+        "text_color": "#003366"
+      },
+      "created_at": "2024-01-15T10:30:00",
+      "modified_at": "2024-01-15T10:30:00"
+    }
+  }
+}

@@ -1,0 +1,2151 @@
+2025-08-20 12:58:56,344 - BertrandtGUI - DEBUG - Slide 9 geladen
+2025-08-20 12:58:56,344 - BertrandtGUI - DEBUG - Slide 8 geladen
+2025-08-20 12:58:56,344 - BertrandtGUI - DEBUG - Slide 2 geladen
+2025-08-20 12:58:56,344 - BertrandtGUI - DEBUG - Slide 4 geladen
+2025-08-20 12:58:56,344 - BertrandtGUI - DEBUG - Slide 5 geladen
+2025-08-20 12:58:56,344 - BertrandtGUI - DEBUG - Slide 6 geladen
+2025-08-20 12:58:56,345 - BertrandtGUI - DEBUG - Slide 3 geladen
+2025-08-20 12:58:56,345 - BertrandtGUI - DEBUG - Slide 7 geladen
+2025-08-20 12:58:56,345 - BertrandtGUI - DEBUG - Slide 1 geladen
+2025-08-20 12:58:56,345 - BertrandtGUI - DEBUG - Slide 10 geladen
+2025-08-20 12:58:56,345 - BertrandtGUI - INFO - 10 Slides geladen
+2025-08-20 12:58:56,349 - BertrandtGUI - INFO - 🚀 Dynamic Messe Stand V4 wird gestartet...
+2025-08-20 12:58:56,350 - BertrandtGUI - INFO - Python Version: 3.12.3 (main, Jun 18 2025, 17:59:45) [GCC 13.3.0]
+2025-08-20 12:58:56,350 - BertrandtGUI - INFO - Arbeitsverzeichnis: /home/messe_pc/Dynamic_Messe_Stand_V4/Python_GUI
+2025-08-20 12:58:56,350 - BertrandtGUI - INFO - 🔌 Hardware-Setup wird gestartet...
+2025-08-20 12:58:56,350 - BertrandtGUI - ERROR - Fehler beim Verbinden mit ESP32-1: [Errno 2] could not open port /dev/ttyUSB0: [Errno 2] No such file or directory: '/dev/ttyUSB0'
+2025-08-20 12:58:56,350 - BertrandtGUI - ERROR - Fehler beim Verbinden mit ESP32-2: [Errno 2] could not open port /dev/ttyUSB1: [Errno 2] No such file or directory: '/dev/ttyUSB1'
+2025-08-20 12:58:56,350 - BertrandtGUI - ERROR - Fehler beim Verbinden mit ESP32-3: [Errno 2] could not open port /dev/ttyUSB2: [Errno 2] No such file or directory: '/dev/ttyUSB2'
+2025-08-20 12:58:56,350 - BertrandtGUI - ERROR - Fehler beim Verbinden mit Arduino GIGA: [Errno 2] could not open port /dev/ttyACM0: [Errno 2] No such file or directory: '/dev/ttyACM0'
+2025-08-20 12:58:56,350 - BertrandtGUI - INFO - esp32_1: ❌ Fehler
+2025-08-20 12:58:56,350 - BertrandtGUI - INFO - esp32_2: ❌ Fehler
+2025-08-20 12:58:56,350 - BertrandtGUI - INFO - esp32_3: ❌ Fehler
+2025-08-20 12:58:56,350 - BertrandtGUI - INFO - giga: ❌ Fehler
+2025-08-20 12:58:56,350 - BertrandtGUI - WARNING - ⚠️ Keine Hardware-Verbindungen erfolgreich - GUI startet trotzdem
+2025-08-20 12:58:56,350 - BertrandtGUI - INFO - 🖥️ GUI wird initialisiert...
+2025-08-20 12:58:56,350 - BertrandtGUI - INFO - 🚀 Starte Dynamic Messe Stand V4...
+2025-08-20 12:58:56,548 - BertrandtGUI - INFO - Primärer Monitor: 1920x1080 bei (0, 120)
+2025-08-20 12:58:56,548 - BertrandtGUI - INFO - Hauptmonitor erkannt: 1920x1080 bei (0, 120)
+2025-08-20 12:58:56,549 - BertrandtGUI - DEBUG - Responsive Design: 1920x1080, Scale: 1.00
+2025-08-20 12:58:56,617 - BertrandtGUI - INFO - ✅ Bertrandt Layout-Struktur erstellt
+2025-08-20 12:58:56,664 - BertrandtGUI - DEBUG - Home-Tab angezeigt
+2025-08-20 12:58:56,665 - BertrandtGUI - DEBUG - Tab gewechselt: home
+2025-08-20 12:58:56,665 - BertrandtGUI - INFO - ✅ Dynamic Messe Stand V4 erfolgreich initialisiert!
+2025-08-20 12:58:56,665 - BertrandtGUI - INFO - ✅ Dynamic Messe Stand V4 erfolgreich gestartet!
+2025-08-20 12:58:56,665 - BertrandtGUI - INFO - 💡 Drücke F11 für Vollbild, ESC zum Verlassen
+2025-08-20 12:58:56,665 - BertrandtGUI - INFO - GUI-Hauptschleife gestartet
+2025-08-20 12:58:56,682 - BertrandtGUI - INFO - Fenster auf Hauptmonitor zurück bewegt: (0, 120)
+2025-08-20 13:00:00,854 - BertrandtGUI - DEBUG - Vollbild deaktiviert - bleibt auf Hauptmonitor
+2025-08-20 13:00:23,222 - BertrandtGUI - DEBUG - Home-Tab versteckt
+2025-08-20 13:00:23,223 - BertrandtGUI - DEBUG - Demo-Tab angezeigt
+2025-08-20 13:00:23,223 - BertrandtGUI - DEBUG - Tab gewechselt: demo
+2025-08-20 13:00:28,486 - BertrandtGUI - DEBUG - Demo-Tab versteckt
+2025-08-20 13:00:28,486 - BertrandtGUI - DEBUG - Home-Tab angezeigt
+2025-08-20 13:00:28,486 - BertrandtGUI - DEBUG - Tab gewechselt: home
+2025-08-20 13:00:29,182 - BertrandtGUI - DEBUG - Home-Tab versteckt
+2025-08-20 13:00:29,182 - BertrandtGUI - DEBUG - Demo-Tab angezeigt
+2025-08-20 13:00:29,182 - BertrandtGUI - DEBUG - Tab gewechselt: demo
+2025-08-20 13:00:30,062 - BertrandtGUI - DEBUG - Demo-Tab versteckt
+2025-08-20 13:00:30,087 - BertrandtGUI - DEBUG - Demo-Slide 1 geladen: BumbleB - Das automatisierte Shuttle
+2025-08-20 13:00:30,088 - BertrandtGUI - DEBUG - Tab gewechselt: creator
+2025-08-20 13:05:40,522 - BertrandtGUI - INFO - Anwendung durch Benutzer unterbrochen
+2025-08-20 13:05:40,522 - BertrandtGUI - INFO - Anwendung wird beendet...
+2025-08-20 13:05:40,522 - BertrandtGUI - INFO - 🧹 Cleanup wird durchgeführt...
+2025-08-20 13:05:40,523 - BertrandtGUI - INFO - 👋 Dynamic Messe Stand V4 beendet
+2025-08-20 13:06:01,107 - BertrandtGUI - DEBUG - Slide 9 geladen
+2025-08-20 13:06:01,107 - BertrandtGUI - DEBUG - Slide 8 geladen
+2025-08-20 13:06:01,107 - BertrandtGUI - DEBUG - Slide 2 geladen
+2025-08-20 13:06:01,107 - BertrandtGUI - DEBUG - Slide 4 geladen
+2025-08-20 13:06:01,107 - BertrandtGUI - DEBUG - Slide 5 geladen
+2025-08-20 13:06:01,107 - BertrandtGUI - DEBUG - Slide 6 geladen
+2025-08-20 13:06:01,108 - BertrandtGUI - DEBUG - Slide 3 geladen
+2025-08-20 13:06:01,108 - BertrandtGUI - DEBUG - Slide 7 geladen
+2025-08-20 13:06:01,108 - BertrandtGUI - DEBUG - Slide 1 geladen
+2025-08-20 13:06:01,108 - BertrandtGUI - DEBUG - Slide 10 geladen
+2025-08-20 13:06:01,108 - BertrandtGUI - INFO - 10 Slides geladen
+2025-08-20 13:06:01,123 - BertrandtGUI - INFO - 🚀 Dynamic Messe Stand V4 wird gestartet...
+2025-08-20 13:06:01,123 - BertrandtGUI - INFO - Python Version: 3.12.3 (main, Jun 18 2025, 17:59:45) [GCC 13.3.0]
+2025-08-20 13:06:01,123 - BertrandtGUI - INFO - Arbeitsverzeichnis: /home/messe_pc/Dynamic_Messe_Stand_V4/Python_GUI
+2025-08-20 13:06:01,123 - BertrandtGUI - INFO - 🔧 Hardware-Setup übersprungen (--no-hardware)
+2025-08-20 13:06:01,123 - BertrandtGUI - INFO - 🖥️ GUI wird initialisiert...
+2025-08-20 13:06:01,123 - BertrandtGUI - INFO - 🚀 Starte Dynamic Messe Stand V4...
+2025-08-20 13:06:01,124 - BertrandtGUI - ERROR - 💥 Unerwarteter Fehler: no display name and no $DISPLAY environment variable
+2025-08-20 13:06:01,127 - BertrandtGUI - INFO - 🧹 Cleanup wird durchgeführt...
+2025-08-20 13:06:01,127 - BertrandtGUI - INFO - 👋 Dynamic Messe Stand V4 beendet
+2025-08-20 13:06:54,347 - BertrandtGUI - DEBUG - Slide 9 geladen
+2025-08-20 13:06:54,347 - BertrandtGUI - DEBUG - Slide 8 geladen
+2025-08-20 13:06:54,347 - BertrandtGUI - DEBUG - Slide 2 geladen
+2025-08-20 13:06:54,347 - BertrandtGUI - DEBUG - Slide 4 geladen
+2025-08-20 13:06:54,347 - BertrandtGUI - DEBUG - Slide 5 geladen
+2025-08-20 13:06:54,347 - BertrandtGUI - DEBUG - Slide 6 geladen
+2025-08-20 13:06:54,347 - BertrandtGUI - DEBUG - Slide 3 geladen
+2025-08-20 13:06:54,347 - BertrandtGUI - DEBUG - Slide 7 geladen
+2025-08-20 13:06:54,348 - BertrandtGUI - DEBUG - Slide 1 geladen
+2025-08-20 13:06:54,348 - BertrandtGUI - DEBUG - Slide 10 geladen
+2025-08-20 13:06:54,348 - BertrandtGUI - INFO - 10 Slides geladen
+2025-08-20 13:06:54,353 - BertrandtGUI - INFO - 🚀 Dynamic Messe Stand V4 wird gestartet...
+2025-08-20 13:06:54,353 - BertrandtGUI - INFO - Python Version: 3.12.3 (main, Jun 18 2025, 17:59:45) [GCC 13.3.0]
+2025-08-20 13:06:54,353 - BertrandtGUI - INFO - Arbeitsverzeichnis: /home/messe_pc/Dynamic_Messe_Stand_V4/Python_GUI
+2025-08-20 13:06:54,353 - BertrandtGUI - INFO - 🔌 Hardware-Setup wird gestartet...
+2025-08-20 13:06:54,353 - BertrandtGUI - ERROR - Fehler beim Verbinden mit ESP32-1: [Errno 2] could not open port /dev/ttyUSB0: [Errno 2] No such file or directory: '/dev/ttyUSB0'
+2025-08-20 13:06:54,354 - BertrandtGUI - ERROR - Fehler beim Verbinden mit ESP32-2: [Errno 2] could not open port /dev/ttyUSB1: [Errno 2] No such file or directory: '/dev/ttyUSB1'
+2025-08-20 13:06:54,354 - BertrandtGUI - ERROR - Fehler beim Verbinden mit ESP32-3: [Errno 2] could not open port /dev/ttyUSB2: [Errno 2] No such file or directory: '/dev/ttyUSB2'
+2025-08-20 13:06:54,354 - BertrandtGUI - ERROR - Fehler beim Verbinden mit Arduino GIGA: [Errno 2] could not open port /dev/ttyACM0: [Errno 2] No such file or directory: '/dev/ttyACM0'
+2025-08-20 13:06:54,354 - BertrandtGUI - INFO - esp32_1: ❌ Fehler
+2025-08-20 13:06:54,354 - BertrandtGUI - INFO - esp32_2: ❌ Fehler
+2025-08-20 13:06:54,354 - BertrandtGUI - INFO - esp32_3: ❌ Fehler
+2025-08-20 13:06:54,354 - BertrandtGUI - INFO - giga: ❌ Fehler
+2025-08-20 13:06:54,354 - BertrandtGUI - WARNING - ⚠️ Keine Hardware-Verbindungen erfolgreich - GUI startet trotzdem
+2025-08-20 13:06:54,354 - BertrandtGUI - INFO - 🖥️ GUI wird initialisiert...
+2025-08-20 13:06:54,354 - BertrandtGUI - INFO - 🚀 Starte Dynamic Messe Stand V4...
+2025-08-20 13:06:54,543 - BertrandtGUI - INFO - Primärer Monitor: 1920x1080 bei (0, 120)
+2025-08-20 13:06:54,543 - BertrandtGUI - INFO - Hauptmonitor erkannt: 1920x1080 bei (0, 120)
+2025-08-20 13:06:54,544 - BertrandtGUI - DEBUG - Responsive Design: 1920x1080, Scale: 1.00
+2025-08-20 13:06:54,610 - BertrandtGUI - INFO - ✅ Bertrandt Layout-Struktur erstellt
+2025-08-20 13:06:54,705 - BertrandtGUI - DEBUG - Home-Tab angezeigt
+2025-08-20 13:06:54,705 - BertrandtGUI - DEBUG - Tab gewechselt: home
+2025-08-20 13:06:54,705 - BertrandtGUI - INFO - ✅ Dynamic Messe Stand V4 erfolgreich initialisiert!
+2025-08-20 13:06:54,705 - BertrandtGUI - INFO - ✅ Dynamic Messe Stand V4 erfolgreich gestartet!
+2025-08-20 13:06:54,705 - BertrandtGUI - INFO - 💡 Drücke F11 für Vollbild, ESC zum Verlassen
+2025-08-20 13:06:54,705 - BertrandtGUI - INFO - GUI-Hauptschleife gestartet
+2025-08-20 13:06:54,722 - BertrandtGUI - INFO - Fenster auf Hauptmonitor zurück bewegt: (0, 120)
+2025-08-20 13:06:57,344 - BertrandtGUI - DEBUG - Home-Tab versteckt
+2025-08-20 13:06:57,359 - BertrandtGUI - DEBUG - Demo-Slide 1 geladen: BumbleB - Das automatisierte Shuttle
+2025-08-20 13:06:57,359 - BertrandtGUI - DEBUG - Tab gewechselt: creator
+2025-08-20 13:07:01,274 - BertrandtGUI - INFO - Element 'text_block' hinzugefügt bei (1174.294491091542, 215.6092566045463)
+2025-08-20 13:07:07,991 - BertrandtGUI - INFO - Element 'title_text' hinzugefügt bei (1191.9885316403852, 68.1589186975219)
+2025-08-20 13:07:13,337 - BertrandtGUI - INFO - Element 'text_block' hinzugefügt bei (478.32889617038694, 612.7421667007986)
+2025-08-20 13:07:16,716 - BertrandtGUI - INFO - Element 'subtitle_text' hinzugefügt bei (1329.6088470202747, 241.16731517509717)
+2025-08-20 13:07:19,640 - BertrandtGUI - INFO - Element 'bullet_list' hinzugefügt bei (1077.9602703256196, 437.7677657177964)
+2025-08-20 13:07:21,840 - BertrandtGUI - INFO - Element 'container' hinzugefügt bei (680.8273602293671, 374.85562154413265)
+2025-08-20 13:07:26,104 - BertrandtGUI - INFO - Element 'line' hinzugefügt bei (1508.5152570141308, 604.8781486790907)
+2025-08-20 13:07:28,992 - BertrandtGUI - INFO - Element 'circle' hinzugefügt bei (1471.161171411018, 614.7081712062256)
+2025-08-20 13:07:31,593 - BertrandtGUI - INFO - Element 'circle' hinzugefügt bei (1520.311284046693, 988.2490272373541)
+2025-08-20 13:09:01,623 - BertrandtGUI - INFO - Element 'icon' hinzugefügt bei (1632.3735408560312, 750.3624820806881)
+2025-08-20 13:10:21,719 - BertrandtGUI - DEBUG - Home-Tab Theme aktualisiert
+2025-08-20 13:10:21,719 - BertrandtGUI - DEBUG - Theme für home-Tab aktualisiert
+2025-08-20 13:10:21,722 - BertrandtGUI - DEBUG - Demo-Tab Theme aktualisiert
+2025-08-20 13:10:21,722 - BertrandtGUI - DEBUG - Theme für demo-Tab aktualisiert
+2025-08-20 13:10:21,725 - BertrandtGUI - DEBUG - Presentation-Tab Theme aktualisiert
+2025-08-20 13:10:21,725 - BertrandtGUI - DEBUG - Theme für presentation-Tab aktualisiert
+2025-08-20 13:10:21,726 - BertrandtGUI - INFO - Theme gewechselt zu: dark
+2025-08-20 13:10:23,457 - BertrandtGUI - DEBUG - Home-Tab Theme aktualisiert
+2025-08-20 13:10:23,457 - BertrandtGUI - DEBUG - Theme für home-Tab aktualisiert
+2025-08-20 13:10:23,458 - BertrandtGUI - DEBUG - Demo-Tab Theme aktualisiert
+2025-08-20 13:10:23,458 - BertrandtGUI - DEBUG - Theme für demo-Tab aktualisiert
+2025-08-20 13:10:23,460 - BertrandtGUI - DEBUG - Presentation-Tab Theme aktualisiert
+2025-08-20 13:10:23,460 - BertrandtGUI - DEBUG - Theme für presentation-Tab aktualisiert
+2025-08-20 13:10:23,460 - BertrandtGUI - INFO - Theme gewechselt zu: light
+2025-08-20 13:10:24,487 - BertrandtGUI - DEBUG - Presentation-Tab angezeigt
+2025-08-20 13:10:24,488 - BertrandtGUI - DEBUG - Tab gewechselt: presentation
+2025-08-20 13:10:25,061 - BertrandtGUI - DEBUG - Home-Tab Theme aktualisiert
+2025-08-20 13:10:25,061 - BertrandtGUI - DEBUG - Theme für home-Tab aktualisiert
+2025-08-20 13:10:25,064 - BertrandtGUI - DEBUG - Demo-Tab Theme aktualisiert
+2025-08-20 13:10:25,064 - BertrandtGUI - DEBUG - Theme für demo-Tab aktualisiert
+2025-08-20 13:10:25,067 - BertrandtGUI - DEBUG - Presentation-Tab Theme aktualisiert
+2025-08-20 13:10:25,067 - BertrandtGUI - DEBUG - Theme für presentation-Tab aktualisiert
+2025-08-20 13:10:25,068 - BertrandtGUI - INFO - Theme gewechselt zu: dark
+2025-08-20 13:10:26,648 - BertrandtGUI - DEBUG - Presentation-Tab versteckt
+2025-08-20 13:10:26,649 - BertrandtGUI - DEBUG - Tab gewechselt: creator
+2025-08-20 13:11:22,320 - BertrandtGUI - INFO - Anwendung durch Benutzer unterbrochen
+2025-08-20 13:11:22,320 - BertrandtGUI - INFO - Anwendung wird beendet...
+2025-08-20 13:11:22,321 - BertrandtGUI - INFO - 🧹 Cleanup wird durchgeführt...
+2025-08-20 13:11:22,321 - BertrandtGUI - INFO - 👋 Dynamic Messe Stand V4 beendet
+2025-08-20 13:12:13,262 - BertrandtGUI - DEBUG - Slide 9 geladen
+2025-08-20 13:12:13,263 - BertrandtGUI - DEBUG - Slide 8 geladen
+2025-08-20 13:12:13,263 - BertrandtGUI - DEBUG - Slide 2 geladen
+2025-08-20 13:12:13,263 - BertrandtGUI - DEBUG - Slide 4 geladen
+2025-08-20 13:12:13,263 - BertrandtGUI - DEBUG - Slide 5 geladen
+2025-08-20 13:12:13,263 - BertrandtGUI - DEBUG - Slide 6 geladen
+2025-08-20 13:12:13,263 - BertrandtGUI - DEBUG - Slide 3 geladen
+2025-08-20 13:12:13,263 - BertrandtGUI - DEBUG - Slide 7 geladen
+2025-08-20 13:12:13,263 - BertrandtGUI - DEBUG - Slide 1 geladen
+2025-08-20 13:12:13,263 - BertrandtGUI - DEBUG - Slide 10 geladen
+2025-08-20 13:12:13,263 - BertrandtGUI - INFO - 10 Slides geladen
+2025-08-20 13:12:13,281 - BertrandtGUI - INFO - 🚀 Dynamic Messe Stand V4 wird gestartet...
+2025-08-20 13:12:13,281 - BertrandtGUI - INFO - Python Version: 3.12.3 (main, Jun 18 2025, 17:59:45) [GCC 13.3.0]
+2025-08-20 13:12:13,282 - BertrandtGUI - INFO - Arbeitsverzeichnis: /home/messe_pc/Dynamic_Messe_Stand_V4/Python_GUI
+2025-08-20 13:12:13,282 - BertrandtGUI - INFO - 🔌 Hardware-Setup wird gestartet...
+2025-08-20 13:12:13,282 - BertrandtGUI - ERROR - Fehler beim Verbinden mit ESP32-1: [Errno 2] could not open port /dev/ttyUSB0: [Errno 2] No such file or directory: '/dev/ttyUSB0'
+2025-08-20 13:12:13,282 - BertrandtGUI - ERROR - Fehler beim Verbinden mit ESP32-2: [Errno 2] could not open port /dev/ttyUSB1: [Errno 2] No such file or directory: '/dev/ttyUSB1'
+2025-08-20 13:12:13,282 - BertrandtGUI - ERROR - Fehler beim Verbinden mit ESP32-3: [Errno 2] could not open port /dev/ttyUSB2: [Errno 2] No such file or directory: '/dev/ttyUSB2'
+2025-08-20 13:12:13,282 - BertrandtGUI - ERROR - Fehler beim Verbinden mit Arduino GIGA: [Errno 2] could not open port /dev/ttyACM0: [Errno 2] No such file or directory: '/dev/ttyACM0'
+2025-08-20 13:12:13,282 - BertrandtGUI - INFO - esp32_1: ❌ Fehler
+2025-08-20 13:12:13,282 - BertrandtGUI - INFO - esp32_2: ❌ Fehler
+2025-08-20 13:12:13,282 - BertrandtGUI - INFO - esp32_3: ❌ Fehler
+2025-08-20 13:12:13,282 - BertrandtGUI - INFO - giga: ❌ Fehler
+2025-08-20 13:12:13,282 - BertrandtGUI - WARNING - ⚠️ Keine Hardware-Verbindungen erfolgreich - GUI startet trotzdem
+2025-08-20 13:12:13,282 - BertrandtGUI - INFO - 🖥️ GUI wird initialisiert...
+2025-08-20 13:12:13,282 - BertrandtGUI - INFO - 🚀 Starte Dynamic Messe Stand V4...
+2025-08-20 13:12:13,478 - BertrandtGUI - INFO - Primärer Monitor: 1920x1080 bei (0, 120)
+2025-08-20 13:12:13,478 - BertrandtGUI - INFO - Hauptmonitor erkannt: 1920x1080 bei (0, 120)
+2025-08-20 13:12:13,479 - BertrandtGUI - DEBUG - Responsive Design: 1920x1080, Scale: 1.00
+2025-08-20 13:12:13,555 - BertrandtGUI - INFO - ✅ Bertrandt Layout-Struktur erstellt
+2025-08-20 13:12:13,609 - BertrandtGUI - DEBUG - Home-Tab angezeigt
+2025-08-20 13:12:13,609 - BertrandtGUI - DEBUG - Tab gewechselt: home
+2025-08-20 13:12:13,609 - BertrandtGUI - INFO - ✅ Dynamic Messe Stand V4 erfolgreich initialisiert!
+2025-08-20 13:12:13,609 - BertrandtGUI - INFO - ✅ Dynamic Messe Stand V4 erfolgreich gestartet!
+2025-08-20 13:12:13,609 - BertrandtGUI - INFO - 💡 Drücke F11 für Vollbild, ESC zum Verlassen
+2025-08-20 13:12:13,609 - BertrandtGUI - INFO - GUI-Hauptschleife gestartet
+2025-08-20 13:12:13,630 - BertrandtGUI - INFO - Fenster auf Hauptmonitor zurück bewegt: (0, 120)
+2025-08-20 13:12:16,753 - BertrandtGUI - DEBUG - Home-Tab versteckt
+2025-08-20 13:12:16,770 - BertrandtGUI - DEBUG - Demo-Slide 1 geladen: BumbleB - Das automatisierte Shuttle
+2025-08-20 13:12:16,771 - BertrandtGUI - DEBUG - Tab gewechselt: creator
+2025-08-20 13:13:08,869 - BertrandtGUI - INFO - Element 'title_text' hinzugefügt bei (1289.035799231567, 38.83515277184842)
+2025-08-20 13:13:11,030 - BertrandtGUI - INFO - Element 'subtitle_text' hinzugefügt bei (1289.035799231567, 256.6310910532414)
+2025-08-20 13:13:15,666 - BertrandtGUI - INFO - Element 'text_block' hinzugefügt bei (1293.7195828505214, 347.9648716228578)
+2025-08-20 13:13:18,163 - BertrandtGUI - INFO - Element 'video' hinzugefügt bei (1284.3520156126121, 867.864853326828)
+2025-08-20 13:13:22,235 - BertrandtGUI - INFO - Element 'image' hinzugefügt bei (352.2790754406293, 104.40812343721404)
+2025-08-20 13:13:24,006 - BertrandtGUI - INFO - Element 'icon_star' hinzugefügt bei (394.4331280112215, 743.7445874245288)
+2025-08-20 13:13:26,236 - BertrandtGUI - INFO - Element 'icon_tool' hinzugefügt bei (806.606086479234, 668.8040495212538)
+2025-08-20 13:13:28,077 - BertrandtGUI - INFO - Element 'icon_idea' hinzugefügt bei (560.7074464841129, 977.9337683722632)
+2025-08-20 13:13:33,619 - BertrandtGUI - INFO - Element 'icon_rocket' hinzugefügt bei (431.903396962859, 1010.720253704946)
+2025-08-20 13:13:38,882 - BertrandtGUI - INFO - Element 'icon_lightning' hinzugefügt bei (874.520948954077, 1064.5837653229248)
+2025-08-20 13:14:07,745 - BertrandtGUI - INFO - Anwendung durch Benutzer unterbrochen
+2025-08-20 13:14:07,746 - BertrandtGUI - INFO - Anwendung wird beendet...
+2025-08-20 13:14:07,747 - BertrandtGUI - INFO - 🧹 Cleanup wird durchgeführt...
+2025-08-20 13:14:07,747 - BertrandtGUI - INFO - 👋 Dynamic Messe Stand V4 beendet
+2025-08-20 13:16:46,240 - BertrandtGUI - DEBUG - Slide 9 geladen
+2025-08-20 13:16:46,240 - BertrandtGUI - DEBUG - Slide 8 geladen
+2025-08-20 13:16:46,240 - BertrandtGUI - DEBUG - Slide 2 geladen
+2025-08-20 13:16:46,240 - BertrandtGUI - DEBUG - Slide 4 geladen
+2025-08-20 13:16:46,240 - BertrandtGUI - DEBUG - Slide 5 geladen
+2025-08-20 13:16:46,240 - BertrandtGUI - DEBUG - Slide 6 geladen
+2025-08-20 13:16:46,240 - BertrandtGUI - DEBUG - Slide 3 geladen
+2025-08-20 13:16:46,240 - BertrandtGUI - DEBUG - Slide 7 geladen
+2025-08-20 13:16:46,241 - BertrandtGUI - DEBUG - Slide 1 geladen
+2025-08-20 13:16:46,241 - BertrandtGUI - DEBUG - Slide 10 geladen
+2025-08-20 13:16:46,241 - BertrandtGUI - INFO - 10 Slides geladen
+2025-08-20 13:16:46,259 - BertrandtGUI - INFO - 🚀 Dynamic Messe Stand V4 wird gestartet...
+2025-08-20 13:16:46,260 - BertrandtGUI - INFO - Python Version: 3.12.3 (main, Jun 18 2025, 17:59:45) [GCC 13.3.0]
+2025-08-20 13:16:46,260 - BertrandtGUI - INFO - Arbeitsverzeichnis: /home/messe_pc/Dynamic_Messe_Stand_V4/Python_GUI
+2025-08-20 13:16:46,260 - BertrandtGUI - INFO - 🔌 Hardware-Setup wird gestartet...
+2025-08-20 13:16:46,260 - BertrandtGUI - ERROR - Fehler beim Verbinden mit ESP32-1: [Errno 2] could not open port /dev/ttyUSB0: [Errno 2] No such file or directory: '/dev/ttyUSB0'
+2025-08-20 13:16:46,260 - BertrandtGUI - ERROR - Fehler beim Verbinden mit ESP32-2: [Errno 2] could not open port /dev/ttyUSB1: [Errno 2] No such file or directory: '/dev/ttyUSB1'
+2025-08-20 13:16:46,260 - BertrandtGUI - ERROR - Fehler beim Verbinden mit ESP32-3: [Errno 2] could not open port /dev/ttyUSB2: [Errno 2] No such file or directory: '/dev/ttyUSB2'
+2025-08-20 13:16:46,260 - BertrandtGUI - ERROR - Fehler beim Verbinden mit Arduino GIGA: [Errno 2] could not open port /dev/ttyACM0: [Errno 2] No such file or directory: '/dev/ttyACM0'
+2025-08-20 13:16:46,260 - BertrandtGUI - INFO - esp32_1: ❌ Fehler
+2025-08-20 13:16:46,260 - BertrandtGUI - INFO - esp32_2: ❌ Fehler
+2025-08-20 13:16:46,260 - BertrandtGUI - INFO - esp32_3: ❌ Fehler
+2025-08-20 13:16:46,260 - BertrandtGUI - INFO - giga: ❌ Fehler
+2025-08-20 13:16:46,260 - BertrandtGUI - WARNING - ⚠️ Keine Hardware-Verbindungen erfolgreich - GUI startet trotzdem
+2025-08-20 13:16:46,260 - BertrandtGUI - INFO - 🖥️ GUI wird initialisiert...
+2025-08-20 13:16:46,260 - BertrandtGUI - INFO - 🚀 Starte Dynamic Messe Stand V4...
+2025-08-20 13:16:46,456 - BertrandtGUI - INFO - Primärer Monitor: 1920x1080 bei (0, 120)
+2025-08-20 13:16:46,456 - BertrandtGUI - INFO - Hauptmonitor erkannt: 1920x1080 bei (0, 120)
+2025-08-20 13:16:46,457 - BertrandtGUI - DEBUG - Responsive Design: 1920x1080, Scale: 1.00
+2025-08-20 13:16:46,529 - BertrandtGUI - INFO - ✅ Bertrandt Layout-Struktur erstellt
+2025-08-20 13:16:46,582 - BertrandtGUI - DEBUG - Home-Tab angezeigt
+2025-08-20 13:16:46,582 - BertrandtGUI - DEBUG - Tab gewechselt: home
+2025-08-20 13:16:46,582 - BertrandtGUI - INFO - ✅ Dynamic Messe Stand V4 erfolgreich initialisiert!
+2025-08-20 13:16:46,582 - BertrandtGUI - INFO - ✅ Dynamic Messe Stand V4 erfolgreich gestartet!
+2025-08-20 13:16:46,582 - BertrandtGUI - INFO - 💡 Drücke F11 für Vollbild, ESC zum Verlassen
+2025-08-20 13:16:46,583 - BertrandtGUI - INFO - GUI-Hauptschleife gestartet
+2025-08-20 13:16:46,600 - BertrandtGUI - INFO - Fenster auf Hauptmonitor zurück bewegt: (0, 120)
+2025-08-20 13:17:25,806 - BertrandtGUI - DEBUG - Home-Tab versteckt
+2025-08-20 13:17:25,807 - BertrandtGUI - DEBUG - Demo-Tab angezeigt
+2025-08-20 13:17:25,807 - BertrandtGUI - DEBUG - Tab gewechselt: demo
+2025-08-20 13:17:27,110 - BertrandtGUI - DEBUG - Demo-Tab versteckt
+2025-08-20 13:17:27,127 - BertrandtGUI - DEBUG - Demo-Slide 1 geladen: BumbleB - Das automatisierte Shuttle
+2025-08-20 13:17:27,127 - BertrandtGUI - DEBUG - Tab gewechselt: creator
+2025-08-20 13:18:15,899 - BertrandtGUI - INFO - Anwendung durch Benutzer unterbrochen
+2025-08-20 13:18:15,899 - BertrandtGUI - INFO - Anwendung wird beendet...
+2025-08-20 13:18:15,900 - BertrandtGUI - INFO - 🧹 Cleanup wird durchgeführt...
+2025-08-20 13:18:15,900 - BertrandtGUI - INFO - 👋 Dynamic Messe Stand V4 beendet
+2025-08-20 13:18:19,671 - BertrandtGUI - DEBUG - Slide 9 geladen
+2025-08-20 13:18:19,671 - BertrandtGUI - DEBUG - Slide 8 geladen
+2025-08-20 13:18:19,671 - BertrandtGUI - DEBUG - Slide 2 geladen
+2025-08-20 13:18:19,672 - BertrandtGUI - DEBUG - Slide 4 geladen
+2025-08-20 13:18:19,672 - BertrandtGUI - DEBUG - Slide 5 geladen
+2025-08-20 13:18:19,672 - BertrandtGUI - DEBUG - Slide 6 geladen
+2025-08-20 13:18:19,672 - BertrandtGUI - DEBUG - Slide 3 geladen
+2025-08-20 13:18:19,672 - BertrandtGUI - DEBUG - Slide 7 geladen
+2025-08-20 13:18:19,672 - BertrandtGUI - DEBUG - Slide 1 geladen
+2025-08-20 13:18:19,672 - BertrandtGUI - DEBUG - Slide 10 geladen
+2025-08-20 13:18:19,672 - BertrandtGUI - INFO - 10 Slides geladen
+2025-08-20 13:18:19,678 - BertrandtGUI - INFO - 🚀 Dynamic Messe Stand V4 wird gestartet...
+2025-08-20 13:18:19,678 - BertrandtGUI - INFO - Python Version: 3.12.3 (main, Jun 18 2025, 17:59:45) [GCC 13.3.0]
+2025-08-20 13:18:19,678 - BertrandtGUI - INFO - Arbeitsverzeichnis: /home/messe_pc/Dynamic_Messe_Stand_V4/Python_GUI
+2025-08-20 13:18:19,678 - BertrandtGUI - INFO - 🔌 Hardware-Setup wird gestartet...
+2025-08-20 13:18:19,678 - BertrandtGUI - ERROR - Fehler beim Verbinden mit ESP32-1: [Errno 2] could not open port /dev/ttyUSB0: [Errno 2] No such file or directory: '/dev/ttyUSB0'
+2025-08-20 13:18:19,678 - BertrandtGUI - ERROR - Fehler beim Verbinden mit ESP32-2: [Errno 2] could not open port /dev/ttyUSB1: [Errno 2] No such file or directory: '/dev/ttyUSB1'
+2025-08-20 13:18:19,678 - BertrandtGUI - ERROR - Fehler beim Verbinden mit ESP32-3: [Errno 2] could not open port /dev/ttyUSB2: [Errno 2] No such file or directory: '/dev/ttyUSB2'
+2025-08-20 13:18:19,678 - BertrandtGUI - ERROR - Fehler beim Verbinden mit Arduino GIGA: [Errno 2] could not open port /dev/ttyACM0: [Errno 2] No such file or directory: '/dev/ttyACM0'
+2025-08-20 13:18:19,678 - BertrandtGUI - INFO - esp32_1: ❌ Fehler
+2025-08-20 13:18:19,679 - BertrandtGUI - INFO - esp32_2: ❌ Fehler
+2025-08-20 13:18:19,679 - BertrandtGUI - INFO - esp32_3: ❌ Fehler
+2025-08-20 13:18:19,679 - BertrandtGUI - INFO - giga: ❌ Fehler
+2025-08-20 13:18:19,679 - BertrandtGUI - WARNING - ⚠️ Keine Hardware-Verbindungen erfolgreich - GUI startet trotzdem
+2025-08-20 13:18:19,679 - BertrandtGUI - INFO - 🖥️ GUI wird initialisiert...
+2025-08-20 13:18:19,679 - BertrandtGUI - INFO - 🚀 Starte Dynamic Messe Stand V4...
+2025-08-20 13:18:19,874 - BertrandtGUI - INFO - Primärer Monitor: 1920x1080 bei (0, 120)
+2025-08-20 13:18:19,875 - BertrandtGUI - INFO - Hauptmonitor erkannt: 1920x1080 bei (0, 120)
+2025-08-20 13:18:19,876 - BertrandtGUI - DEBUG - Responsive Design: 1920x1080, Scale: 1.00
+2025-08-20 13:18:19,952 - BertrandtGUI - INFO - ✅ Bertrandt Layout-Struktur erstellt
+2025-08-20 13:18:20,009 - BertrandtGUI - DEBUG - Home-Tab angezeigt
+2025-08-20 13:18:20,009 - BertrandtGUI - DEBUG - Tab gewechselt: home
+2025-08-20 13:18:20,009 - BertrandtGUI - INFO - ✅ Dynamic Messe Stand V4 erfolgreich initialisiert!
+2025-08-20 13:18:20,010 - BertrandtGUI - INFO - ✅ Dynamic Messe Stand V4 erfolgreich gestartet!
+2025-08-20 13:18:20,010 - BertrandtGUI - INFO - 💡 Drücke F11 für Vollbild, ESC zum Verlassen
+2025-08-20 13:18:20,010 - BertrandtGUI - INFO - GUI-Hauptschleife gestartet
+2025-08-20 13:18:20,029 - BertrandtGUI - INFO - Fenster auf Hauptmonitor zurück bewegt: (0, 120)
+2025-08-20 13:18:31,450 - BertrandtGUI - DEBUG - Home-Tab versteckt
+2025-08-20 13:18:31,451 - BertrandtGUI - DEBUG - Demo-Tab angezeigt
+2025-08-20 13:18:31,452 - BertrandtGUI - DEBUG - Tab gewechselt: demo
+2025-08-20 13:18:32,410 - BertrandtGUI - DEBUG - Demo-Tab versteckt
+2025-08-20 13:18:32,432 - BertrandtGUI - DEBUG - Demo-Slide 1 geladen: BumbleB - Das automatisierte Shuttle
+2025-08-20 13:18:32,433 - BertrandtGUI - DEBUG - Tab gewechselt: creator
+2025-08-20 13:18:34,063 - BertrandtGUI - INFO - Bertrandt Logo (yellow) erfolgreich geladen: assets/Bertrandt_logo_gelb.png
+2025-08-20 13:18:34,064 - BertrandtGUI - INFO - Element 'logo_yellow' hinzugefügt bei (1321.8222845642497, 230.8702811489906)
+2025-08-20 13:18:38,454 - BertrandtGUI - INFO - Bertrandt Logo (black) erfolgreich geladen: assets/Bertrandt_logo_schwarz.png
+2025-08-20 13:18:38,455 - BertrandtGUI - INFO - Element 'logo_black' hinzugefügt bei (1282.0101238031348, 537.6581081905226)
+2025-08-20 13:18:43,566 - BertrandtGUI - INFO - Bertrandt Logo (black) erfolgreich geladen: assets/Bertrandt_logo_schwarz.png
+2025-08-20 13:18:43,567 - BertrandtGUI - INFO - Element 'logo_black' hinzugefügt bei (797.2385192413246, 71.62163810453123)
+2025-08-20 13:18:45,263 - BertrandtGUI - INFO - Bertrandt Logo (yellow) erfolgreich geladen: assets/Bertrandt_logo_gelb.png
+2025-08-20 13:18:45,264 - BertrandtGUI - INFO - Element 'logo_yellow' hinzugefügt bei (420.1939379154723, 336.2554125754711)
+2025-08-20 13:18:47,441 - BertrandtGUI - INFO - Bertrandt Logo (white) erfolgreich geladen: assets/Bertrandt_logo_weis.png
+2025-08-20 13:18:47,442 - BertrandtGUI - INFO - Element 'logo_white' hinzugefügt bei (333.5439409648106, 17.758126486552328)
+2025-08-20 13:22:35,304 - BertrandtGUI - INFO - Anwendung durch Benutzer unterbrochen
+2025-08-20 13:22:35,304 - BertrandtGUI - INFO - Anwendung wird beendet...
+2025-08-20 13:22:35,304 - BertrandtGUI - INFO - 🧹 Cleanup wird durchgeführt...
+2025-08-20 13:22:35,305 - BertrandtGUI - INFO - 👋 Dynamic Messe Stand V4 beendet
+2025-08-20 13:22:38,578 - BertrandtGUI - DEBUG - Slide 9 geladen
+2025-08-20 13:22:38,579 - BertrandtGUI - DEBUG - Slide 8 geladen
+2025-08-20 13:22:38,605 - BertrandtGUI - DEBUG - Slide 2 geladen
+2025-08-20 13:22:38,606 - BertrandtGUI - DEBUG - Slide 4 geladen
+2025-08-20 13:22:38,606 - BertrandtGUI - DEBUG - Slide 5 geladen
+2025-08-20 13:22:38,606 - BertrandtGUI - DEBUG - Slide 6 geladen
+2025-08-20 13:22:38,606 - BertrandtGUI - DEBUG - Slide 3 geladen
+2025-08-20 13:22:38,606 - BertrandtGUI - DEBUG - Slide 7 geladen
+2025-08-20 13:22:38,607 - BertrandtGUI - DEBUG - Slide 1 geladen
+2025-08-20 13:22:38,607 - BertrandtGUI - DEBUG - Slide 10 geladen
+2025-08-20 13:22:38,607 - BertrandtGUI - INFO - 10 Slides geladen
+2025-08-20 13:22:38,629 - BertrandtGUI - INFO - 🚀 Dynamic Messe Stand V4 wird gestartet...
+2025-08-20 13:22:38,629 - BertrandtGUI - INFO - Python Version: 3.12.3 (main, Jun 18 2025, 17:59:45) [GCC 13.3.0]
+2025-08-20 13:22:38,629 - BertrandtGUI - INFO - Arbeitsverzeichnis: /home/messe_pc/Dynamic_Messe_Stand_V4/Python_GUI
+2025-08-20 13:22:38,629 - BertrandtGUI - INFO - 🔌 Hardware-Setup wird gestartet...
+2025-08-20 13:22:38,629 - BertrandtGUI - ERROR - Fehler beim Verbinden mit ESP32-1: [Errno 2] could not open port /dev/ttyUSB0: [Errno 2] No such file or directory: '/dev/ttyUSB0'
+2025-08-20 13:22:38,629 - BertrandtGUI - ERROR - Fehler beim Verbinden mit ESP32-2: [Errno 2] could not open port /dev/ttyUSB1: [Errno 2] No such file or directory: '/dev/ttyUSB1'
+2025-08-20 13:22:38,629 - BertrandtGUI - ERROR - Fehler beim Verbinden mit ESP32-3: [Errno 2] could not open port /dev/ttyUSB2: [Errno 2] No such file or directory: '/dev/ttyUSB2'
+2025-08-20 13:22:38,630 - BertrandtGUI - ERROR - Fehler beim Verbinden mit Arduino GIGA: [Errno 2] could not open port /dev/ttyACM0: [Errno 2] No such file or directory: '/dev/ttyACM0'
+2025-08-20 13:22:38,630 - BertrandtGUI - INFO - esp32_1: ❌ Fehler
+2025-08-20 13:22:38,630 - BertrandtGUI - INFO - esp32_2: ❌ Fehler
+2025-08-20 13:22:38,630 - BertrandtGUI - INFO - esp32_3: ❌ Fehler
+2025-08-20 13:22:38,630 - BertrandtGUI - INFO - giga: ❌ Fehler
+2025-08-20 13:22:38,630 - BertrandtGUI - WARNING - ⚠️ Keine Hardware-Verbindungen erfolgreich - GUI startet trotzdem
+2025-08-20 13:22:38,630 - BertrandtGUI - INFO - 🖥️ GUI wird initialisiert...
+2025-08-20 13:22:38,630 - BertrandtGUI - INFO - 🚀 Starte Dynamic Messe Stand V4...
+2025-08-20 13:22:38,829 - BertrandtGUI - INFO - Primärer Monitor: 1920x1080 bei (0, 120)
+2025-08-20 13:22:38,829 - BertrandtGUI - INFO - Hauptmonitor erkannt: 1920x1080 bei (0, 120)
+2025-08-20 13:22:38,830 - BertrandtGUI - DEBUG - Responsive Design: 1920x1080, Scale: 1.00
+2025-08-20 13:22:38,900 - BertrandtGUI - INFO - ✅ Bertrandt Layout-Struktur erstellt
+2025-08-20 13:22:38,956 - BertrandtGUI - DEBUG - Home-Tab angezeigt
+2025-08-20 13:22:38,956 - BertrandtGUI - DEBUG - Tab gewechselt: home
+2025-08-20 13:22:38,957 - BertrandtGUI - INFO - ✅ Dynamic Messe Stand V4 erfolgreich initialisiert!
+2025-08-20 13:22:38,957 - BertrandtGUI - INFO - ✅ Dynamic Messe Stand V4 erfolgreich gestartet!
+2025-08-20 13:22:38,957 - BertrandtGUI - INFO - 💡 Drücke F11 für Vollbild, ESC zum Verlassen
+2025-08-20 13:22:38,957 - BertrandtGUI - INFO - GUI-Hauptschleife gestartet
+2025-08-20 13:22:38,976 - BertrandtGUI - INFO - Fenster auf Hauptmonitor zurück bewegt: (0, 120)
+2025-08-20 13:22:43,052 - BertrandtGUI - DEBUG - Home-Tab versteckt
+2025-08-20 13:22:43,064 - BertrandtGUI - DEBUG - Demo-Slide 1 geladen: BumbleB - Das automatisierte Shuttle
+2025-08-20 13:22:43,064 - BertrandtGUI - DEBUG - Tab gewechselt: creator
+2025-08-20 13:22:48,633 - BertrandtGUI - INFO - Element 'title_text' hinzugefügt bei (157.49684770933553, 61.18806332601693)
+2025-08-20 13:22:50,774 - BertrandtGUI - INFO - Element 'subtitle_text' hinzugefügt bei (153.91024144211468, 249.4848923551114)
+2025-08-20 13:22:53,023 - BertrandtGUI - INFO - Element 'text_block' hinzugefügt bei (150.32363517489384, 333.7701396348013)
+2025-08-20 13:22:55,575 - BertrandtGUI - INFO - Element 'bullet_list' hinzugefügt bei (175.42987904543978, 765.9561948349134)
+2025-08-20 13:22:57,197 - BertrandtGUI - INFO - Element 'line' hinzugefügt bei (1256.7916686125252, 728.2968290290945)
+2025-08-20 13:22:58,733 - BertrandtGUI - INFO - Element 'circle' hinzugefügt bei (1549.1000793910243, 446.748237052258)
+2025-08-20 13:23:01,575 - BertrandtGUI - INFO - Element 'image' hinzugefügt bei (1222.718909073927, 821.5485919768365)
+2025-08-20 13:23:04,369 - BertrandtGUI - INFO - Element 'video' hinzugefügt bei (1332.110400224163, 385.7759305095036)
+2025-08-20 13:23:06,002 - BertrandtGUI - INFO - Element 'icon_star' hinzugefügt bei (1697.9442394806895, 941.6999019287348)
+2025-08-20 13:23:07,360 - BertrandtGUI - INFO - Element 'icon_tool' hinzugefügt bei (1699.7375426142999, 789.2691355718489)
+2025-08-20 13:23:08,656 - BertrandtGUI - INFO - Element 'icon_idea' hinzugefügt bei (1678.2179050109748, 439.5750245178163)
+2025-08-20 13:23:10,169 - BertrandtGUI - INFO - Element 'icon_rocket' hinzugefügt bei (1737.3969084201187, 805.4088637743428)
+2025-08-20 13:23:11,431 - BertrandtGUI - INFO - Element 'icon_lightning' hinzugefügt bei (1681.8045112781956, 613.5254284780274)
+2025-08-20 13:31:31,218 - BertrandtGUI - INFO - Anwendung durch Benutzer unterbrochen
+2025-08-20 13:31:31,218 - BertrandtGUI - INFO - Anwendung wird beendet...
+2025-08-20 13:31:31,218 - BertrandtGUI - INFO - 🧹 Cleanup wird durchgeführt...
+2025-08-20 13:31:31,218 - BertrandtGUI - INFO - 👋 Dynamic Messe Stand V4 beendet
+2025-08-20 13:34:20,871 - BertrandtGUI - DEBUG - Slide 9 geladen
+2025-08-20 13:34:20,871 - BertrandtGUI - DEBUG - Slide 8 geladen
+2025-08-20 13:34:20,871 - BertrandtGUI - DEBUG - Slide 2 geladen
+2025-08-20 13:34:20,871 - BertrandtGUI - DEBUG - Slide 4 geladen
+2025-08-20 13:34:20,871 - BertrandtGUI - DEBUG - Slide 5 geladen
+2025-08-20 13:34:20,871 - BertrandtGUI - DEBUG - Slide 6 geladen
+2025-08-20 13:34:20,871 - BertrandtGUI - DEBUG - Slide 3 geladen
+2025-08-20 13:34:20,872 - BertrandtGUI - DEBUG - Slide 7 geladen
+2025-08-20 13:34:20,872 - BertrandtGUI - DEBUG - Slide 1 geladen
+2025-08-20 13:34:20,872 - BertrandtGUI - DEBUG - Slide 10 geladen
+2025-08-20 13:34:20,872 - BertrandtGUI - INFO - 10 Slides geladen
+2025-08-20 13:34:20,900 - BertrandtGUI - INFO - 🚀 Dynamic Messe Stand V4 wird gestartet...
+2025-08-20 13:34:20,900 - BertrandtGUI - INFO - Python Version: 3.12.3 (main, Jun 18 2025, 17:59:45) [GCC 13.3.0]
+2025-08-20 13:34:20,900 - BertrandtGUI - INFO - Arbeitsverzeichnis: /home/messe_pc/Dynamic_Messe_Stand_V4/Python_GUI
+2025-08-20 13:34:20,900 - BertrandtGUI - INFO - 🔌 Hardware-Setup wird gestartet...
+2025-08-20 13:34:20,900 - BertrandtGUI - ERROR - Fehler beim Verbinden mit ESP32-1: [Errno 2] could not open port /dev/ttyUSB0: [Errno 2] No such file or directory: '/dev/ttyUSB0'
+2025-08-20 13:34:20,900 - BertrandtGUI - ERROR - Fehler beim Verbinden mit ESP32-2: [Errno 2] could not open port /dev/ttyUSB1: [Errno 2] No such file or directory: '/dev/ttyUSB1'
+2025-08-20 13:34:20,900 - BertrandtGUI - ERROR - Fehler beim Verbinden mit ESP32-3: [Errno 2] could not open port /dev/ttyUSB2: [Errno 2] No such file or directory: '/dev/ttyUSB2'
+2025-08-20 13:34:20,900 - BertrandtGUI - ERROR - Fehler beim Verbinden mit Arduino GIGA: [Errno 2] could not open port /dev/ttyACM0: [Errno 2] No such file or directory: '/dev/ttyACM0'
+2025-08-20 13:34:20,900 - BertrandtGUI - INFO - esp32_1: ❌ Fehler
+2025-08-20 13:34:20,900 - BertrandtGUI - INFO - esp32_2: ❌ Fehler
+2025-08-20 13:34:20,900 - BertrandtGUI - INFO - esp32_3: ❌ Fehler
+2025-08-20 13:34:20,900 - BertrandtGUI - INFO - giga: ❌ Fehler
+2025-08-20 13:34:20,901 - BertrandtGUI - WARNING - ⚠️ Keine Hardware-Verbindungen erfolgreich - GUI startet trotzdem
+2025-08-20 13:34:20,901 - BertrandtGUI - INFO - 🖥️ GUI wird initialisiert...
+2025-08-20 13:34:20,901 - BertrandtGUI - INFO - 🚀 Starte Dynamic Messe Stand V4...
+2025-08-20 13:34:21,094 - BertrandtGUI - INFO - Primärer Monitor: 1920x1080 bei (0, 120)
+2025-08-20 13:34:21,094 - BertrandtGUI - INFO - Hauptmonitor erkannt: 1920x1080 bei (0, 120)
+2025-08-20 13:34:21,095 - BertrandtGUI - DEBUG - Responsive Design: 1920x1080, Scale: 1.00
+2025-08-20 13:34:21,160 - BertrandtGUI - INFO - ✅ Bertrandt Layout-Struktur erstellt
+2025-08-20 13:34:21,218 - BertrandtGUI - DEBUG - Home-Tab angezeigt
+2025-08-20 13:34:21,219 - BertrandtGUI - DEBUG - Tab gewechselt: home
+2025-08-20 13:34:21,219 - BertrandtGUI - INFO - ✅ Dynamic Messe Stand V4 erfolgreich initialisiert!
+2025-08-20 13:34:21,219 - BertrandtGUI - INFO - ✅ Dynamic Messe Stand V4 erfolgreich gestartet!
+2025-08-20 13:34:21,219 - BertrandtGUI - INFO - 💡 Drücke F11 für Vollbild, ESC zum Verlassen
+2025-08-20 13:34:21,219 - BertrandtGUI - INFO - GUI-Hauptschleife gestartet
+2025-08-20 13:34:21,252 - BertrandtGUI - INFO - Fenster auf Hauptmonitor zurück bewegt: (0, 120)
+2025-08-20 13:34:27,010 - BertrandtGUI - DEBUG - Home-Tab versteckt
+2025-08-20 13:34:27,027 - BertrandtGUI - DEBUG - Demo-Slide 1 geladen: BumbleB - Das automatisierte Shuttle
+2025-08-20 13:34:27,027 - BertrandtGUI - DEBUG - Tab gewechselt: creator
+2025-08-20 13:34:27,236 - BertrandtGUI - DEBUG - Canvas: 1127x699, Slide: 1920x1080, Scale: 0.566, Scaled: 1087x611
+2025-08-20 13:34:27,236 - BertrandtGUI - DEBUG - Bestehende Elemente neu skaliert mit Faktor 0.566
+2025-08-20 13:34:27,283 - BertrandtGUI - DEBUG - Canvas: 1127x736, Slide: 1920x1080, Scale: 0.566, Scaled: 1087x611
+2025-08-20 13:34:27,283 - BertrandtGUI - DEBUG - Bestehende Elemente neu skaliert mit Faktor 0.566
+2025-08-20 13:35:54,593 - BertrandtGUI - DEBUG - Slide 1 gespeichert
+2025-08-20 13:35:54,593 - BertrandtGUI - INFO - Demo-Slide 1 gespeichert
+2025-08-20 13:35:54,606 - BertrandtGUI - DEBUG - Demo-Slide 2 geladen: BumbleB - Wie die Hummel
+2025-08-20 13:35:55,442 - BertrandtGUI - DEBUG - Slide 2 gespeichert
+2025-08-20 13:35:55,442 - BertrandtGUI - INFO - Demo-Slide 2 gespeichert
+2025-08-20 13:35:55,457 - BertrandtGUI - DEBUG - Demo-Slide 3 geladen: Einfach losfahren
+2025-08-20 13:35:56,874 - BertrandtGUI - DEBUG - Demo-Tab angezeigt
+2025-08-20 13:35:56,875 - BertrandtGUI - DEBUG - Tab gewechselt: demo
+2025-08-20 13:35:58,186 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_2
+2025-08-20 13:35:58,922 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_3
+2025-08-20 13:35:59,729 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_1
+2025-08-20 13:36:00,634 - BertrandtGUI - DEBUG - Demo-Tab versteckt
+2025-08-20 13:36:00,634 - BertrandtGUI - DEBUG - Tab gewechselt: creator
+2025-08-20 13:36:14,161 - BertrandtGUI - DEBUG - Tab gewechselt: creator
+2025-08-20 13:42:20,571 - BertrandtGUI - INFO - Anwendung durch Benutzer unterbrochen
+2025-08-20 13:42:20,571 - BertrandtGUI - INFO - Anwendung wird beendet...
+2025-08-20 13:42:20,571 - BertrandtGUI - INFO - 🧹 Cleanup wird durchgeführt...
+2025-08-20 13:42:20,572 - BertrandtGUI - INFO - 👋 Dynamic Messe Stand V4 beendet
+2025-08-20 13:58:31,204 - BertrandtGUI - DEBUG - Slide 9 geladen
+2025-08-20 13:58:31,204 - BertrandtGUI - DEBUG - Slide 8 geladen
+2025-08-20 13:58:31,204 - BertrandtGUI - DEBUG - Slide 2 geladen
+2025-08-20 13:58:31,204 - BertrandtGUI - DEBUG - Slide 4 geladen
+2025-08-20 13:58:31,204 - BertrandtGUI - DEBUG - Slide 5 geladen
+2025-08-20 13:58:31,204 - BertrandtGUI - DEBUG - Slide 6 geladen
+2025-08-20 13:58:31,204 - BertrandtGUI - DEBUG - Slide 3 geladen
+2025-08-20 13:58:31,204 - BertrandtGUI - DEBUG - Slide 7 geladen
+2025-08-20 13:58:31,204 - BertrandtGUI - DEBUG - Slide 1 geladen
+2025-08-20 13:58:31,205 - BertrandtGUI - DEBUG - Slide 10 geladen
+2025-08-20 13:58:31,205 - BertrandtGUI - INFO - 10 Slides geladen
+2025-08-20 13:58:31,209 - BertrandtGUI - INFO - 🚀 Dynamic Messe Stand V4 wird gestartet...
+2025-08-20 13:58:31,209 - BertrandtGUI - INFO - Python Version: 3.12.3 (main, Jun 18 2025, 17:59:45) [GCC 13.3.0]
+2025-08-20 13:58:31,210 - BertrandtGUI - INFO - Arbeitsverzeichnis: /home/messe_pc/Dynamic_Messe_Stand_V4/Python_GUI
+2025-08-20 13:58:31,210 - BertrandtGUI - INFO - 🔌 Hardware-Setup wird gestartet...
+2025-08-20 13:58:31,210 - BertrandtGUI - ERROR - Fehler beim Verbinden mit ESP32-1: [Errno 2] could not open port /dev/ttyUSB0: [Errno 2] No such file or directory: '/dev/ttyUSB0'
+2025-08-20 13:58:31,210 - BertrandtGUI - ERROR - Fehler beim Verbinden mit ESP32-2: [Errno 2] could not open port /dev/ttyUSB1: [Errno 2] No such file or directory: '/dev/ttyUSB1'
+2025-08-20 13:58:31,210 - BertrandtGUI - ERROR - Fehler beim Verbinden mit ESP32-3: [Errno 2] could not open port /dev/ttyUSB2: [Errno 2] No such file or directory: '/dev/ttyUSB2'
+2025-08-20 13:58:31,210 - BertrandtGUI - ERROR - Fehler beim Verbinden mit Arduino GIGA: [Errno 2] could not open port /dev/ttyACM0: [Errno 2] No such file or directory: '/dev/ttyACM0'
+2025-08-20 13:58:31,210 - BertrandtGUI - INFO - esp32_1: ❌ Fehler
+2025-08-20 13:58:31,210 - BertrandtGUI - INFO - esp32_2: ❌ Fehler
+2025-08-20 13:58:31,210 - BertrandtGUI - INFO - esp32_3: ❌ Fehler
+2025-08-20 13:58:31,210 - BertrandtGUI - INFO - giga: ❌ Fehler
+2025-08-20 13:58:31,210 - BertrandtGUI - WARNING - ⚠️ Keine Hardware-Verbindungen erfolgreich - GUI startet trotzdem
+2025-08-20 13:58:31,210 - BertrandtGUI - INFO - 🖥️ GUI wird initialisiert...
+2025-08-20 13:58:31,210 - BertrandtGUI - INFO - 🚀 Starte Dynamic Messe Stand V4...
+2025-08-20 13:58:31,414 - BertrandtGUI - INFO - Primärer Monitor: 1920x1080 bei (0, 120)
+2025-08-20 13:58:31,414 - BertrandtGUI - INFO - Hauptmonitor erkannt: 1920x1080 bei (0, 120)
+2025-08-20 13:58:31,416 - BertrandtGUI - DEBUG - Responsive Design: 1920x1080, Scale: 1.00
+2025-08-20 13:58:31,486 - BertrandtGUI - INFO - ✅ Bertrandt Layout-Struktur erstellt
+2025-08-20 13:58:31,547 - BertrandtGUI - DEBUG - Home-Tab angezeigt
+2025-08-20 13:58:31,547 - BertrandtGUI - DEBUG - Tab gewechselt: home
+2025-08-20 13:58:31,547 - BertrandtGUI - INFO - ✅ Dynamic Messe Stand V4 erfolgreich initialisiert!
+2025-08-20 13:58:31,547 - BertrandtGUI - INFO - ✅ Dynamic Messe Stand V4 erfolgreich gestartet!
+2025-08-20 13:58:31,547 - BertrandtGUI - INFO - 💡 Drücke F11 für Vollbild, ESC zum Verlassen
+2025-08-20 13:58:31,547 - BertrandtGUI - INFO - GUI-Hauptschleife gestartet
+2025-08-20 13:58:31,572 - BertrandtGUI - INFO - Fenster auf Hauptmonitor zurück bewegt: (0, 120)
+2025-08-20 13:58:34,070 - BertrandtGUI - DEBUG - Home-Tab versteckt
+2025-08-20 13:58:34,071 - BertrandtGUI - DEBUG - Demo-Tab angezeigt
+2025-08-20 13:58:34,071 - BertrandtGUI - DEBUG - Tab gewechselt: demo
+2025-08-20 13:58:35,910 - BertrandtGUI - DEBUG - Demo-Tab versteckt
+2025-08-20 13:58:35,931 - BertrandtGUI - DEBUG - Demo-Slide 1 geladen: BumbleB - Das automatisierte Shuttle
+2025-08-20 13:58:35,931 - BertrandtGUI - DEBUG - Tab gewechselt: creator
+2025-08-20 13:58:36,155 - BertrandtGUI - DEBUG - Canvas: 1127x736, Slide: 1920x1080, Scale: 0.566, Scaled: 1087x611
+2025-08-20 13:58:36,155 - BertrandtGUI - DEBUG - Bestehende Elemente neu skaliert mit Faktor 0.566
+2025-08-20 14:03:33,234 - BertrandtGUI - INFO - Anwendung durch Benutzer unterbrochen
+2025-08-20 14:03:33,234 - BertrandtGUI - INFO - Anwendung wird beendet...
+2025-08-20 14:03:33,234 - BertrandtGUI - INFO - 🧹 Cleanup wird durchgeführt...
+2025-08-20 14:03:33,234 - BertrandtGUI - INFO - 👋 Dynamic Messe Stand V4 beendet
+2025-08-20 14:05:10,782 - BertrandtGUI - DEBUG - Slide 9 geladen
+2025-08-20 14:05:10,782 - BertrandtGUI - DEBUG - Slide 8 geladen
+2025-08-20 14:05:10,782 - BertrandtGUI - DEBUG - Slide 2 geladen
+2025-08-20 14:05:10,782 - BertrandtGUI - DEBUG - Slide 4 geladen
+2025-08-20 14:05:10,783 - BertrandtGUI - DEBUG - Slide 5 geladen
+2025-08-20 14:05:10,783 - BertrandtGUI - DEBUG - Slide 6 geladen
+2025-08-20 14:05:10,783 - BertrandtGUI - DEBUG - Slide 3 geladen
+2025-08-20 14:05:10,783 - BertrandtGUI - DEBUG - Slide 7 geladen
+2025-08-20 14:05:10,783 - BertrandtGUI - DEBUG - Slide 1 geladen
+2025-08-20 14:05:10,783 - BertrandtGUI - DEBUG - Slide 10 geladen
+2025-08-20 14:05:10,783 - BertrandtGUI - INFO - 10 Slides geladen
+2025-08-20 14:05:10,815 - BertrandtGUI - INFO - 🚀 Dynamic Messe Stand V4 wird gestartet...
+2025-08-20 14:05:10,815 - BertrandtGUI - INFO - Python Version: 3.12.3 (main, Jun 18 2025, 17:59:45) [GCC 13.3.0]
+2025-08-20 14:05:10,815 - BertrandtGUI - INFO - Arbeitsverzeichnis: /home/messe_pc/Dynamic_Messe_Stand_V4/Python_GUI
+2025-08-20 14:05:10,815 - BertrandtGUI - INFO - 🔌 Hardware-Setup wird gestartet...
+2025-08-20 14:05:10,815 - BertrandtGUI - ERROR - Fehler beim Verbinden mit ESP32-1: [Errno 2] could not open port /dev/ttyUSB0: [Errno 2] No such file or directory: '/dev/ttyUSB0'
+2025-08-20 14:05:10,815 - BertrandtGUI - ERROR - Fehler beim Verbinden mit ESP32-2: [Errno 2] could not open port /dev/ttyUSB1: [Errno 2] No such file or directory: '/dev/ttyUSB1'
+2025-08-20 14:05:10,815 - BertrandtGUI - ERROR - Fehler beim Verbinden mit ESP32-3: [Errno 2] could not open port /dev/ttyUSB2: [Errno 2] No such file or directory: '/dev/ttyUSB2'
+2025-08-20 14:05:10,815 - BertrandtGUI - ERROR - Fehler beim Verbinden mit Arduino GIGA: [Errno 2] could not open port /dev/ttyACM0: [Errno 2] No such file or directory: '/dev/ttyACM0'
+2025-08-20 14:05:10,815 - BertrandtGUI - INFO - esp32_1: ❌ Fehler
+2025-08-20 14:05:10,815 - BertrandtGUI - INFO - esp32_2: ❌ Fehler
+2025-08-20 14:05:10,815 - BertrandtGUI - INFO - esp32_3: ❌ Fehler
+2025-08-20 14:05:10,815 - BertrandtGUI - INFO - giga: ❌ Fehler
+2025-08-20 14:05:10,815 - BertrandtGUI - WARNING - ⚠️ Keine Hardware-Verbindungen erfolgreich - GUI startet trotzdem
+2025-08-20 14:05:10,815 - BertrandtGUI - INFO - 🖥️ GUI wird initialisiert...
+2025-08-20 14:05:10,815 - BertrandtGUI - INFO - 🚀 Starte Dynamic Messe Stand V4...
+2025-08-20 14:05:11,024 - BertrandtGUI - INFO - Primärer Monitor: 1920x1080 bei (0, 120)
+2025-08-20 14:05:11,025 - BertrandtGUI - INFO - Hauptmonitor erkannt: 1920x1080 bei (0, 120)
+2025-08-20 14:05:11,029 - BertrandtGUI - DEBUG - Responsive Design: 1920x1080, Scale: 1.00
+2025-08-20 14:05:11,129 - BertrandtGUI - INFO - ✅ Bertrandt Layout-Struktur erstellt
+2025-08-20 14:05:11,191 - BertrandtGUI - DEBUG - Home-Tab angezeigt
+2025-08-20 14:05:11,191 - BertrandtGUI - DEBUG - Tab gewechselt: home
+2025-08-20 14:05:11,191 - BertrandtGUI - INFO - ✅ Dynamic Messe Stand V4 erfolgreich initialisiert!
+2025-08-20 14:05:11,191 - BertrandtGUI - INFO - ✅ Dynamic Messe Stand V4 erfolgreich gestartet!
+2025-08-20 14:05:11,192 - BertrandtGUI - INFO - 💡 Drücke F11 für Vollbild, ESC zum Verlassen
+2025-08-20 14:05:11,192 - BertrandtGUI - INFO - GUI-Hauptschleife gestartet
+2025-08-20 14:05:11,205 - BertrandtGUI - INFO - Fenster auf Hauptmonitor zurück bewegt: (0, 120)
+2025-08-20 14:05:16,670 - BertrandtGUI - DEBUG - Home-Tab versteckt
+2025-08-20 14:05:16,670 - BertrandtGUI - DEBUG - Demo-Tab angezeigt
+2025-08-20 14:05:16,670 - BertrandtGUI - DEBUG - Tab gewechselt: demo
+2025-08-20 14:05:20,590 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_2
+2025-08-20 14:05:21,670 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_3
+2025-08-20 14:05:21,671 - BertrandtGUI - DEBUG - Slide 3 mit 1 Elementen gerendert
+2025-08-20 14:05:22,973 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_2
+2025-08-20 14:05:23,526 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_1
+2025-08-20 14:05:24,757 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_2
+2025-08-20 14:05:25,341 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_3
+2025-08-20 14:05:25,342 - BertrandtGUI - DEBUG - Slide 3 mit 1 Elementen gerendert
+2025-08-20 14:05:26,149 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_4
+2025-08-20 14:05:27,614 - BertrandtGUI - DEBUG - Demo-Tab versteckt
+2025-08-20 14:05:27,622 - BertrandtGUI - DEBUG - Demo-Slide 1 geladen: BumbleB - Das automatisierte Shuttle
+2025-08-20 14:05:27,622 - BertrandtGUI - DEBUG - Tab gewechselt: creator
+2025-08-20 14:05:27,868 - BertrandtGUI - DEBUG - Canvas: 1127x699, Slide: 1920x1080, Scale: 0.566, Scaled: 1087x611
+2025-08-20 14:05:27,869 - BertrandtGUI - DEBUG - Bestehende Elemente neu skaliert mit Faktor 0.566
+2025-08-20 14:05:27,925 - BertrandtGUI - DEBUG - Canvas: 1127x736, Slide: 1920x1080, Scale: 0.566, Scaled: 1087x611
+2025-08-20 14:05:27,925 - BertrandtGUI - DEBUG - Bestehende Elemente neu skaliert mit Faktor 0.566
+2025-08-20 14:05:31,367 - BertrandtGUI - DEBUG - Slide 1 gespeichert
+2025-08-20 14:05:31,367 - BertrandtGUI - INFO - Demo-Slide 1 mit 9 Elementen gespeichert
+2025-08-20 14:05:31,376 - BertrandtGUI - DEBUG - Demo-Slide 2 geladen: BumbleB - Wie die Hummel
+2025-08-20 14:05:31,894 - BertrandtGUI - DEBUG - Slide 2 gespeichert
+2025-08-20 14:05:31,894 - BertrandtGUI - INFO - Demo-Slide 2 mit 9 Elementen gespeichert
+2025-08-20 14:05:31,902 - BertrandtGUI - DEBUG - Demo-Slide 3 geladen: Einfach losfahren
+2025-08-20 14:07:10,583 - BertrandtGUI - INFO - Anwendung durch Benutzer unterbrochen
+2025-08-20 14:07:10,583 - BertrandtGUI - INFO - Anwendung wird beendet...
+2025-08-20 14:07:10,583 - BertrandtGUI - INFO - 🧹 Cleanup wird durchgeführt...
+2025-08-20 14:07:10,583 - BertrandtGUI - INFO - 👋 Dynamic Messe Stand V4 beendet
+2025-08-20 14:08:02,682 - BertrandtGUI - DEBUG - Slide 9 geladen
+2025-08-20 14:08:02,682 - BertrandtGUI - DEBUG - Slide 8 geladen
+2025-08-20 14:08:02,682 - BertrandtGUI - DEBUG - Slide 2 geladen
+2025-08-20 14:08:02,682 - BertrandtGUI - DEBUG - Slide 4 geladen
+2025-08-20 14:08:02,682 - BertrandtGUI - DEBUG - Slide 5 geladen
+2025-08-20 14:08:02,682 - BertrandtGUI - DEBUG - Slide 6 geladen
+2025-08-20 14:08:02,682 - BertrandtGUI - DEBUG - Slide 3 geladen
+2025-08-20 14:08:02,683 - BertrandtGUI - DEBUG - Slide 7 geladen
+2025-08-20 14:08:02,683 - BertrandtGUI - DEBUG - Slide 1 geladen
+2025-08-20 14:08:02,683 - BertrandtGUI - DEBUG - Slide 10 geladen
+2025-08-20 14:08:02,683 - BertrandtGUI - INFO - 10 Slides geladen
+2025-08-20 14:08:02,707 - BertrandtGUI - INFO - 🚀 Dynamic Messe Stand V4 wird gestartet...
+2025-08-20 14:08:02,707 - BertrandtGUI - INFO - Python Version: 3.12.3 (main, Jun 18 2025, 17:59:45) [GCC 13.3.0]
+2025-08-20 14:08:02,707 - BertrandtGUI - INFO - Arbeitsverzeichnis: /home/messe_pc/Dynamic_Messe_Stand_V4/Python_GUI
+2025-08-20 14:08:02,707 - BertrandtGUI - INFO - 🔌 Hardware-Setup wird gestartet...
+2025-08-20 14:08:02,707 - BertrandtGUI - ERROR - Fehler beim Verbinden mit ESP32-1: [Errno 2] could not open port /dev/ttyUSB0: [Errno 2] No such file or directory: '/dev/ttyUSB0'
+2025-08-20 14:08:02,708 - BertrandtGUI - ERROR - Fehler beim Verbinden mit ESP32-2: [Errno 2] could not open port /dev/ttyUSB1: [Errno 2] No such file or directory: '/dev/ttyUSB1'
+2025-08-20 14:08:02,708 - BertrandtGUI - ERROR - Fehler beim Verbinden mit ESP32-3: [Errno 2] could not open port /dev/ttyUSB2: [Errno 2] No such file or directory: '/dev/ttyUSB2'
+2025-08-20 14:08:02,708 - BertrandtGUI - ERROR - Fehler beim Verbinden mit Arduino GIGA: [Errno 2] could not open port /dev/ttyACM0: [Errno 2] No such file or directory: '/dev/ttyACM0'
+2025-08-20 14:08:02,708 - BertrandtGUI - INFO - esp32_1: ❌ Fehler
+2025-08-20 14:08:02,708 - BertrandtGUI - INFO - esp32_2: ❌ Fehler
+2025-08-20 14:08:02,708 - BertrandtGUI - INFO - esp32_3: ❌ Fehler
+2025-08-20 14:08:02,708 - BertrandtGUI - INFO - giga: ❌ Fehler
+2025-08-20 14:08:02,708 - BertrandtGUI - WARNING - ⚠️ Keine Hardware-Verbindungen erfolgreich - GUI startet trotzdem
+2025-08-20 14:08:02,708 - BertrandtGUI - INFO - 🖥️ GUI wird initialisiert...
+2025-08-20 14:08:02,708 - BertrandtGUI - INFO - 🚀 Starte Dynamic Messe Stand V4...
+2025-08-20 14:08:02,922 - BertrandtGUI - INFO - Primärer Monitor: 1920x1080 bei (0, 120)
+2025-08-20 14:08:02,924 - BertrandtGUI - INFO - Hauptmonitor erkannt: 1920x1080 bei (0, 120)
+2025-08-20 14:08:02,925 - BertrandtGUI - DEBUG - Responsive Design: 1920x1080, Scale: 1.00
+2025-08-20 14:08:03,009 - BertrandtGUI - INFO - ✅ Bertrandt Layout-Struktur erstellt
+2025-08-20 14:08:03,045 - BertrandtGUI - DEBUG - Slide 1 mit 9 Elementen gerendert
+2025-08-20 14:08:03,082 - BertrandtGUI - DEBUG - Home-Tab angezeigt
+2025-08-20 14:08:03,082 - BertrandtGUI - DEBUG - Tab gewechselt: home
+2025-08-20 14:08:03,082 - BertrandtGUI - INFO - ✅ Dynamic Messe Stand V4 erfolgreich initialisiert!
+2025-08-20 14:08:03,083 - BertrandtGUI - INFO - ✅ Dynamic Messe Stand V4 erfolgreich gestartet!
+2025-08-20 14:08:03,083 - BertrandtGUI - INFO - 💡 Drücke F11 für Vollbild, ESC zum Verlassen
+2025-08-20 14:08:03,083 - BertrandtGUI - INFO - GUI-Hauptschleife gestartet
+2025-08-20 14:08:03,098 - BertrandtGUI - INFO - Fenster auf Hauptmonitor zurück bewegt: (0, 120)
+2025-08-20 14:08:06,406 - BertrandtGUI - DEBUG - Home-Tab versteckt
+2025-08-20 14:08:06,406 - BertrandtGUI - DEBUG - Demo-Tab angezeigt
+2025-08-20 14:08:06,406 - BertrandtGUI - DEBUG - Tab gewechselt: demo
+2025-08-20 14:08:08,758 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_2
+2025-08-20 14:08:08,765 - BertrandtGUI - DEBUG - Slide 2 mit 9 Elementen gerendert
+2025-08-20 14:08:09,718 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_3
+2025-08-20 14:08:09,718 - BertrandtGUI - DEBUG - Slide 3 mit 1 Elementen gerendert
+2025-08-20 14:08:10,862 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_2
+2025-08-20 14:08:10,868 - BertrandtGUI - DEBUG - Slide 2 mit 9 Elementen gerendert
+2025-08-20 14:08:11,750 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_1
+2025-08-20 14:08:11,756 - BertrandtGUI - DEBUG - Slide 1 mit 9 Elementen gerendert
+2025-08-20 14:08:13,462 - BertrandtGUI - DEBUG - Demo-Tab versteckt
+2025-08-20 14:08:13,719 - BertrandtGUI - DEBUG - Canvas: 1127x699, Slide: 1920x1080, Scale: 0.545, Scaled: 1047x589, Offset: (40, 55)
+2025-08-20 14:08:13,720 - BertrandtGUI - DEBUG - Bestehende Elemente neu skaliert mit Faktor 0.545
+2025-08-20 14:08:13,781 - BertrandtGUI - DEBUG - Canvas: 1127x736, Slide: 1920x1080, Scale: 0.545, Scaled: 1047x589, Offset: (40, 74)
+2025-08-20 14:08:13,781 - BertrandtGUI - DEBUG - Bestehende Elemente neu skaliert mit Faktor 0.545
+2025-08-20 14:08:14,050 - BertrandtGUI - DEBUG - Canvas: 1127x736, Slide: 1920x1080, Scale: 0.545, Scaled: 1047x589, Offset: (40, 74)
+2025-08-20 14:08:14,051 - BertrandtGUI - DEBUG - Bestehende Elemente neu skaliert mit Faktor 0.545
+2025-08-20 14:08:14,051 - BertrandtGUI - DEBUG - Slide-Sichtbarkeit optimiert: 1127x736
+2025-08-20 14:08:14,051 - BertrandtGUI - DEBUG - Demo-Slide 1 geladen: BumbleB - Das automatisierte Shuttle
+2025-08-20 14:08:14,051 - BertrandtGUI - DEBUG - Tab gewechselt: creator
+2025-08-20 14:08:14,251 - BertrandtGUI - DEBUG - Canvas: 1127x736, Slide: 1920x1080, Scale: 0.545, Scaled: 1047x589, Offset: (40, 74)
+2025-08-20 14:08:14,252 - BertrandtGUI - DEBUG - Bestehende Elemente neu skaliert mit Faktor 0.545
+2025-08-20 14:08:14,252 - BertrandtGUI - DEBUG - Slide-Sichtbarkeit optimiert: 1127x736
+2025-08-20 14:08:17,647 - BertrandtGUI - DEBUG - Slide 1 gespeichert
+2025-08-20 14:08:17,647 - BertrandtGUI - INFO - Demo-Slide 1 mit 12 Elementen gespeichert
+2025-08-20 14:08:17,654 - BertrandtGUI - DEBUG - Canvas: 1127x736, Slide: 1920x1080, Scale: 0.545, Scaled: 1047x589, Offset: (40, 74)
+2025-08-20 14:08:17,655 - BertrandtGUI - DEBUG - Bestehende Elemente neu skaliert mit Faktor 0.545
+2025-08-20 14:08:17,655 - BertrandtGUI - DEBUG - Slide-Sichtbarkeit optimiert: 1127x736
+2025-08-20 14:08:17,655 - BertrandtGUI - DEBUG - Demo-Slide 2 geladen: BumbleB - Wie die Hummel
+2025-08-20 14:08:18,271 - BertrandtGUI - DEBUG - Slide 2 gespeichert
+2025-08-20 14:08:18,271 - BertrandtGUI - INFO - Demo-Slide 2 mit 12 Elementen gespeichert
+2025-08-20 14:08:18,279 - BertrandtGUI - DEBUG - Canvas: 1127x736, Slide: 1920x1080, Scale: 0.545, Scaled: 1047x589, Offset: (40, 74)
+2025-08-20 14:08:18,279 - BertrandtGUI - DEBUG - Bestehende Elemente neu skaliert mit Faktor 0.545
+2025-08-20 14:08:18,279 - BertrandtGUI - DEBUG - Slide-Sichtbarkeit optimiert: 1127x736
+2025-08-20 14:08:18,279 - BertrandtGUI - DEBUG - Demo-Slide 3 geladen: Einfach losfahren
+2025-08-20 14:13:17,421 - BertrandtGUI - INFO - Anwendung durch Benutzer unterbrochen
+2025-08-20 14:13:17,421 - BertrandtGUI - INFO - Anwendung wird beendet...
+2025-08-20 14:13:17,421 - BertrandtGUI - INFO - 🧹 Cleanup wird durchgeführt...
+2025-08-20 14:13:17,421 - BertrandtGUI - INFO - 👋 Dynamic Messe Stand V4 beendet
+2025-08-20 14:13:21,040 - BertrandtGUI - DEBUG - Slide 9 geladen
+2025-08-20 14:13:21,040 - BertrandtGUI - DEBUG - Slide 8 geladen
+2025-08-20 14:13:21,040 - BertrandtGUI - DEBUG - Slide 2 geladen
+2025-08-20 14:13:21,040 - BertrandtGUI - DEBUG - Slide 4 geladen
+2025-08-20 14:13:21,041 - BertrandtGUI - DEBUG - Slide 5 geladen
+2025-08-20 14:13:21,041 - BertrandtGUI - DEBUG - Slide 6 geladen
+2025-08-20 14:13:21,041 - BertrandtGUI - DEBUG - Slide 3 geladen
+2025-08-20 14:13:21,041 - BertrandtGUI - DEBUG - Slide 7 geladen
+2025-08-20 14:13:21,041 - BertrandtGUI - DEBUG - Slide 1 geladen
+2025-08-20 14:13:21,041 - BertrandtGUI - DEBUG - Slide 10 geladen
+2025-08-20 14:13:21,041 - BertrandtGUI - INFO - 10 Slides geladen
+2025-08-20 14:13:21,072 - BertrandtGUI - INFO - 🚀 Dynamic Messe Stand V4 wird gestartet...
+2025-08-20 14:13:21,072 - BertrandtGUI - INFO - Python Version: 3.12.3 (main, Jun 18 2025, 17:59:45) [GCC 13.3.0]
+2025-08-20 14:13:21,072 - BertrandtGUI - INFO - Arbeitsverzeichnis: /home/messe_pc/Dynamic_Messe_Stand_V4/Python_GUI
+2025-08-20 14:13:21,073 - BertrandtGUI - INFO - 🔌 Hardware-Setup wird gestartet...
+2025-08-20 14:13:21,073 - BertrandtGUI - ERROR - Fehler beim Verbinden mit ESP32-1: [Errno 2] could not open port /dev/ttyUSB0: [Errno 2] No such file or directory: '/dev/ttyUSB0'
+2025-08-20 14:13:21,073 - BertrandtGUI - ERROR - Fehler beim Verbinden mit ESP32-2: [Errno 2] could not open port /dev/ttyUSB1: [Errno 2] No such file or directory: '/dev/ttyUSB1'
+2025-08-20 14:13:21,073 - BertrandtGUI - ERROR - Fehler beim Verbinden mit ESP32-3: [Errno 2] could not open port /dev/ttyUSB2: [Errno 2] No such file or directory: '/dev/ttyUSB2'
+2025-08-20 14:13:21,073 - BertrandtGUI - ERROR - Fehler beim Verbinden mit Arduino GIGA: [Errno 2] could not open port /dev/ttyACM0: [Errno 2] No such file or directory: '/dev/ttyACM0'
+2025-08-20 14:13:21,073 - BertrandtGUI - INFO - esp32_1: ❌ Fehler
+2025-08-20 14:13:21,073 - BertrandtGUI - INFO - esp32_2: ❌ Fehler
+2025-08-20 14:13:21,073 - BertrandtGUI - INFO - esp32_3: ❌ Fehler
+2025-08-20 14:13:21,073 - BertrandtGUI - INFO - giga: ❌ Fehler
+2025-08-20 14:13:21,073 - BertrandtGUI - WARNING - ⚠️ Keine Hardware-Verbindungen erfolgreich - GUI startet trotzdem
+2025-08-20 14:13:21,073 - BertrandtGUI - INFO - 🖥️ GUI wird initialisiert...
+2025-08-20 14:13:21,073 - BertrandtGUI - INFO - 🚀 Starte Dynamic Messe Stand V4...
+2025-08-20 14:13:21,312 - BertrandtGUI - INFO - Primärer Monitor: 1920x1080 bei (0, 120)
+2025-08-20 14:13:21,312 - BertrandtGUI - INFO - Hauptmonitor erkannt: 1920x1080 bei (0, 120)
+2025-08-20 14:13:21,313 - BertrandtGUI - DEBUG - Responsive Design: 1920x1080, Scale: 1.00
+2025-08-20 14:13:21,388 - BertrandtGUI - INFO - ✅ Bertrandt Layout-Struktur erstellt
+2025-08-20 14:13:21,439 - BertrandtGUI - DEBUG - Slide 1 mit 12 Elementen gerendert
+2025-08-20 14:13:21,472 - BertrandtGUI - DEBUG - Home-Tab angezeigt
+2025-08-20 14:13:21,473 - BertrandtGUI - DEBUG - Tab gewechselt: home
+2025-08-20 14:13:21,473 - BertrandtGUI - INFO - ✅ Dynamic Messe Stand V4 erfolgreich initialisiert!
+2025-08-20 14:13:21,473 - BertrandtGUI - INFO - ✅ Dynamic Messe Stand V4 erfolgreich gestartet!
+2025-08-20 14:13:21,473 - BertrandtGUI - INFO - 💡 Drücke F11 für Vollbild, ESC zum Verlassen
+2025-08-20 14:13:21,473 - BertrandtGUI - INFO - GUI-Hauptschleife gestartet
+2025-08-20 14:13:21,491 - BertrandtGUI - INFO - Fenster auf Hauptmonitor zurück bewegt: (0, 120)
+2025-08-20 14:13:23,834 - BertrandtGUI - DEBUG - Home-Tab versteckt
+2025-08-20 14:13:23,835 - BertrandtGUI - DEBUG - Creator: 12 Canvas-Elemente gerendert
+2025-08-20 14:13:24,105 - BertrandtGUI - DEBUG - Canvas: 1127x699, Slide: 1920x1080, Scale: 0.545, Scaled: 1047x589, Offset: (40, 55)
+2025-08-20 14:13:24,106 - BertrandtGUI - DEBUG - Bestehende Elemente neu skaliert mit Faktor 0.545
+2025-08-20 14:13:24,170 - BertrandtGUI - DEBUG - Canvas: 1127x736, Slide: 1920x1080, Scale: 0.545, Scaled: 1047x589, Offset: (40, 74)
+2025-08-20 14:13:24,171 - BertrandtGUI - DEBUG - Bestehende Elemente neu skaliert mit Faktor 0.545
+2025-08-20 14:13:24,427 - BertrandtGUI - DEBUG - Canvas: 1127x736, Slide: 1920x1080, Scale: 0.545, Scaled: 1047x589, Offset: (40, 74)
+2025-08-20 14:13:24,427 - BertrandtGUI - DEBUG - Bestehende Elemente neu skaliert mit Faktor 0.545
+2025-08-20 14:13:24,427 - BertrandtGUI - DEBUG - Slide-Sichtbarkeit optimiert: 1127x736
+2025-08-20 14:13:24,428 - BertrandtGUI - DEBUG - Demo-Slide 1 geladen: BumbleB - Das automatisierte Shuttle
+2025-08-20 14:13:24,428 - BertrandtGUI - DEBUG - Tab gewechselt: creator
+2025-08-20 14:13:24,628 - BertrandtGUI - DEBUG - Canvas: 1127x736, Slide: 1920x1080, Scale: 0.545, Scaled: 1047x589, Offset: (40, 74)
+2025-08-20 14:13:24,628 - BertrandtGUI - DEBUG - Bestehende Elemente neu skaliert mit Faktor 0.545
+2025-08-20 14:13:24,628 - BertrandtGUI - DEBUG - Slide-Sichtbarkeit optimiert: 1127x736
+2025-08-20 14:13:26,082 - BertrandtGUI - DEBUG - Demo-Tab angezeigt
+2025-08-20 14:13:26,082 - BertrandtGUI - DEBUG - Tab gewechselt: demo
+2025-08-20 14:13:27,762 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_2
+2025-08-20 14:13:27,763 - BertrandtGUI - DEBUG - Slide 2 mit 12 Elementen gerendert
+2025-08-20 14:15:59,752 - BertrandtGUI - DEBUG - Vollbild deaktiviert - bleibt auf Hauptmonitor
+2025-08-20 14:16:02,573 - BertrandtGUI - INFO - 🧹 Cleanup wird durchgeführt...
+2025-08-20 14:16:02,574 - BertrandtGUI - INFO - 👋 Dynamic Messe Stand V4 beendet
+2025-08-20 14:16:05,987 - BertrandtGUI - DEBUG - Slide 9 geladen
+2025-08-20 14:16:05,988 - BertrandtGUI - DEBUG - Slide 8 geladen
+2025-08-20 14:16:05,988 - BertrandtGUI - DEBUG - Slide 2 geladen
+2025-08-20 14:16:05,988 - BertrandtGUI - DEBUG - Slide 4 geladen
+2025-08-20 14:16:05,988 - BertrandtGUI - DEBUG - Slide 5 geladen
+2025-08-20 14:16:05,988 - BertrandtGUI - DEBUG - Slide 6 geladen
+2025-08-20 14:16:05,988 - BertrandtGUI - DEBUG - Slide 3 geladen
+2025-08-20 14:16:05,988 - BertrandtGUI - DEBUG - Slide 7 geladen
+2025-08-20 14:16:05,988 - BertrandtGUI - DEBUG - Slide 1 geladen
+2025-08-20 14:16:05,988 - BertrandtGUI - DEBUG - Slide 10 geladen
+2025-08-20 14:16:05,988 - BertrandtGUI - INFO - 10 Slides geladen
+2025-08-20 14:16:06,017 - BertrandtGUI - INFO - 🚀 Dynamic Messe Stand V4 wird gestartet...
+2025-08-20 14:16:06,017 - BertrandtGUI - INFO - Python Version: 3.12.3 (main, Jun 18 2025, 17:59:45) [GCC 13.3.0]
+2025-08-20 14:16:06,017 - BertrandtGUI - INFO - Arbeitsverzeichnis: /home/messe_pc/Dynamic_Messe_Stand_V4/Python_GUI
+2025-08-20 14:16:06,017 - BertrandtGUI - INFO - 🔌 Hardware-Setup wird gestartet...
+2025-08-20 14:16:06,017 - BertrandtGUI - ERROR - Fehler beim Verbinden mit ESP32-1: [Errno 2] could not open port /dev/ttyUSB0: [Errno 2] No such file or directory: '/dev/ttyUSB0'
+2025-08-20 14:16:06,017 - BertrandtGUI - ERROR - Fehler beim Verbinden mit ESP32-2: [Errno 2] could not open port /dev/ttyUSB1: [Errno 2] No such file or directory: '/dev/ttyUSB1'
+2025-08-20 14:16:06,017 - BertrandtGUI - ERROR - Fehler beim Verbinden mit ESP32-3: [Errno 2] could not open port /dev/ttyUSB2: [Errno 2] No such file or directory: '/dev/ttyUSB2'
+2025-08-20 14:16:06,017 - BertrandtGUI - ERROR - Fehler beim Verbinden mit Arduino GIGA: [Errno 2] could not open port /dev/ttyACM0: [Errno 2] No such file or directory: '/dev/ttyACM0'
+2025-08-20 14:16:06,017 - BertrandtGUI - INFO - esp32_1: ❌ Fehler
+2025-08-20 14:16:06,017 - BertrandtGUI - INFO - esp32_2: ❌ Fehler
+2025-08-20 14:16:06,017 - BertrandtGUI - INFO - esp32_3: ❌ Fehler
+2025-08-20 14:16:06,017 - BertrandtGUI - INFO - giga: ❌ Fehler
+2025-08-20 14:16:06,017 - BertrandtGUI - WARNING - ⚠️ Keine Hardware-Verbindungen erfolgreich - GUI startet trotzdem
+2025-08-20 14:16:06,017 - BertrandtGUI - INFO - 🖥️ GUI wird initialisiert...
+2025-08-20 14:16:06,017 - BertrandtGUI - INFO - 🚀 Starte Dynamic Messe Stand V4...
+2025-08-20 14:16:06,213 - BertrandtGUI - INFO - Primärer Monitor: 1920x1080 bei (0, 120)
+2025-08-20 14:16:06,213 - BertrandtGUI - INFO - Hauptmonitor erkannt: 1920x1080 bei (0, 120)
+2025-08-20 14:16:06,216 - BertrandtGUI - DEBUG - Responsive Design: 1920x1080, Scale: 1.00
+2025-08-20 14:16:06,279 - BertrandtGUI - INFO - ✅ Bertrandt Layout-Struktur erstellt
+2025-08-20 14:16:06,319 - BertrandtGUI - DEBUG - Slide 1 mit 12 Elementen gerendert
+2025-08-20 14:16:06,353 - BertrandtGUI - DEBUG - Home-Tab angezeigt
+2025-08-20 14:16:06,354 - BertrandtGUI - DEBUG - Tab gewechselt: home
+2025-08-20 14:16:06,354 - BertrandtGUI - INFO - ✅ Dynamic Messe Stand V4 erfolgreich initialisiert!
+2025-08-20 14:16:06,354 - BertrandtGUI - INFO - ✅ Dynamic Messe Stand V4 erfolgreich gestartet!
+2025-08-20 14:16:06,354 - BertrandtGUI - INFO - 💡 Drücke F11 für Vollbild, ESC zum Verlassen
+2025-08-20 14:16:06,354 - BertrandtGUI - INFO - GUI-Hauptschleife gestartet
+2025-08-20 14:16:06,367 - BertrandtGUI - INFO - Fenster auf Hauptmonitor zurück bewegt: (0, 120)
+2025-08-20 14:16:10,152 - BertrandtGUI - DEBUG - Home-Tab versteckt
+2025-08-20 14:16:10,152 - BertrandtGUI - DEBUG - Demo-Tab angezeigt
+2025-08-20 14:16:10,152 - BertrandtGUI - DEBUG - Tab gewechselt: demo
+2025-08-20 14:16:12,167 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_2
+2025-08-20 14:16:12,174 - BertrandtGUI - DEBUG - Slide 2 mit 12 Elementen gerendert
+2025-08-20 14:16:12,815 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_3
+2025-08-20 14:16:12,816 - BertrandtGUI - DEBUG - Slide 3 mit 1 Elementen gerendert
+2025-08-20 14:16:13,199 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_4
+2025-08-20 14:16:13,607 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_5
+2025-08-20 14:16:14,271 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_4
+2025-08-20 14:16:14,695 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_3
+2025-08-20 14:16:14,696 - BertrandtGUI - DEBUG - Slide 3 mit 1 Elementen gerendert
+2025-08-20 14:16:15,143 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_2
+2025-08-20 14:16:15,150 - BertrandtGUI - DEBUG - Slide 2 mit 12 Elementen gerendert
+2025-08-20 14:16:15,799 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_1
+2025-08-20 14:16:15,806 - BertrandtGUI - DEBUG - Slide 1 mit 12 Elementen gerendert
+2025-08-20 14:16:16,215 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_10
+2025-08-20 14:16:18,383 - BertrandtGUI - DEBUG - Demo-Tab versteckt
+2025-08-20 14:16:18,391 - BertrandtGUI - DEBUG - Creator: 12 Canvas-Elemente gerendert
+2025-08-20 14:16:18,663 - BertrandtGUI - DEBUG - Canvas: 1127x699, Slide: 1920x1080, Scale: 0.545, Scaled: 1047x589, Offset: (40, 55)
+2025-08-20 14:16:18,664 - BertrandtGUI - DEBUG - Bestehende Elemente neu skaliert mit Faktor 0.545
+2025-08-20 14:16:18,729 - BertrandtGUI - DEBUG - Canvas: 1127x736, Slide: 1920x1080, Scale: 0.545, Scaled: 1047x589, Offset: (40, 74)
+2025-08-20 14:16:18,729 - BertrandtGUI - DEBUG - Bestehende Elemente neu skaliert mit Faktor 0.545
+2025-08-20 14:16:18,980 - BertrandtGUI - DEBUG - Canvas: 1127x736, Slide: 1920x1080, Scale: 0.545, Scaled: 1047x589, Offset: (40, 74)
+2025-08-20 14:16:18,981 - BertrandtGUI - DEBUG - Bestehende Elemente neu skaliert mit Faktor 0.545
+2025-08-20 14:16:18,981 - BertrandtGUI - DEBUG - Slide-Sichtbarkeit optimiert: 1127x736
+2025-08-20 14:16:18,981 - BertrandtGUI - DEBUG - Demo-Slide 1 geladen: BumbleB - Das automatisierte Shuttle
+2025-08-20 14:16:18,981 - BertrandtGUI - DEBUG - Tab gewechselt: creator
+2025-08-20 14:16:19,181 - BertrandtGUI - DEBUG - Canvas: 1127x736, Slide: 1920x1080, Scale: 0.545, Scaled: 1047x589, Offset: (40, 74)
+2025-08-20 14:16:19,182 - BertrandtGUI - DEBUG - Bestehende Elemente neu skaliert mit Faktor 0.545
+2025-08-20 14:16:19,182 - BertrandtGUI - DEBUG - Slide-Sichtbarkeit optimiert: 1127x736
+2025-08-20 14:16:20,528 - BertrandtGUI - DEBUG - Slide 1 gespeichert
+2025-08-20 14:16:20,528 - BertrandtGUI - INFO - Demo-Slide 1 mit 15 Elementen gespeichert
+2025-08-20 14:16:20,544 - BertrandtGUI - DEBUG - Canvas: 1127x736, Slide: 1920x1080, Scale: 0.545, Scaled: 1047x589, Offset: (40, 74)
+2025-08-20 14:16:20,544 - BertrandtGUI - DEBUG - Bestehende Elemente neu skaliert mit Faktor 0.545
+2025-08-20 14:16:20,544 - BertrandtGUI - DEBUG - Slide-Sichtbarkeit optimiert: 1127x736
+2025-08-20 14:16:20,544 - BertrandtGUI - DEBUG - Demo-Slide 4 geladen: Automatisiert, sicher, flexibel
+2025-08-20 14:16:21,288 - BertrandtGUI - DEBUG - Slide 4 gespeichert
+2025-08-20 14:16:21,288 - BertrandtGUI - INFO - Demo-Slide 4 mit 9 Elementen gespeichert
+2025-08-20 14:16:21,301 - BertrandtGUI - DEBUG - Canvas: 1127x736, Slide: 1920x1080, Scale: 0.545, Scaled: 1047x589, Offset: (40, 74)
+2025-08-20 14:16:21,301 - BertrandtGUI - DEBUG - Bestehende Elemente neu skaliert mit Faktor 0.545
+2025-08-20 14:16:21,301 - BertrandtGUI - DEBUG - Slide-Sichtbarkeit optimiert: 1127x736
+2025-08-20 14:16:21,301 - BertrandtGUI - DEBUG - Demo-Slide 5 geladen: Stadt oder Dorf
+2025-08-20 14:16:22,584 - BertrandtGUI - DEBUG - Slide 5 gespeichert
+2025-08-20 14:16:22,584 - BertrandtGUI - INFO - Demo-Slide 5 mit 9 Elementen gespeichert
+2025-08-20 14:16:22,597 - BertrandtGUI - DEBUG - Canvas: 1127x736, Slide: 1920x1080, Scale: 0.545, Scaled: 1047x589, Offset: (40, 74)
+2025-08-20 14:16:22,597 - BertrandtGUI - DEBUG - Bestehende Elemente neu skaliert mit Faktor 0.545
+2025-08-20 14:16:22,597 - BertrandtGUI - DEBUG - Slide-Sichtbarkeit optimiert: 1127x736
+2025-08-20 14:16:22,597 - BertrandtGUI - DEBUG - Demo-Slide 6 geladen: Expertise und Vision
+2025-08-20 14:19:44,151 - BertrandtGUI - INFO - Anwendung durch Benutzer unterbrochen
+2025-08-20 14:19:44,152 - BertrandtGUI - INFO - Anwendung wird beendet...
+2025-08-20 14:19:44,152 - BertrandtGUI - INFO - 🧹 Cleanup wird durchgeführt...
+2025-08-20 14:19:44,152 - BertrandtGUI - INFO - 👋 Dynamic Messe Stand V4 beendet
+2025-08-20 14:19:55,722 - BertrandtGUI - DEBUG - Slide 9 geladen
+2025-08-20 14:19:55,722 - BertrandtGUI - DEBUG - Slide 8 geladen
+2025-08-20 14:19:55,723 - BertrandtGUI - DEBUG - Slide 2 geladen
+2025-08-20 14:19:55,723 - BertrandtGUI - DEBUG - Slide 4 geladen
+2025-08-20 14:19:55,723 - BertrandtGUI - DEBUG - Slide 5 geladen
+2025-08-20 14:19:55,723 - BertrandtGUI - DEBUG - Slide 6 geladen
+2025-08-20 14:19:55,723 - BertrandtGUI - DEBUG - Slide 3 geladen
+2025-08-20 14:19:55,723 - BertrandtGUI - DEBUG - Slide 7 geladen
+2025-08-20 14:19:55,723 - BertrandtGUI - DEBUG - Slide 1 geladen
+2025-08-20 14:19:55,723 - BertrandtGUI - DEBUG - Slide 10 geladen
+2025-08-20 14:19:55,724 - BertrandtGUI - INFO - 10 Slides geladen (davon 0 neu erstellt)
+2025-08-20 14:19:55,756 - BertrandtGUI - INFO - 🚀 Dynamic Messe Stand V4 wird gestartet...
+2025-08-20 14:19:55,756 - BertrandtGUI - INFO - Python Version: 3.12.3 (main, Jun 18 2025, 17:59:45) [GCC 13.3.0]
+2025-08-20 14:19:55,756 - BertrandtGUI - INFO - Arbeitsverzeichnis: /home/messe_pc/Dynamic_Messe_Stand_V4/Python_GUI
+2025-08-20 14:19:55,757 - BertrandtGUI - INFO - 🔌 Hardware-Setup wird gestartet...
+2025-08-20 14:19:55,757 - BertrandtGUI - ERROR - Fehler beim Verbinden mit ESP32-1: [Errno 2] could not open port /dev/ttyUSB0: [Errno 2] No such file or directory: '/dev/ttyUSB0'
+2025-08-20 14:19:55,757 - BertrandtGUI - ERROR - Fehler beim Verbinden mit ESP32-2: [Errno 2] could not open port /dev/ttyUSB1: [Errno 2] No such file or directory: '/dev/ttyUSB1'
+2025-08-20 14:19:55,757 - BertrandtGUI - ERROR - Fehler beim Verbinden mit ESP32-3: [Errno 2] could not open port /dev/ttyUSB2: [Errno 2] No such file or directory: '/dev/ttyUSB2'
+2025-08-20 14:19:55,757 - BertrandtGUI - ERROR - Fehler beim Verbinden mit Arduino GIGA: [Errno 2] could not open port /dev/ttyACM0: [Errno 2] No such file or directory: '/dev/ttyACM0'
+2025-08-20 14:19:55,757 - BertrandtGUI - INFO - esp32_1: ❌ Fehler
+2025-08-20 14:19:55,757 - BertrandtGUI - INFO - esp32_2: ❌ Fehler
+2025-08-20 14:19:55,757 - BertrandtGUI - INFO - esp32_3: ❌ Fehler
+2025-08-20 14:19:55,757 - BertrandtGUI - INFO - giga: ❌ Fehler
+2025-08-20 14:19:55,757 - BertrandtGUI - WARNING - ⚠️ Keine Hardware-Verbindungen erfolgreich - GUI startet trotzdem
+2025-08-20 14:19:55,757 - BertrandtGUI - INFO - 🖥️ GUI wird initialisiert...
+2025-08-20 14:19:55,757 - BertrandtGUI - INFO - 🚀 Starte Dynamic Messe Stand V4...
+2025-08-20 14:19:55,985 - BertrandtGUI - INFO - Primärer Monitor: 1920x1080 bei (0, 120)
+2025-08-20 14:19:55,985 - BertrandtGUI - INFO - Hauptmonitor erkannt: 1920x1080 bei (0, 120)
+2025-08-20 14:19:55,986 - BertrandtGUI - DEBUG - Responsive Design: 1920x1080, Scale: 1.00
+2025-08-20 14:19:56,082 - BertrandtGUI - INFO - ✅ Bertrandt Layout-Struktur erstellt
+2025-08-20 14:19:56,117 - BertrandtGUI - DEBUG - Slide 1 mit 15 Canvas-Elementen gerendert
+2025-08-20 14:19:56,151 - BertrandtGUI - DEBUG - Home-Tab angezeigt
+2025-08-20 14:19:56,151 - BertrandtGUI - DEBUG - Tab gewechselt: home
+2025-08-20 14:19:56,151 - BertrandtGUI - INFO - ✅ Dynamic Messe Stand V4 erfolgreich initialisiert!
+2025-08-20 14:19:56,151 - BertrandtGUI - INFO - ✅ Dynamic Messe Stand V4 erfolgreich gestartet!
+2025-08-20 14:19:56,151 - BertrandtGUI - INFO - 💡 Drücke F11 für Vollbild, ESC zum Verlassen
+2025-08-20 14:19:56,152 - BertrandtGUI - INFO - GUI-Hauptschleife gestartet
+2025-08-20 14:19:56,168 - BertrandtGUI - INFO - Fenster auf Hauptmonitor zurück bewegt: (0, 120)
+2025-08-20 14:19:58,717 - BertrandtGUI - DEBUG - Home-Tab versteckt
+2025-08-20 14:19:58,717 - BertrandtGUI - DEBUG - Demo-Tab angezeigt
+2025-08-20 14:19:58,718 - BertrandtGUI - DEBUG - Tab gewechselt: demo
+2025-08-20 14:20:00,421 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_2
+2025-08-20 14:20:00,429 - BertrandtGUI - DEBUG - Slide 2 mit 12 Canvas-Elementen gerendert
+2025-08-20 14:20:01,365 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_3
+2025-08-20 14:20:01,366 - BertrandtGUI - DEBUG - Slide 3 mit 1 Canvas-Elementen gerendert
+2025-08-20 14:20:02,125 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_4
+2025-08-20 14:20:02,132 - BertrandtGUI - DEBUG - Slide 4 mit 9 Canvas-Elementen gerendert
+2025-08-20 14:20:02,733 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_5
+2025-08-20 14:20:02,740 - BertrandtGUI - DEBUG - Slide 5 mit 9 Canvas-Elementen gerendert
+2025-08-20 14:20:03,253 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_6
+2025-08-20 14:20:03,260 - BertrandtGUI - DEBUG - Slide 6 mit Fallback-Text gerendert
+2025-08-20 15:03:10,663 - BertrandtGUI - INFO - Anwendung durch Benutzer unterbrochen
+2025-08-20 15:03:10,663 - BertrandtGUI - INFO - Anwendung wird beendet...
+2025-08-20 15:03:10,664 - BertrandtGUI - INFO - 🧹 Cleanup wird durchgeführt...
+2025-08-20 15:03:10,664 - BertrandtGUI - INFO - 👋 Dynamic Messe Stand V4 beendet
+2025-08-20 15:07:19,742 - BertrandtGUI - DEBUG - Slide 9 geladen
+2025-08-20 15:07:19,742 - BertrandtGUI - DEBUG - Slide 8 geladen
+2025-08-20 15:07:19,742 - BertrandtGUI - DEBUG - Slide 2 geladen
+2025-08-20 15:07:19,742 - BertrandtGUI - ERROR - Fehler beim Laden von Slide 4: Expecting property name enclosed in double quotes: line 8 column 1 (char 271)
+2025-08-20 15:07:19,742 - BertrandtGUI - INFO - Standard-Slide 4 erstellt: Sicherheitssysteme
+2025-08-20 15:07:19,742 - BertrandtGUI - ERROR - Fehler beim Laden von Slide 5: Expecting property name enclosed in double quotes: line 8 column 1 (char 284)
+2025-08-20 15:07:19,743 - BertrandtGUI - INFO - Standard-Slide 5 erstellt: Nachhaltigkeit & Umwelt
+2025-08-20 15:07:19,743 - BertrandtGUI - DEBUG - Slide 6 geladen
+2025-08-20 15:07:19,743 - BertrandtGUI - ERROR - Fehler beim Laden von Slide 3: Expecting property name enclosed in double quotes: line 8 column 1 (char 288)
+2025-08-20 15:07:19,743 - BertrandtGUI - INFO - Standard-Slide 3 erstellt: Einsatzgebiete und Vorteile
+2025-08-20 15:07:19,743 - BertrandtGUI - DEBUG - Slide 7 geladen
+2025-08-20 15:07:19,743 - BertrandtGUI - DEBUG - Slide 1 geladen
+2025-08-20 15:07:19,743 - BertrandtGUI - DEBUG - Slide 10 geladen
+2025-08-20 15:07:19,744 - BertrandtGUI - INFO - 10 Slides geladen (davon 0 neu erstellt)
+2025-08-20 15:07:19,749 - BertrandtGUI - INFO - 🚀 Dynamic Messe Stand V4 wird gestartet...
+2025-08-20 15:07:19,749 - BertrandtGUI - INFO - Python Version: 3.12.3 (main, Jun 18 2025, 17:59:45) [GCC 13.3.0]
+2025-08-20 15:07:19,749 - BertrandtGUI - INFO - Arbeitsverzeichnis: /home/messe_pc/Dynamic_Messe_Stand_V4/Python_GUI
+2025-08-20 15:07:19,749 - BertrandtGUI - INFO - 🔌 Hardware-Setup wird gestartet...
+2025-08-20 15:07:19,749 - BertrandtGUI - ERROR - Fehler beim Verbinden mit ESP32-1: [Errno 2] could not open port /dev/ttyUSB0: [Errno 2] No such file or directory: '/dev/ttyUSB0'
+2025-08-20 15:07:19,750 - BertrandtGUI - ERROR - Fehler beim Verbinden mit ESP32-2: [Errno 2] could not open port /dev/ttyUSB1: [Errno 2] No such file or directory: '/dev/ttyUSB1'
+2025-08-20 15:07:19,750 - BertrandtGUI - ERROR - Fehler beim Verbinden mit ESP32-3: [Errno 2] could not open port /dev/ttyUSB2: [Errno 2] No such file or directory: '/dev/ttyUSB2'
+2025-08-20 15:07:19,750 - BertrandtGUI - ERROR - Fehler beim Verbinden mit Arduino GIGA: [Errno 2] could not open port /dev/ttyACM0: [Errno 2] No such file or directory: '/dev/ttyACM0'
+2025-08-20 15:07:19,750 - BertrandtGUI - INFO - esp32_1: ❌ Fehler
+2025-08-20 15:07:19,750 - BertrandtGUI - INFO - esp32_2: ❌ Fehler
+2025-08-20 15:07:19,750 - BertrandtGUI - INFO - esp32_3: ❌ Fehler
+2025-08-20 15:07:19,750 - BertrandtGUI - INFO - giga: ❌ Fehler
+2025-08-20 15:07:19,750 - BertrandtGUI - WARNING - ⚠️ Keine Hardware-Verbindungen erfolgreich - GUI startet trotzdem
+2025-08-20 15:07:19,750 - BertrandtGUI - INFO - 🖥️ GUI wird initialisiert...
+2025-08-20 15:07:19,750 - BertrandtGUI - INFO - 🚀 Starte Dynamic Messe Stand V4...
+2025-08-20 15:07:19,982 - BertrandtGUI - INFO - Primärer Monitor: 1920x1080 bei (0, 120)
+2025-08-20 15:07:19,982 - BertrandtGUI - INFO - Hauptmonitor erkannt: 1920x1080 bei (0, 120)
+2025-08-20 15:07:19,983 - BertrandtGUI - DEBUG - Responsive Design: 1920x1080, Scale: 1.00
+2025-08-20 15:07:20,075 - BertrandtGUI - INFO - ✅ Bertrandt Layout-Struktur erstellt
+2025-08-20 15:07:20,119 - BertrandtGUI - DEBUG - Slide 1 mit Fallback-Text gerendert
+2025-08-20 15:07:20,160 - BertrandtGUI - DEBUG - Home-Tab angezeigt
+2025-08-20 15:07:20,160 - BertrandtGUI - DEBUG - Tab gewechselt: home
+2025-08-20 15:07:20,160 - BertrandtGUI - INFO - ✅ Dynamic Messe Stand V4 erfolgreich initialisiert!
+2025-08-20 15:07:20,160 - BertrandtGUI - INFO - ✅ Dynamic Messe Stand V4 erfolgreich gestartet!
+2025-08-20 15:07:20,160 - BertrandtGUI - INFO - 💡 Drücke F11 für Vollbild, ESC zum Verlassen
+2025-08-20 15:07:20,160 - BertrandtGUI - INFO - GUI-Hauptschleife gestartet
+2025-08-20 15:07:20,180 - BertrandtGUI - INFO - Fenster auf Hauptmonitor zurück bewegt: (0, 120)
+2025-08-20 15:07:51,097 - BertrandtGUI - DEBUG - Home-Tab versteckt
+2025-08-20 15:07:51,097 - BertrandtGUI - DEBUG - Demo-Tab angezeigt
+2025-08-20 15:07:51,097 - BertrandtGUI - DEBUG - Tab gewechselt: demo
+2025-08-20 15:07:53,056 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_2
+2025-08-20 15:07:53,064 - BertrandtGUI - DEBUG - Slide 2 mit Fallback-Text gerendert
+2025-08-20 15:07:53,945 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_3
+2025-08-20 15:07:53,952 - BertrandtGUI - DEBUG - Slide 3 mit Fallback-Text gerendert
+2025-08-20 15:07:54,577 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_2
+2025-08-20 15:07:54,583 - BertrandtGUI - DEBUG - Slide 2 mit Fallback-Text gerendert
+2025-08-20 15:07:54,944 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_1
+2025-08-20 15:07:54,951 - BertrandtGUI - DEBUG - Slide 1 mit Fallback-Text gerendert
+2025-08-20 15:07:56,521 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_2
+2025-08-20 15:07:56,527 - BertrandtGUI - DEBUG - Slide 2 mit Fallback-Text gerendert
+2025-08-20 15:07:56,968 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_3
+2025-08-20 15:07:56,975 - BertrandtGUI - DEBUG - Slide 3 mit Fallback-Text gerendert
+2025-08-20 15:07:57,441 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_4
+2025-08-20 15:07:57,447 - BertrandtGUI - DEBUG - Slide 4 mit Fallback-Text gerendert
+2025-08-20 15:07:57,872 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_5
+2025-08-20 15:07:57,879 - BertrandtGUI - DEBUG - Slide 5 mit Fallback-Text gerendert
+2025-08-20 15:07:58,320 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_6
+2025-08-20 15:07:58,327 - BertrandtGUI - DEBUG - Slide 6 mit Fallback-Text gerendert
+2025-08-20 15:07:58,736 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_7
+2025-08-20 15:07:58,743 - BertrandtGUI - DEBUG - Slide 7 mit Fallback-Text gerendert
+2025-08-20 15:07:59,737 - BertrandtGUI - DEBUG - Demo-Tab versteckt
+2025-08-20 15:08:00,053 - BertrandtGUI - DEBUG - Canvas: 1127x699, Slide: 1920x1080, Scale: 0.545, Scaled: 1047x589, Offset: (40, 55)
+2025-08-20 15:08:00,053 - BertrandtGUI - DEBUG - Bestehende Elemente neu skaliert mit Faktor 0.545
+2025-08-20 15:08:00,128 - BertrandtGUI - DEBUG - Canvas: 1127x736, Slide: 1920x1080, Scale: 0.545, Scaled: 1047x589, Offset: (40, 74)
+2025-08-20 15:08:00,129 - BertrandtGUI - DEBUG - Bestehende Elemente neu skaliert mit Faktor 0.545
+2025-08-20 15:08:00,424 - BertrandtGUI - DEBUG - Canvas: 1127x736, Slide: 1920x1080, Scale: 0.545, Scaled: 1047x589, Offset: (40, 74)
+2025-08-20 15:08:00,425 - BertrandtGUI - DEBUG - Bestehende Elemente neu skaliert mit Faktor 0.545
+2025-08-20 15:08:00,425 - BertrandtGUI - DEBUG - Slide-Sichtbarkeit optimiert: 1127x736
+2025-08-20 15:08:00,426 - BertrandtGUI - DEBUG - Demo-Slide 1 geladen: BumbleB - Das automatisierte Shuttle
+2025-08-20 15:08:00,426 - BertrandtGUI - DEBUG - Tab gewechselt: creator
+2025-08-20 15:08:00,626 - BertrandtGUI - DEBUG - Canvas: 1127x736, Slide: 1920x1080, Scale: 0.545, Scaled: 1047x589, Offset: (40, 74)
+2025-08-20 15:08:00,626 - BertrandtGUI - DEBUG - Bestehende Elemente neu skaliert mit Faktor 0.545
+2025-08-20 15:08:00,626 - BertrandtGUI - DEBUG - Slide-Sichtbarkeit optimiert: 1127x736
+2025-08-20 15:08:02,721 - BertrandtGUI - DEBUG - Slide 1 gespeichert
+2025-08-20 15:08:02,721 - BertrandtGUI - INFO - Demo-Slide 1 mit 8 Elementen gespeichert
+2025-08-20 15:08:02,741 - BertrandtGUI - DEBUG - Canvas: 1127x736, Slide: 1920x1080, Scale: 0.545, Scaled: 1047x589, Offset: (40, 74)
+2025-08-20 15:08:02,741 - BertrandtGUI - DEBUG - Bestehende Elemente neu skaliert mit Faktor 0.545
+2025-08-20 15:08:02,741 - BertrandtGUI - DEBUG - Slide-Sichtbarkeit optimiert: 1127x736
+2025-08-20 15:08:02,741 - BertrandtGUI - DEBUG - Demo-Slide 2 geladen: BumbleB - Wie die Hummel
+2025-08-20 15:08:03,145 - BertrandtGUI - DEBUG - Slide 2 gespeichert
+2025-08-20 15:08:03,145 - BertrandtGUI - INFO - Demo-Slide 2 mit 8 Elementen gespeichert
+2025-08-20 15:08:03,158 - BertrandtGUI - DEBUG - Canvas: 1127x736, Slide: 1920x1080, Scale: 0.545, Scaled: 1047x589, Offset: (40, 74)
+2025-08-20 15:08:03,159 - BertrandtGUI - DEBUG - Bestehende Elemente neu skaliert mit Faktor 0.545
+2025-08-20 15:08:03,159 - BertrandtGUI - DEBUG - Slide-Sichtbarkeit optimiert: 1127x736
+2025-08-20 15:08:03,159 - BertrandtGUI - DEBUG - Demo-Slide 3 geladen: Einsatzgebiete und Vorteile
+2025-08-20 15:08:03,465 - BertrandtGUI - DEBUG - Slide 3 gespeichert
+2025-08-20 15:08:03,466 - BertrandtGUI - INFO - Demo-Slide 3 mit 12 Elementen gespeichert
+2025-08-20 15:08:03,479 - BertrandtGUI - DEBUG - Canvas: 1127x736, Slide: 1920x1080, Scale: 0.545, Scaled: 1047x589, Offset: (40, 74)
+2025-08-20 15:08:03,480 - BertrandtGUI - DEBUG - Bestehende Elemente neu skaliert mit Faktor 0.545
+2025-08-20 15:08:03,480 - BertrandtGUI - DEBUG - Slide-Sichtbarkeit optimiert: 1127x736
+2025-08-20 15:08:03,480 - BertrandtGUI - DEBUG - Demo-Slide 4 geladen: Sicherheitssysteme
+2025-08-20 15:08:03,681 - BertrandtGUI - DEBUG - Slide 4 gespeichert
+2025-08-20 15:08:03,681 - BertrandtGUI - INFO - Demo-Slide 4 mit 12 Elementen gespeichert
+2025-08-20 15:08:03,694 - BertrandtGUI - DEBUG - Canvas: 1127x736, Slide: 1920x1080, Scale: 0.545, Scaled: 1047x589, Offset: (40, 74)
+2025-08-20 15:08:03,694 - BertrandtGUI - DEBUG - Bestehende Elemente neu skaliert mit Faktor 0.545
+2025-08-20 15:08:03,694 - BertrandtGUI - DEBUG - Slide-Sichtbarkeit optimiert: 1127x736
+2025-08-20 15:08:03,694 - BertrandtGUI - DEBUG - Demo-Slide 5 geladen: Nachhaltigkeit & Umwelt
+2025-08-20 15:08:03,881 - BertrandtGUI - DEBUG - Slide 5 gespeichert
+2025-08-20 15:08:03,881 - BertrandtGUI - INFO - Demo-Slide 5 mit 12 Elementen gespeichert
+2025-08-20 15:08:03,894 - BertrandtGUI - DEBUG - Canvas: 1127x736, Slide: 1920x1080, Scale: 0.545, Scaled: 1047x589, Offset: (40, 74)
+2025-08-20 15:08:03,894 - BertrandtGUI - DEBUG - Bestehende Elemente neu skaliert mit Faktor 0.545
+2025-08-20 15:08:03,894 - BertrandtGUI - DEBUG - Slide-Sichtbarkeit optimiert: 1127x736
+2025-08-20 15:08:03,894 - BertrandtGUI - DEBUG - Demo-Slide 6 geladen: Expertise und Vision
+2025-08-20 15:08:04,081 - BertrandtGUI - DEBUG - Slide 6 gespeichert
+2025-08-20 15:08:04,081 - BertrandtGUI - INFO - Demo-Slide 6 mit 9 Elementen gespeichert
+2025-08-20 15:08:04,093 - BertrandtGUI - DEBUG - Canvas: 1127x736, Slide: 1920x1080, Scale: 0.545, Scaled: 1047x589, Offset: (40, 74)
+2025-08-20 15:08:04,093 - BertrandtGUI - DEBUG - Bestehende Elemente neu skaliert mit Faktor 0.545
+2025-08-20 15:08:04,094 - BertrandtGUI - DEBUG - Slide-Sichtbarkeit optimiert: 1127x736
+2025-08-20 15:08:04,094 - BertrandtGUI - DEBUG - Demo-Slide 7 geladen: violis Plattform
+2025-08-21 10:35:26,792 - BertrandtGUI - DEBUG - Home-Tab angezeigt
+2025-08-21 10:35:26,792 - BertrandtGUI - DEBUG - Tab gewechselt: home
+2025-08-21 10:35:47,925 - BertrandtGUI - DEBUG - Home-Tab versteckt
+2025-08-21 10:35:47,926 - BertrandtGUI - DEBUG - Tab gewechselt: creator
+2025-08-21 10:35:47,935 - BertrandtGUI - DEBUG - Canvas: 1127x699, Slide: 1920x1080, Scale: 0.545, Scaled: 1047x589, Offset: (40, 55)
+2025-08-21 10:35:47,935 - BertrandtGUI - DEBUG - Bestehende Elemente neu skaliert mit Faktor 0.545
+2025-08-21 10:35:47,947 - BertrandtGUI - DEBUG - Canvas: 1127x736, Slide: 1920x1080, Scale: 0.545, Scaled: 1047x589, Offset: (40, 74)
+2025-08-21 10:35:47,948 - BertrandtGUI - DEBUG - Bestehende Elemente neu skaliert mit Faktor 0.545
+2025-08-21 10:35:48,126 - BertrandtGUI - DEBUG - Canvas: 1127x736, Slide: 1920x1080, Scale: 0.545, Scaled: 1047x589, Offset: (40, 74)
+2025-08-21 10:35:48,126 - BertrandtGUI - DEBUG - Bestehende Elemente neu skaliert mit Faktor 0.545
+2025-08-21 10:35:48,126 - BertrandtGUI - DEBUG - Slide-Sichtbarkeit optimiert: 1127x736
+2025-08-21 10:35:51,102 - BertrandtGUI - INFO - Element 'title_text' hinzugefügt bei (243.8968481375358, 213.58166189111748)
+2025-08-21 10:35:55,381 - BertrandtGUI - INFO - Element 'text_block' hinzugefügt bei (242.06303724928367, 672.0343839541548)
+2025-08-21 10:35:58,723 - BertrandtGUI - INFO - Element 'icon_idea' hinzugefügt bei (1582.5787965616046, 429.97134670487105)
+2025-08-21 10:36:02,154 - BertrandtGUI - DEBUG - Slide 7 gespeichert
+2025-08-21 10:36:02,155 - BertrandtGUI - INFO - Demo-Slide 7 mit 12 Elementen gespeichert
+2025-08-21 10:36:02,160 - BertrandtGUI - DEBUG - Creator: 8 Canvas-Elemente gerendert
+2025-08-21 10:36:02,165 - BertrandtGUI - DEBUG - Canvas: 1127x736, Slide: 1920x1080, Scale: 0.545, Scaled: 1047x589, Offset: (40, 74)
+2025-08-21 10:36:02,166 - BertrandtGUI - DEBUG - Bestehende Elemente neu skaliert mit Faktor 0.545
+2025-08-21 10:36:02,166 - BertrandtGUI - DEBUG - Slide-Sichtbarkeit optimiert: 1127x736
+2025-08-21 10:36:02,166 - BertrandtGUI - DEBUG - Demo-Slide 2 geladen: BumbleB - Wie die Hummel
+2025-08-21 10:36:02,705 - BertrandtGUI - DEBUG - Slide 2 gespeichert
+2025-08-21 10:36:02,705 - BertrandtGUI - INFO - Demo-Slide 2 mit 11 Elementen gespeichert
+2025-08-21 10:36:02,710 - BertrandtGUI - DEBUG - Creator: 12 Canvas-Elemente gerendert
+2025-08-21 10:36:02,715 - BertrandtGUI - DEBUG - Canvas: 1127x736, Slide: 1920x1080, Scale: 0.545, Scaled: 1047x589, Offset: (40, 74)
+2025-08-21 10:36:02,716 - BertrandtGUI - DEBUG - Bestehende Elemente neu skaliert mit Faktor 0.545
+2025-08-21 10:36:02,716 - BertrandtGUI - DEBUG - Slide-Sichtbarkeit optimiert: 1127x736
+2025-08-21 10:36:02,716 - BertrandtGUI - DEBUG - Demo-Slide 3 geladen: Einsatzgebiete und Vorteile
+2025-08-21 10:36:03,137 - BertrandtGUI - DEBUG - Slide 3 gespeichert
+2025-08-21 10:36:03,137 - BertrandtGUI - INFO - Demo-Slide 3 mit 15 Elementen gespeichert
+2025-08-21 10:36:03,143 - BertrandtGUI - DEBUG - Creator: 12 Canvas-Elemente gerendert
+2025-08-21 10:36:03,148 - BertrandtGUI - DEBUG - Canvas: 1127x736, Slide: 1920x1080, Scale: 0.545, Scaled: 1047x589, Offset: (40, 74)
+2025-08-21 10:36:03,148 - BertrandtGUI - DEBUG - Bestehende Elemente neu skaliert mit Faktor 0.545
+2025-08-21 10:36:03,148 - BertrandtGUI - DEBUG - Slide-Sichtbarkeit optimiert: 1127x736
+2025-08-21 10:36:03,148 - BertrandtGUI - DEBUG - Demo-Slide 4 geladen: Sicherheitssysteme
+2025-08-21 10:36:03,560 - BertrandtGUI - DEBUG - Slide 4 gespeichert
+2025-08-21 10:36:03,560 - BertrandtGUI - INFO - Demo-Slide 4 mit 15 Elementen gespeichert
+2025-08-21 10:36:03,565 - BertrandtGUI - DEBUG - Creator: 12 Canvas-Elemente gerendert
+2025-08-21 10:36:03,570 - BertrandtGUI - DEBUG - Canvas: 1127x736, Slide: 1920x1080, Scale: 0.545, Scaled: 1047x589, Offset: (40, 74)
+2025-08-21 10:36:03,570 - BertrandtGUI - DEBUG - Bestehende Elemente neu skaliert mit Faktor 0.545
+2025-08-21 10:36:03,571 - BertrandtGUI - DEBUG - Slide-Sichtbarkeit optimiert: 1127x736
+2025-08-21 10:36:03,571 - BertrandtGUI - DEBUG - Demo-Slide 5 geladen: Nachhaltigkeit & Umwelt
+2025-08-21 10:36:04,468 - BertrandtGUI - DEBUG - Slide 5 gespeichert
+2025-08-21 10:36:04,469 - BertrandtGUI - INFO - Demo-Slide 5 mit 15 Elementen gespeichert
+2025-08-21 10:36:04,474 - BertrandtGUI - DEBUG - Creator: 15 Canvas-Elemente gerendert
+2025-08-21 10:36:04,479 - BertrandtGUI - DEBUG - Canvas: 1127x736, Slide: 1920x1080, Scale: 0.545, Scaled: 1047x589, Offset: (40, 74)
+2025-08-21 10:36:04,480 - BertrandtGUI - DEBUG - Bestehende Elemente neu skaliert mit Faktor 0.545
+2025-08-21 10:36:04,480 - BertrandtGUI - DEBUG - Slide-Sichtbarkeit optimiert: 1127x736
+2025-08-21 10:36:04,480 - BertrandtGUI - DEBUG - Demo-Slide 3 geladen: Einsatzgebiete und Vorteile
+2025-08-21 10:36:11,137 - BertrandtGUI - DEBUG - Demo-Tab angezeigt
+2025-08-21 10:36:11,137 - BertrandtGUI - DEBUG - Tab gewechselt: demo
+2025-08-21 10:36:12,782 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_8
+2025-08-21 10:36:12,790 - BertrandtGUI - DEBUG - Slide 8 mit Fallback-Text gerendert
+2025-08-21 10:36:13,788 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_9
+2025-08-21 10:36:13,793 - BertrandtGUI - DEBUG - Slide 9 mit Fallback-Text gerendert
+2025-08-21 10:36:14,275 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_10
+2025-08-21 10:36:14,280 - BertrandtGUI - DEBUG - Slide 10 mit Fallback-Text gerendert
+2025-08-21 10:36:14,675 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_1
+2025-08-21 10:36:14,680 - BertrandtGUI - DEBUG - Slide 1 mit 8 Canvas-Elementen gerendert
+2025-08-21 10:36:17,555 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_10
+2025-08-21 10:36:17,560 - BertrandtGUI - DEBUG - Slide 10 mit Fallback-Text gerendert
+2025-08-21 10:36:18,659 - BertrandtGUI - INFO - Slide-Dauer geändert: 5s
+2025-08-21 10:36:18,659 - BertrandtGUI - INFO - Loop-Modus: aktiviert
+2025-08-21 10:36:18,660 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_1
+2025-08-21 10:36:18,660 - BertrandtGUI - INFO - Demo gestartet - Slide 1, 5s pro Slide
+2025-08-21 10:36:18,675 - BertrandtGUI - DEBUG - Slide 1 mit 8 Canvas-Elementen gerendert
+2025-08-21 10:36:23,684 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_2
+2025-08-21 10:36:23,694 - BertrandtGUI - DEBUG - Slide 2 mit 11 Canvas-Elementen gerendert
+2025-08-21 10:36:23,699 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_2
+2025-08-21 10:36:23,708 - BertrandtGUI - DEBUG - Slide 2 mit 11 Canvas-Elementen gerendert
+2025-08-21 10:36:28,717 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_3
+2025-08-21 10:36:28,732 - BertrandtGUI - DEBUG - Slide 3 mit 15 Canvas-Elementen gerendert
+2025-08-21 10:36:28,748 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_3
+2025-08-21 10:36:28,756 - BertrandtGUI - DEBUG - Slide 3 mit 15 Canvas-Elementen gerendert
+2025-08-21 10:36:33,764 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_4
+2025-08-21 10:36:33,776 - BertrandtGUI - DEBUG - Slide 4 mit 15 Canvas-Elementen gerendert
+2025-08-21 10:36:33,794 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_4
+2025-08-21 10:36:33,801 - BertrandtGUI - DEBUG - Slide 4 mit 15 Canvas-Elementen gerendert
+2025-08-21 10:36:35,295 - BertrandtGUI - DEBUG - Demo-Tab versteckt
+2025-08-21 10:36:35,295 - BertrandtGUI - DEBUG - Presentation-Tab angezeigt
+2025-08-21 10:36:35,296 - BertrandtGUI - DEBUG - Tab gewechselt: presentation
+2025-08-21 10:36:37,449 - BertrandtGUI - INFO - Zu Slide 2 gewechselt
+2025-08-21 10:36:38,153 - BertrandtGUI - INFO - Zu Slide 2 gewechselt
+2025-08-21 10:36:38,499 - BertrandtGUI - INFO - Zu Slide 3 gewechselt
+2025-08-21 10:36:38,809 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_5
+2025-08-21 10:36:38,810 - BertrandtGUI - DEBUG - Slide 5 mit 15 Canvas-Elementen gerendert
+2025-08-21 10:36:38,811 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_5
+2025-08-21 10:36:38,812 - BertrandtGUI - DEBUG - Slide 5 mit 15 Canvas-Elementen gerendert
+2025-08-21 10:36:43,816 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_6
+2025-08-21 10:36:43,817 - BertrandtGUI - DEBUG - Slide 6 mit 9 Canvas-Elementen gerendert
+2025-08-21 10:36:43,843 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_6
+2025-08-21 10:36:43,844 - BertrandtGUI - DEBUG - Slide 6 mit 9 Canvas-Elementen gerendert
+2025-08-21 10:36:48,848 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_7
+2025-08-21 10:36:48,866 - BertrandtGUI - DEBUG - Slide 7 mit 12 Canvas-Elementen gerendert
+2025-08-21 10:36:48,875 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_7
+2025-08-21 10:36:48,892 - BertrandtGUI - DEBUG - Slide 7 mit 12 Canvas-Elementen gerendert
+2025-08-21 10:36:51,170 - BertrandtGUI - DEBUG - Home-Tab Theme aktualisiert
+2025-08-21 10:36:51,170 - BertrandtGUI - DEBUG - Theme für home-Tab aktualisiert
+2025-08-21 10:36:51,173 - BertrandtGUI - DEBUG - Demo-Tab Theme aktualisiert
+2025-08-21 10:36:51,173 - BertrandtGUI - DEBUG - Theme für demo-Tab aktualisiert
+2025-08-21 10:36:51,174 - BertrandtGUI - DEBUG - Demo-Thumbnails für demo-Tab aktualisiert
+2025-08-21 10:36:51,178 - BertrandtGUI - DEBUG - Slide 1 mit 8 Canvas-Elementen gerendert
+2025-08-21 10:36:51,179 - BertrandtGUI - DEBUG - Slide-Display für demo-Tab aktualisiert
+2025-08-21 10:36:51,195 - BertrandtGUI - DEBUG - Thumbnails aktualisiert
+2025-08-21 10:36:51,195 - BertrandtGUI - DEBUG - Thumbnails für creator-Tab aktualisiert
+2025-08-21 10:36:51,197 - BertrandtGUI - DEBUG - Presentation-Tab Theme aktualisiert
+2025-08-21 10:36:51,197 - BertrandtGUI - DEBUG - Theme für presentation-Tab aktualisiert
+2025-08-21 10:36:51,197 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_1
+2025-08-21 10:36:51,202 - BertrandtGUI - DEBUG - Slide 1 mit 8 Canvas-Elementen gerendert
+2025-08-21 10:36:51,203 - BertrandtGUI - INFO - Demo zur ersten Slide zurückgesetzt
+2025-08-21 10:36:51,203 - BertrandtGUI - DEBUG - Demo-Service nach Präsentations-Import zurückgesetzt
+2025-08-21 10:36:51,203 - BertrandtGUI - INFO - Theme gewechselt zu: dark
+2025-08-21 10:36:52,130 - BertrandtGUI - DEBUG - Presentation-Tab versteckt
+2025-08-21 10:36:52,130 - BertrandtGUI - DEBUG - Home-Tab angezeigt
+2025-08-21 10:36:52,130 - BertrandtGUI - DEBUG - Tab gewechselt: home
+2025-08-21 10:36:53,897 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_2
+2025-08-21 10:36:53,899 - BertrandtGUI - DEBUG - Slide 2 mit 11 Canvas-Elementen gerendert
+2025-08-21 10:36:53,927 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_2
+2025-08-21 10:36:53,928 - BertrandtGUI - DEBUG - Slide 2 mit 11 Canvas-Elementen gerendert
+2025-08-21 10:36:58,932 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_3
+2025-08-21 10:36:58,933 - BertrandtGUI - DEBUG - Slide 3 mit 15 Canvas-Elementen gerendert
+2025-08-21 10:36:58,962 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_3
+2025-08-21 10:36:58,963 - BertrandtGUI - DEBUG - Slide 3 mit 15 Canvas-Elementen gerendert
+2025-08-21 10:37:03,969 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_4
+2025-08-21 10:37:03,970 - BertrandtGUI - DEBUG - Slide 4 mit 15 Canvas-Elementen gerendert
+2025-08-21 10:37:03,996 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_4
+2025-08-21 10:37:04,000 - BertrandtGUI - DEBUG - Slide 4 mit 15 Canvas-Elementen gerendert
+2025-08-21 10:37:09,004 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_5
+2025-08-21 10:37:09,006 - BertrandtGUI - DEBUG - Slide 5 mit 15 Canvas-Elementen gerendert
+2025-08-21 10:37:09,034 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_5
+2025-08-21 10:37:09,036 - BertrandtGUI - DEBUG - Slide 5 mit 15 Canvas-Elementen gerendert
+2025-08-21 10:37:14,040 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_6
+2025-08-21 10:37:14,041 - BertrandtGUI - DEBUG - Slide 6 mit 9 Canvas-Elementen gerendert
+2025-08-21 10:37:14,070 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_6
+2025-08-21 10:37:14,071 - BertrandtGUI - DEBUG - Slide 6 mit 9 Canvas-Elementen gerendert
+2025-08-21 10:37:19,076 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_7
+2025-08-21 10:37:19,094 - BertrandtGUI - DEBUG - Slide 7 mit 12 Canvas-Elementen gerendert
+2025-08-21 10:37:19,099 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_7
+2025-08-21 10:37:19,117 - BertrandtGUI - DEBUG - Slide 7 mit 12 Canvas-Elementen gerendert
+2025-08-21 10:37:24,121 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_8
+2025-08-21 10:37:24,153 - BertrandtGUI - DEBUG - Slide 8 mit Fallback-Text gerendert
+2025-08-21 10:37:24,157 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_8
+2025-08-21 10:37:24,162 - BertrandtGUI - DEBUG - Slide 8 mit Fallback-Text gerendert
+2025-08-21 10:37:29,168 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_9
+2025-08-21 10:37:29,173 - BertrandtGUI - DEBUG - Slide 9 mit Fallback-Text gerendert
+2025-08-21 10:37:29,198 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_9
+2025-08-21 10:37:29,203 - BertrandtGUI - DEBUG - Slide 9 mit Fallback-Text gerendert
+2025-08-21 10:37:34,211 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_10
+2025-08-21 10:37:34,217 - BertrandtGUI - DEBUG - Slide 10 mit Fallback-Text gerendert
+2025-08-21 10:37:34,242 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_10
+2025-08-21 10:37:34,246 - BertrandtGUI - DEBUG - Slide 10 mit Fallback-Text gerendert
+2025-08-21 10:37:39,253 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_1
+2025-08-21 10:37:39,259 - BertrandtGUI - DEBUG - Slide 1 mit 8 Canvas-Elementen gerendert
+2025-08-21 10:37:39,284 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_1
+2025-08-21 10:37:39,289 - BertrandtGUI - DEBUG - Slide 1 mit 8 Canvas-Elementen gerendert
+2025-08-21 10:37:44,294 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_2
+2025-08-21 10:37:44,295 - BertrandtGUI - DEBUG - Slide 2 mit 11 Canvas-Elementen gerendert
+2025-08-21 10:37:44,324 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_2
+2025-08-21 10:37:44,324 - BertrandtGUI - DEBUG - Slide 2 mit 11 Canvas-Elementen gerendert
+2025-08-21 10:37:49,331 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_3
+2025-08-21 10:37:49,358 - BertrandtGUI - DEBUG - Slide 3 mit 15 Canvas-Elementen gerendert
+2025-08-21 10:37:49,363 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_3
+2025-08-21 10:37:49,364 - BertrandtGUI - DEBUG - Slide 3 mit 15 Canvas-Elementen gerendert
+2025-08-21 10:37:54,370 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_4
+2025-08-21 10:37:54,371 - BertrandtGUI - DEBUG - Slide 4 mit 15 Canvas-Elementen gerendert
+2025-08-21 10:37:54,372 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_4
+2025-08-21 10:37:54,376 - BertrandtGUI - DEBUG - Slide 4 mit 15 Canvas-Elementen gerendert
+2025-08-21 10:37:59,380 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_5
+2025-08-21 10:37:59,381 - BertrandtGUI - DEBUG - Slide 5 mit 15 Canvas-Elementen gerendert
+2025-08-21 10:37:59,410 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_5
+2025-08-21 10:37:59,412 - BertrandtGUI - DEBUG - Slide 5 mit 15 Canvas-Elementen gerendert
+2025-08-21 10:38:04,420 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_6
+2025-08-21 10:38:04,421 - BertrandtGUI - DEBUG - Slide 6 mit 9 Canvas-Elementen gerendert
+2025-08-21 10:38:04,450 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_6
+2025-08-21 10:38:04,450 - BertrandtGUI - DEBUG - Slide 6 mit 9 Canvas-Elementen gerendert
+2025-08-21 10:38:09,455 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_7
+2025-08-21 10:38:09,474 - BertrandtGUI - DEBUG - Slide 7 mit 12 Canvas-Elementen gerendert
+2025-08-21 10:38:09,484 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_7
+2025-08-21 10:38:09,504 - BertrandtGUI - DEBUG - Slide 7 mit 12 Canvas-Elementen gerendert
+2025-08-21 10:38:14,513 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_8
+2025-08-21 10:38:14,518 - BertrandtGUI - DEBUG - Slide 8 mit Fallback-Text gerendert
+2025-08-21 10:38:14,542 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_8
+2025-08-21 10:38:14,547 - BertrandtGUI - DEBUG - Slide 8 mit Fallback-Text gerendert
+2025-08-21 10:38:19,554 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_9
+2025-08-21 10:38:19,560 - BertrandtGUI - DEBUG - Slide 9 mit Fallback-Text gerendert
+2025-08-21 10:38:19,585 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_9
+2025-08-21 10:38:19,590 - BertrandtGUI - DEBUG - Slide 9 mit Fallback-Text gerendert
+2025-08-21 10:38:24,597 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_10
+2025-08-21 10:38:24,603 - BertrandtGUI - DEBUG - Slide 10 mit Fallback-Text gerendert
+2025-08-21 10:38:24,628 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_10
+2025-08-21 10:38:24,633 - BertrandtGUI - DEBUG - Slide 10 mit Fallback-Text gerendert
+2025-08-21 10:38:29,637 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_1
+2025-08-21 10:38:29,642 - BertrandtGUI - DEBUG - Slide 1 mit 8 Canvas-Elementen gerendert
+2025-08-21 10:38:29,667 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_1
+2025-08-21 10:38:29,672 - BertrandtGUI - DEBUG - Slide 1 mit 8 Canvas-Elementen gerendert
+2025-08-21 10:38:34,679 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_2
+2025-08-21 10:38:34,680 - BertrandtGUI - DEBUG - Slide 2 mit 11 Canvas-Elementen gerendert
+2025-08-21 10:38:34,710 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_2
+2025-08-21 10:38:34,710 - BertrandtGUI - DEBUG - Slide 2 mit 11 Canvas-Elementen gerendert
+2025-08-21 10:38:39,715 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_3
+2025-08-21 10:38:39,716 - BertrandtGUI - DEBUG - Slide 3 mit 15 Canvas-Elementen gerendert
+2025-08-21 10:38:39,742 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_3
+2025-08-21 10:38:39,745 - BertrandtGUI - DEBUG - Slide 3 mit 15 Canvas-Elementen gerendert
+2025-08-21 10:38:44,750 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_4
+2025-08-21 10:38:44,751 - BertrandtGUI - DEBUG - Slide 4 mit 15 Canvas-Elementen gerendert
+2025-08-21 10:38:44,780 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_4
+2025-08-21 10:38:44,782 - BertrandtGUI - DEBUG - Slide 4 mit 15 Canvas-Elementen gerendert
+2025-08-21 10:38:49,786 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_5
+2025-08-21 10:38:49,787 - BertrandtGUI - DEBUG - Slide 5 mit 15 Canvas-Elementen gerendert
+2025-08-21 10:38:49,816 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_5
+2025-08-21 10:38:49,817 - BertrandtGUI - DEBUG - Slide 5 mit 15 Canvas-Elementen gerendert
+2025-08-21 10:38:54,822 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_6
+2025-08-21 10:38:54,823 - BertrandtGUI - DEBUG - Slide 6 mit 9 Canvas-Elementen gerendert
+2025-08-21 10:38:54,850 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_6
+2025-08-21 10:38:54,852 - BertrandtGUI - DEBUG - Slide 6 mit 9 Canvas-Elementen gerendert
+2025-08-21 10:38:59,858 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_7
+2025-08-21 10:38:59,877 - BertrandtGUI - DEBUG - Slide 7 mit 12 Canvas-Elementen gerendert
+2025-08-21 10:38:59,887 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_7
+2025-08-21 10:38:59,905 - BertrandtGUI - DEBUG - Slide 7 mit 12 Canvas-Elementen gerendert
+2025-08-21 10:39:04,914 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_8
+2025-08-21 10:39:04,919 - BertrandtGUI - DEBUG - Slide 8 mit Fallback-Text gerendert
+2025-08-21 10:39:04,944 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_8
+2025-08-21 10:39:04,949 - BertrandtGUI - DEBUG - Slide 8 mit Fallback-Text gerendert
+2025-08-21 10:39:09,956 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_9
+2025-08-21 10:39:09,961 - BertrandtGUI - DEBUG - Slide 9 mit Fallback-Text gerendert
+2025-08-21 10:39:09,965 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_9
+2025-08-21 10:39:09,970 - BertrandtGUI - DEBUG - Slide 9 mit Fallback-Text gerendert
+2025-08-21 10:39:14,974 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_10
+2025-08-21 10:39:14,979 - BertrandtGUI - DEBUG - Slide 10 mit Fallback-Text gerendert
+2025-08-21 10:39:15,001 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_10
+2025-08-21 10:39:15,010 - BertrandtGUI - DEBUG - Slide 10 mit Fallback-Text gerendert
+2025-08-21 10:39:20,014 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_1
+2025-08-21 10:39:20,020 - BertrandtGUI - DEBUG - Slide 1 mit 8 Canvas-Elementen gerendert
+2025-08-21 10:39:20,044 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_1
+2025-08-21 10:39:20,049 - BertrandtGUI - DEBUG - Slide 1 mit 8 Canvas-Elementen gerendert
+2025-08-21 10:39:25,056 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_2
+2025-08-21 10:39:25,057 - BertrandtGUI - DEBUG - Slide 2 mit 11 Canvas-Elementen gerendert
+2025-08-21 10:39:25,061 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_2
+2025-08-21 10:39:25,062 - BertrandtGUI - DEBUG - Slide 2 mit 11 Canvas-Elementen gerendert
+2025-08-21 10:39:30,068 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_3
+2025-08-21 10:39:30,069 - BertrandtGUI - DEBUG - Slide 3 mit 15 Canvas-Elementen gerendert
+2025-08-21 10:39:30,073 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_3
+2025-08-21 10:39:30,074 - BertrandtGUI - DEBUG - Slide 3 mit 15 Canvas-Elementen gerendert
+2025-08-21 10:39:35,081 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_4
+2025-08-21 10:39:35,082 - BertrandtGUI - DEBUG - Slide 4 mit 15 Canvas-Elementen gerendert
+2025-08-21 10:39:35,087 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_4
+2025-08-21 10:39:35,088 - BertrandtGUI - DEBUG - Slide 4 mit 15 Canvas-Elementen gerendert
+2025-08-21 10:39:40,095 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_5
+2025-08-21 10:39:40,122 - BertrandtGUI - DEBUG - Slide 5 mit 15 Canvas-Elementen gerendert
+2025-08-21 10:39:40,126 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_5
+2025-08-21 10:39:40,128 - BertrandtGUI - DEBUG - Slide 5 mit 15 Canvas-Elementen gerendert
+2025-08-21 10:39:45,134 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_6
+2025-08-21 10:39:45,135 - BertrandtGUI - DEBUG - Slide 6 mit 9 Canvas-Elementen gerendert
+2025-08-21 10:39:45,140 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_6
+2025-08-21 10:39:45,140 - BertrandtGUI - DEBUG - Slide 6 mit 9 Canvas-Elementen gerendert
+2025-08-21 10:39:50,145 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_7
+2025-08-21 10:39:50,163 - BertrandtGUI - DEBUG - Slide 7 mit 12 Canvas-Elementen gerendert
+2025-08-21 10:39:50,174 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_7
+2025-08-21 10:39:50,192 - BertrandtGUI - DEBUG - Slide 7 mit 12 Canvas-Elementen gerendert
+2025-08-21 10:39:55,200 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_8
+2025-08-21 10:39:55,206 - BertrandtGUI - DEBUG - Slide 8 mit Fallback-Text gerendert
+2025-08-21 10:39:55,231 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_8
+2025-08-21 10:39:55,236 - BertrandtGUI - DEBUG - Slide 8 mit Fallback-Text gerendert
+2025-08-21 10:40:00,244 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_9
+2025-08-21 10:40:00,249 - BertrandtGUI - DEBUG - Slide 9 mit Fallback-Text gerendert
+2025-08-21 10:40:00,270 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_9
+2025-08-21 10:40:00,279 - BertrandtGUI - DEBUG - Slide 9 mit Fallback-Text gerendert
+2025-08-21 10:40:05,286 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_10
+2025-08-21 10:40:05,291 - BertrandtGUI - DEBUG - Slide 10 mit Fallback-Text gerendert
+2025-08-21 10:40:05,295 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_10
+2025-08-21 10:40:05,300 - BertrandtGUI - DEBUG - Slide 10 mit Fallback-Text gerendert
+2025-08-21 10:40:10,305 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_1
+2025-08-21 10:40:10,310 - BertrandtGUI - DEBUG - Slide 1 mit 8 Canvas-Elementen gerendert
+2025-08-21 10:40:10,311 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_1
+2025-08-21 10:40:10,319 - BertrandtGUI - DEBUG - Slide 1 mit 8 Canvas-Elementen gerendert
+2025-08-21 10:40:15,328 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_2
+2025-08-21 10:40:15,329 - BertrandtGUI - DEBUG - Slide 2 mit 11 Canvas-Elementen gerendert
+2025-08-21 10:40:15,334 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_2
+2025-08-21 10:40:15,334 - BertrandtGUI - DEBUG - Slide 2 mit 11 Canvas-Elementen gerendert
+2025-08-21 10:40:20,341 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_3
+2025-08-21 10:40:20,343 - BertrandtGUI - DEBUG - Slide 3 mit 15 Canvas-Elementen gerendert
+2025-08-21 10:40:20,373 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_3
+2025-08-21 10:40:20,374 - BertrandtGUI - DEBUG - Slide 3 mit 15 Canvas-Elementen gerendert
+2025-08-21 10:40:25,378 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_4
+2025-08-21 10:40:25,379 - BertrandtGUI - DEBUG - Slide 4 mit 15 Canvas-Elementen gerendert
+2025-08-21 10:40:25,383 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_4
+2025-08-21 10:40:25,384 - BertrandtGUI - DEBUG - Slide 4 mit 15 Canvas-Elementen gerendert
+2025-08-21 10:40:30,389 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_5
+2025-08-21 10:40:30,390 - BertrandtGUI - DEBUG - Slide 5 mit 15 Canvas-Elementen gerendert
+2025-08-21 10:40:30,393 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_5
+2025-08-21 10:40:30,394 - BertrandtGUI - DEBUG - Slide 5 mit 15 Canvas-Elementen gerendert
+2025-08-21 10:40:35,402 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_6
+2025-08-21 10:40:35,403 - BertrandtGUI - DEBUG - Slide 6 mit 9 Canvas-Elementen gerendert
+2025-08-21 10:40:35,432 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_6
+2025-08-21 10:40:35,434 - BertrandtGUI - DEBUG - Slide 6 mit 9 Canvas-Elementen gerendert
+2025-08-21 10:40:40,438 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_7
+2025-08-21 10:40:40,457 - BertrandtGUI - DEBUG - Slide 7 mit 12 Canvas-Elementen gerendert
+2025-08-21 10:40:40,463 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_7
+2025-08-21 10:40:40,480 - BertrandtGUI - DEBUG - Slide 7 mit 12 Canvas-Elementen gerendert
+2025-08-21 10:40:45,489 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_8
+2025-08-21 10:40:45,494 - BertrandtGUI - DEBUG - Slide 8 mit Fallback-Text gerendert
+2025-08-21 10:40:45,515 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_8
+2025-08-21 10:40:45,524 - BertrandtGUI - DEBUG - Slide 8 mit Fallback-Text gerendert
+2025-08-21 10:40:50,531 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_9
+2025-08-21 10:40:50,537 - BertrandtGUI - DEBUG - Slide 9 mit Fallback-Text gerendert
+2025-08-21 10:40:50,562 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_9
+2025-08-21 10:40:50,567 - BertrandtGUI - DEBUG - Slide 9 mit Fallback-Text gerendert
+2025-08-21 10:40:55,573 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_10
+2025-08-21 10:40:55,578 - BertrandtGUI - DEBUG - Slide 10 mit Fallback-Text gerendert
+2025-08-21 10:40:55,583 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_10
+2025-08-21 10:40:55,588 - BertrandtGUI - DEBUG - Slide 10 mit Fallback-Text gerendert
+2025-08-21 10:41:00,592 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_1
+2025-08-21 10:41:00,623 - BertrandtGUI - DEBUG - Slide 1 mit 8 Canvas-Elementen gerendert
+2025-08-21 10:41:00,627 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_1
+2025-08-21 10:41:00,632 - BertrandtGUI - DEBUG - Slide 1 mit 8 Canvas-Elementen gerendert
+2025-08-21 10:41:05,637 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_2
+2025-08-21 10:41:05,638 - BertrandtGUI - DEBUG - Slide 2 mit 11 Canvas-Elementen gerendert
+2025-08-21 10:41:05,667 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_2
+2025-08-21 10:41:05,668 - BertrandtGUI - DEBUG - Slide 2 mit 11 Canvas-Elementen gerendert
+2025-08-21 10:41:10,672 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_3
+2025-08-21 10:41:10,673 - BertrandtGUI - DEBUG - Slide 3 mit 15 Canvas-Elementen gerendert
+2025-08-21 10:41:10,702 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_3
+2025-08-21 10:41:10,703 - BertrandtGUI - DEBUG - Slide 3 mit 15 Canvas-Elementen gerendert
+2025-08-21 10:41:15,707 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_4
+2025-08-21 10:41:15,708 - BertrandtGUI - DEBUG - Slide 4 mit 15 Canvas-Elementen gerendert
+2025-08-21 10:41:15,738 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_4
+2025-08-21 10:41:15,739 - BertrandtGUI - DEBUG - Slide 4 mit 15 Canvas-Elementen gerendert
+2025-08-21 10:41:20,743 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_5
+2025-08-21 10:41:20,744 - BertrandtGUI - DEBUG - Slide 5 mit 15 Canvas-Elementen gerendert
+2025-08-21 10:41:20,772 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_5
+2025-08-21 10:41:20,773 - BertrandtGUI - DEBUG - Slide 5 mit 15 Canvas-Elementen gerendert
+2025-08-21 10:41:25,778 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_6
+2025-08-21 10:41:25,779 - BertrandtGUI - DEBUG - Slide 6 mit 9 Canvas-Elementen gerendert
+2025-08-21 10:41:25,783 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_6
+2025-08-21 10:41:25,784 - BertrandtGUI - DEBUG - Slide 6 mit 9 Canvas-Elementen gerendert
+2025-08-21 10:41:30,788 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_7
+2025-08-21 10:41:30,808 - BertrandtGUI - DEBUG - Slide 7 mit 12 Canvas-Elementen gerendert
+2025-08-21 10:41:30,817 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_7
+2025-08-21 10:41:30,836 - BertrandtGUI - DEBUG - Slide 7 mit 12 Canvas-Elementen gerendert
+2025-08-21 10:41:35,845 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_8
+2025-08-21 10:41:35,850 - BertrandtGUI - DEBUG - Slide 8 mit Fallback-Text gerendert
+2025-08-21 10:41:35,874 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_8
+2025-08-21 10:41:35,880 - BertrandtGUI - DEBUG - Slide 8 mit Fallback-Text gerendert
+2025-08-21 10:41:40,887 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_9
+2025-08-21 10:41:40,893 - BertrandtGUI - DEBUG - Slide 9 mit Fallback-Text gerendert
+2025-08-21 10:41:40,917 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_9
+2025-08-21 10:41:40,922 - BertrandtGUI - DEBUG - Slide 9 mit Fallback-Text gerendert
+2025-08-21 10:41:45,929 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_10
+2025-08-21 10:41:45,934 - BertrandtGUI - DEBUG - Slide 10 mit Fallback-Text gerendert
+2025-08-21 10:41:45,958 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_10
+2025-08-21 10:41:45,963 - BertrandtGUI - DEBUG - Slide 10 mit Fallback-Text gerendert
+2025-08-21 10:41:50,968 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_1
+2025-08-21 10:41:50,973 - BertrandtGUI - DEBUG - Slide 1 mit 8 Canvas-Elementen gerendert
+2025-08-21 10:41:50,997 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_1
+2025-08-21 10:41:51,002 - BertrandtGUI - DEBUG - Slide 1 mit 8 Canvas-Elementen gerendert
+2025-08-21 10:41:56,007 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_2
+2025-08-21 10:41:56,008 - BertrandtGUI - DEBUG - Slide 2 mit 11 Canvas-Elementen gerendert
+2025-08-21 10:41:56,036 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_2
+2025-08-21 10:41:56,038 - BertrandtGUI - DEBUG - Slide 2 mit 11 Canvas-Elementen gerendert
+2025-08-21 10:42:01,044 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_3
+2025-08-21 10:42:01,045 - BertrandtGUI - DEBUG - Slide 3 mit 15 Canvas-Elementen gerendert
+2025-08-21 10:42:01,070 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_3
+2025-08-21 10:42:01,074 - BertrandtGUI - DEBUG - Slide 3 mit 15 Canvas-Elementen gerendert
+2025-08-21 10:42:06,082 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_4
+2025-08-21 10:42:06,083 - BertrandtGUI - DEBUG - Slide 4 mit 15 Canvas-Elementen gerendert
+2025-08-21 10:42:06,111 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_4
+2025-08-21 10:42:06,112 - BertrandtGUI - DEBUG - Slide 4 mit 15 Canvas-Elementen gerendert
+2025-08-21 10:42:11,119 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_5
+2025-08-21 10:42:11,121 - BertrandtGUI - DEBUG - Slide 5 mit 15 Canvas-Elementen gerendert
+2025-08-21 10:42:11,125 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_5
+2025-08-21 10:42:11,126 - BertrandtGUI - DEBUG - Slide 5 mit 15 Canvas-Elementen gerendert
+2025-08-21 10:42:16,130 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_6
+2025-08-21 10:42:16,131 - BertrandtGUI - DEBUG - Slide 6 mit 9 Canvas-Elementen gerendert
+2025-08-21 10:42:16,136 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_6
+2025-08-21 10:42:16,137 - BertrandtGUI - DEBUG - Slide 6 mit 9 Canvas-Elementen gerendert
+2025-08-21 10:42:21,142 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_7
+2025-08-21 10:42:21,160 - BertrandtGUI - DEBUG - Slide 7 mit 12 Canvas-Elementen gerendert
+2025-08-21 10:42:21,170 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_7
+2025-08-21 10:42:21,189 - BertrandtGUI - DEBUG - Slide 7 mit 12 Canvas-Elementen gerendert
+2025-08-21 10:42:26,198 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_8
+2025-08-21 10:42:26,203 - BertrandtGUI - DEBUG - Slide 8 mit Fallback-Text gerendert
+2025-08-21 10:42:26,227 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_8
+2025-08-21 10:42:26,232 - BertrandtGUI - DEBUG - Slide 8 mit Fallback-Text gerendert
+2025-08-21 10:42:31,236 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_9
+2025-08-21 10:42:31,242 - BertrandtGUI - DEBUG - Slide 9 mit Fallback-Text gerendert
+2025-08-21 10:42:31,267 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_9
+2025-08-21 10:42:31,272 - BertrandtGUI - DEBUG - Slide 9 mit Fallback-Text gerendert
+2025-08-21 10:42:36,276 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_10
+2025-08-21 10:42:36,281 - BertrandtGUI - DEBUG - Slide 10 mit Fallback-Text gerendert
+2025-08-21 10:42:36,306 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_10
+2025-08-21 10:42:36,311 - BertrandtGUI - DEBUG - Slide 10 mit Fallback-Text gerendert
+2025-08-21 10:42:41,317 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_1
+2025-08-21 10:42:41,322 - BertrandtGUI - DEBUG - Slide 1 mit 8 Canvas-Elementen gerendert
+2025-08-21 10:42:41,345 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_1
+2025-08-21 10:42:41,351 - BertrandtGUI - DEBUG - Slide 1 mit 8 Canvas-Elementen gerendert
+2025-08-21 10:42:46,357 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_2
+2025-08-21 10:42:46,358 - BertrandtGUI - DEBUG - Slide 2 mit 11 Canvas-Elementen gerendert
+2025-08-21 10:42:46,387 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_2
+2025-08-21 10:42:46,388 - BertrandtGUI - DEBUG - Slide 2 mit 11 Canvas-Elementen gerendert
+2025-08-21 10:42:51,392 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_3
+2025-08-21 10:42:51,393 - BertrandtGUI - DEBUG - Slide 3 mit 15 Canvas-Elementen gerendert
+2025-08-21 10:42:51,422 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_3
+2025-08-21 10:42:51,423 - BertrandtGUI - DEBUG - Slide 3 mit 15 Canvas-Elementen gerendert
+2025-08-21 10:42:56,430 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_4
+2025-08-21 10:42:56,431 - BertrandtGUI - DEBUG - Slide 4 mit 15 Canvas-Elementen gerendert
+2025-08-21 10:42:56,459 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_4
+2025-08-21 10:42:56,461 - BertrandtGUI - DEBUG - Slide 4 mit 15 Canvas-Elementen gerendert
+2025-08-21 10:43:01,465 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_5
+2025-08-21 10:43:01,466 - BertrandtGUI - DEBUG - Slide 5 mit 15 Canvas-Elementen gerendert
+2025-08-21 10:43:01,494 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_5
+2025-08-21 10:43:01,495 - BertrandtGUI - DEBUG - Slide 5 mit 15 Canvas-Elementen gerendert
+2025-08-21 10:43:06,500 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_6
+2025-08-21 10:43:06,501 - BertrandtGUI - DEBUG - Slide 6 mit 9 Canvas-Elementen gerendert
+2025-08-21 10:43:06,529 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_6
+2025-08-21 10:43:06,530 - BertrandtGUI - DEBUG - Slide 6 mit 9 Canvas-Elementen gerendert
+2025-08-21 10:43:11,534 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_7
+2025-08-21 10:43:11,553 - BertrandtGUI - DEBUG - Slide 7 mit 12 Canvas-Elementen gerendert
+2025-08-21 10:43:11,563 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_7
+2025-08-21 10:43:11,582 - BertrandtGUI - DEBUG - Slide 7 mit 12 Canvas-Elementen gerendert
+2025-08-21 10:43:16,590 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_8
+2025-08-21 10:43:16,595 - BertrandtGUI - DEBUG - Slide 8 mit Fallback-Text gerendert
+2025-08-21 10:43:16,620 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_8
+2025-08-21 10:43:16,625 - BertrandtGUI - DEBUG - Slide 8 mit Fallback-Text gerendert
+2025-08-21 10:43:21,630 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_9
+2025-08-21 10:43:21,635 - BertrandtGUI - DEBUG - Slide 9 mit Fallback-Text gerendert
+2025-08-21 10:43:21,659 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_9
+2025-08-21 10:43:21,664 - BertrandtGUI - DEBUG - Slide 9 mit Fallback-Text gerendert
+2025-08-21 10:43:26,671 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_10
+2025-08-21 10:43:26,676 - BertrandtGUI - DEBUG - Slide 10 mit Fallback-Text gerendert
+2025-08-21 10:43:26,682 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_10
+2025-08-21 10:43:26,687 - BertrandtGUI - DEBUG - Slide 10 mit Fallback-Text gerendert
+2025-08-21 10:43:31,691 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_1
+2025-08-21 10:43:31,696 - BertrandtGUI - DEBUG - Slide 1 mit 8 Canvas-Elementen gerendert
+2025-08-21 10:43:31,721 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_1
+2025-08-21 10:43:31,726 - BertrandtGUI - DEBUG - Slide 1 mit 8 Canvas-Elementen gerendert
+2025-08-21 10:43:36,730 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_2
+2025-08-21 10:43:36,731 - BertrandtGUI - DEBUG - Slide 2 mit 11 Canvas-Elementen gerendert
+2025-08-21 10:43:36,732 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_2
+2025-08-21 10:43:36,737 - BertrandtGUI - DEBUG - Slide 2 mit 11 Canvas-Elementen gerendert
+2025-08-21 10:43:41,743 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_3
+2025-08-21 10:43:41,745 - BertrandtGUI - DEBUG - Slide 3 mit 15 Canvas-Elementen gerendert
+2025-08-21 10:43:41,750 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_3
+2025-08-21 10:43:41,751 - BertrandtGUI - DEBUG - Slide 3 mit 15 Canvas-Elementen gerendert
+2025-08-21 10:43:46,755 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_4
+2025-08-21 10:43:46,782 - BertrandtGUI - DEBUG - Slide 4 mit 15 Canvas-Elementen gerendert
+2025-08-21 10:43:46,787 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_4
+2025-08-21 10:43:46,789 - BertrandtGUI - DEBUG - Slide 4 mit 15 Canvas-Elementen gerendert
+2025-08-21 10:43:51,797 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_5
+2025-08-21 10:43:51,798 - BertrandtGUI - DEBUG - Slide 5 mit 15 Canvas-Elementen gerendert
+2025-08-21 10:43:51,799 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_5
+2025-08-21 10:43:51,803 - BertrandtGUI - DEBUG - Slide 5 mit 15 Canvas-Elementen gerendert
+2025-08-21 10:43:56,807 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_6
+2025-08-21 10:43:56,808 - BertrandtGUI - DEBUG - Slide 6 mit 9 Canvas-Elementen gerendert
+2025-08-21 10:43:56,838 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_6
+2025-08-21 10:43:56,838 - BertrandtGUI - DEBUG - Slide 6 mit 9 Canvas-Elementen gerendert
+2025-08-21 10:44:01,846 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_7
+2025-08-21 10:44:01,866 - BertrandtGUI - DEBUG - Slide 7 mit 12 Canvas-Elementen gerendert
+2025-08-21 10:44:01,871 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_7
+2025-08-21 10:44:01,889 - BertrandtGUI - DEBUG - Slide 7 mit 12 Canvas-Elementen gerendert
+2025-08-21 10:44:06,898 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_8
+2025-08-21 10:44:06,903 - BertrandtGUI - DEBUG - Slide 8 mit Fallback-Text gerendert
+2025-08-21 10:44:06,927 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_8
+2025-08-21 10:44:06,934 - BertrandtGUI - DEBUG - Slide 8 mit Fallback-Text gerendert
+2025-08-21 10:44:11,941 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_9
+2025-08-21 10:44:11,946 - BertrandtGUI - DEBUG - Slide 9 mit Fallback-Text gerendert
+2025-08-21 10:44:11,971 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_9
+2025-08-21 10:44:11,976 - BertrandtGUI - DEBUG - Slide 9 mit Fallback-Text gerendert
+2025-08-21 10:44:16,984 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_10
+2025-08-21 10:44:16,989 - BertrandtGUI - DEBUG - Slide 10 mit Fallback-Text gerendert
+2025-08-21 10:44:17,012 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_10
+2025-08-21 10:44:17,019 - BertrandtGUI - DEBUG - Slide 10 mit Fallback-Text gerendert
+2025-08-21 10:44:22,024 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_1
+2025-08-21 10:44:22,029 - BertrandtGUI - DEBUG - Slide 1 mit 8 Canvas-Elementen gerendert
+2025-08-21 10:44:22,054 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_1
+2025-08-21 10:44:22,059 - BertrandtGUI - DEBUG - Slide 1 mit 8 Canvas-Elementen gerendert
+2025-08-21 10:44:27,066 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_2
+2025-08-21 10:44:27,067 - BertrandtGUI - DEBUG - Slide 2 mit 11 Canvas-Elementen gerendert
+2025-08-21 10:44:27,072 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_2
+2025-08-21 10:44:27,073 - BertrandtGUI - DEBUG - Slide 2 mit 11 Canvas-Elementen gerendert
+2025-08-21 10:44:32,080 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_3
+2025-08-21 10:44:32,081 - BertrandtGUI - DEBUG - Slide 3 mit 15 Canvas-Elementen gerendert
+2025-08-21 10:44:32,106 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_3
+2025-08-21 10:44:32,110 - BertrandtGUI - DEBUG - Slide 3 mit 15 Canvas-Elementen gerendert
+2025-08-21 10:44:37,115 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_4
+2025-08-21 10:44:37,116 - BertrandtGUI - DEBUG - Slide 4 mit 15 Canvas-Elementen gerendert
+2025-08-21 10:44:37,145 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_4
+2025-08-21 10:44:37,146 - BertrandtGUI - DEBUG - Slide 4 mit 15 Canvas-Elementen gerendert
+2025-08-21 10:44:42,150 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_5
+2025-08-21 10:44:42,151 - BertrandtGUI - DEBUG - Slide 5 mit 15 Canvas-Elementen gerendert
+2025-08-21 10:44:42,181 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_5
+2025-08-21 10:44:42,182 - BertrandtGUI - DEBUG - Slide 5 mit 15 Canvas-Elementen gerendert
+2025-08-21 10:44:47,189 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_6
+2025-08-21 10:44:47,190 - BertrandtGUI - DEBUG - Slide 6 mit 9 Canvas-Elementen gerendert
+2025-08-21 10:44:47,195 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_6
+2025-08-21 10:44:47,196 - BertrandtGUI - DEBUG - Slide 6 mit 9 Canvas-Elementen gerendert
+2025-08-21 10:44:52,204 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_7
+2025-08-21 10:44:52,222 - BertrandtGUI - DEBUG - Slide 7 mit 12 Canvas-Elementen gerendert
+2025-08-21 10:44:52,228 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_7
+2025-08-21 10:44:52,245 - BertrandtGUI - DEBUG - Slide 7 mit 12 Canvas-Elementen gerendert
+2025-08-21 10:44:57,254 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_8
+2025-08-21 10:44:57,259 - BertrandtGUI - DEBUG - Slide 8 mit Fallback-Text gerendert
+2025-08-21 10:44:57,284 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_8
+2025-08-21 10:44:57,289 - BertrandtGUI - DEBUG - Slide 8 mit Fallback-Text gerendert
+2025-08-21 10:45:02,294 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_9
+2025-08-21 10:45:02,299 - BertrandtGUI - DEBUG - Slide 9 mit Fallback-Text gerendert
+2025-08-21 10:45:02,324 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_9
+2025-08-21 10:45:02,329 - BertrandtGUI - DEBUG - Slide 9 mit Fallback-Text gerendert
+2025-08-21 10:45:07,333 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_10
+2025-08-21 10:45:07,338 - BertrandtGUI - DEBUG - Slide 10 mit Fallback-Text gerendert
+2025-08-21 10:45:07,339 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_10
+2025-08-21 10:45:07,347 - BertrandtGUI - DEBUG - Slide 10 mit Fallback-Text gerendert
+2025-08-21 10:45:12,354 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_1
+2025-08-21 10:45:12,360 - BertrandtGUI - DEBUG - Slide 1 mit 8 Canvas-Elementen gerendert
+2025-08-21 10:45:12,364 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_1
+2025-08-21 10:45:12,369 - BertrandtGUI - DEBUG - Slide 1 mit 8 Canvas-Elementen gerendert
+2025-08-21 10:45:17,374 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_2
+2025-08-21 10:45:17,375 - BertrandtGUI - DEBUG - Slide 2 mit 11 Canvas-Elementen gerendert
+2025-08-21 10:45:17,378 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_2
+2025-08-21 10:45:17,379 - BertrandtGUI - DEBUG - Slide 2 mit 11 Canvas-Elementen gerendert
+2025-08-21 10:45:22,384 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_3
+2025-08-21 10:45:22,385 - BertrandtGUI - DEBUG - Slide 3 mit 15 Canvas-Elementen gerendert
+2025-08-21 10:45:22,415 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_3
+2025-08-21 10:45:22,416 - BertrandtGUI - DEBUG - Slide 3 mit 15 Canvas-Elementen gerendert
+2025-08-21 10:45:27,422 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_4
+2025-08-21 10:45:27,423 - BertrandtGUI - DEBUG - Slide 4 mit 15 Canvas-Elementen gerendert
+2025-08-21 10:45:27,424 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_4
+2025-08-21 10:45:27,428 - BertrandtGUI - DEBUG - Slide 4 mit 15 Canvas-Elementen gerendert
+2025-08-21 10:45:32,435 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_5
+2025-08-21 10:45:32,436 - BertrandtGUI - DEBUG - Slide 5 mit 15 Canvas-Elementen gerendert
+2025-08-21 10:45:32,437 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_5
+2025-08-21 10:45:32,440 - BertrandtGUI - DEBUG - Slide 5 mit 15 Canvas-Elementen gerendert
+2025-08-21 10:45:37,445 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_6
+2025-08-21 10:45:37,445 - BertrandtGUI - DEBUG - Slide 6 mit 9 Canvas-Elementen gerendert
+2025-08-21 10:45:37,474 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_6
+2025-08-21 10:45:37,476 - BertrandtGUI - DEBUG - Slide 6 mit 9 Canvas-Elementen gerendert
+2025-08-21 10:45:42,483 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_7
+2025-08-21 10:45:42,502 - BertrandtGUI - DEBUG - Slide 7 mit 12 Canvas-Elementen gerendert
+2025-08-21 10:45:42,510 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_7
+2025-08-21 10:45:42,530 - BertrandtGUI - DEBUG - Slide 7 mit 12 Canvas-Elementen gerendert
+2025-08-21 10:45:47,539 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_8
+2025-08-21 10:45:47,544 - BertrandtGUI - DEBUG - Slide 8 mit Fallback-Text gerendert
+2025-08-21 10:45:47,565 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_8
+2025-08-21 10:45:47,574 - BertrandtGUI - DEBUG - Slide 8 mit Fallback-Text gerendert
+2025-08-21 10:45:52,582 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_9
+2025-08-21 10:45:52,587 - BertrandtGUI - DEBUG - Slide 9 mit Fallback-Text gerendert
+2025-08-21 10:45:52,610 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_9
+2025-08-21 10:45:52,617 - BertrandtGUI - DEBUG - Slide 9 mit Fallback-Text gerendert
+2025-08-21 10:45:57,622 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_10
+2025-08-21 10:45:57,627 - BertrandtGUI - DEBUG - Slide 10 mit Fallback-Text gerendert
+2025-08-21 10:45:57,652 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_10
+2025-08-21 10:45:57,657 - BertrandtGUI - DEBUG - Slide 10 mit Fallback-Text gerendert
+2025-08-21 10:46:02,662 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_1
+2025-08-21 10:46:02,667 - BertrandtGUI - DEBUG - Slide 1 mit 8 Canvas-Elementen gerendert
+2025-08-21 10:46:02,694 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_1
+2025-08-21 10:46:02,699 - BertrandtGUI - DEBUG - Slide 1 mit 8 Canvas-Elementen gerendert
+2025-08-21 10:46:07,704 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_2
+2025-08-21 10:46:07,705 - BertrandtGUI - DEBUG - Slide 2 mit 11 Canvas-Elementen gerendert
+2025-08-21 10:46:07,709 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_2
+2025-08-21 10:46:07,710 - BertrandtGUI - DEBUG - Slide 2 mit 11 Canvas-Elementen gerendert
+2025-08-21 10:46:12,717 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_3
+2025-08-21 10:46:12,718 - BertrandtGUI - DEBUG - Slide 3 mit 15 Canvas-Elementen gerendert
+2025-08-21 10:46:12,722 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_3
+2025-08-21 10:46:12,723 - BertrandtGUI - DEBUG - Slide 3 mit 15 Canvas-Elementen gerendert
+2025-08-21 10:46:17,727 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_4
+2025-08-21 10:46:17,728 - BertrandtGUI - DEBUG - Slide 4 mit 15 Canvas-Elementen gerendert
+2025-08-21 10:46:17,757 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_4
+2025-08-21 10:46:17,758 - BertrandtGUI - DEBUG - Slide 4 mit 15 Canvas-Elementen gerendert
+2025-08-21 10:46:22,763 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_5
+2025-08-21 10:46:22,764 - BertrandtGUI - DEBUG - Slide 5 mit 15 Canvas-Elementen gerendert
+2025-08-21 10:46:22,768 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_5
+2025-08-21 10:46:22,769 - BertrandtGUI - DEBUG - Slide 5 mit 15 Canvas-Elementen gerendert
+2025-08-21 10:46:27,773 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_6
+2025-08-21 10:46:27,774 - BertrandtGUI - DEBUG - Slide 6 mit 9 Canvas-Elementen gerendert
+2025-08-21 10:46:27,804 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_6
+2025-08-21 10:46:27,804 - BertrandtGUI - DEBUG - Slide 6 mit 9 Canvas-Elementen gerendert
+2025-08-21 10:46:32,809 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_7
+2025-08-21 10:46:32,828 - BertrandtGUI - DEBUG - Slide 7 mit 12 Canvas-Elementen gerendert
+2025-08-21 10:46:32,838 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_7
+2025-08-21 10:46:32,856 - BertrandtGUI - DEBUG - Slide 7 mit 12 Canvas-Elementen gerendert
+2025-08-21 10:46:37,861 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_8
+2025-08-21 10:46:37,866 - BertrandtGUI - DEBUG - Slide 8 mit Fallback-Text gerendert
+2025-08-21 10:46:37,888 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_8
+2025-08-21 10:46:37,897 - BertrandtGUI - DEBUG - Slide 8 mit Fallback-Text gerendert
+2025-08-21 10:46:42,902 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_9
+2025-08-21 10:46:42,907 - BertrandtGUI - DEBUG - Slide 9 mit Fallback-Text gerendert
+2025-08-21 10:46:42,928 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_9
+2025-08-21 10:46:42,937 - BertrandtGUI - DEBUG - Slide 9 mit Fallback-Text gerendert
+2025-08-21 10:46:47,943 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_10
+2025-08-21 10:46:47,949 - BertrandtGUI - DEBUG - Slide 10 mit Fallback-Text gerendert
+2025-08-21 10:46:47,974 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_10
+2025-08-21 10:46:47,979 - BertrandtGUI - DEBUG - Slide 10 mit Fallback-Text gerendert
+2025-08-21 10:46:52,983 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_1
+2025-08-21 10:46:52,988 - BertrandtGUI - DEBUG - Slide 1 mit 8 Canvas-Elementen gerendert
+2025-08-21 10:46:53,010 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_1
+2025-08-21 10:46:53,018 - BertrandtGUI - DEBUG - Slide 1 mit 8 Canvas-Elementen gerendert
+2025-08-21 10:46:58,026 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_2
+2025-08-21 10:46:58,027 - BertrandtGUI - DEBUG - Slide 2 mit 11 Canvas-Elementen gerendert
+2025-08-21 10:46:58,056 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_2
+2025-08-21 10:46:58,057 - BertrandtGUI - DEBUG - Slide 2 mit 11 Canvas-Elementen gerendert
+2025-08-21 10:47:03,064 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_3
+2025-08-21 10:47:03,065 - BertrandtGUI - DEBUG - Slide 3 mit 15 Canvas-Elementen gerendert
+2025-08-21 10:47:03,094 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_3
+2025-08-21 10:47:03,095 - BertrandtGUI - DEBUG - Slide 3 mit 15 Canvas-Elementen gerendert
+2025-08-21 10:47:08,100 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_4
+2025-08-21 10:47:08,101 - BertrandtGUI - DEBUG - Slide 4 mit 15 Canvas-Elementen gerendert
+2025-08-21 10:47:08,131 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_4
+2025-08-21 10:47:08,132 - BertrandtGUI - DEBUG - Slide 4 mit 15 Canvas-Elementen gerendert
+2025-08-21 10:47:13,136 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_5
+2025-08-21 10:47:13,137 - BertrandtGUI - DEBUG - Slide 5 mit 15 Canvas-Elementen gerendert
+2025-08-21 10:47:13,141 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_5
+2025-08-21 10:47:13,142 - BertrandtGUI - DEBUG - Slide 5 mit 15 Canvas-Elementen gerendert
+2025-08-21 10:47:18,149 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_6
+2025-08-21 10:47:18,150 - BertrandtGUI - DEBUG - Slide 6 mit 9 Canvas-Elementen gerendert
+2025-08-21 10:47:18,155 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_6
+2025-08-21 10:47:18,155 - BertrandtGUI - DEBUG - Slide 6 mit 9 Canvas-Elementen gerendert
+2025-08-21 10:47:23,159 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_7
+2025-08-21 10:47:23,178 - BertrandtGUI - DEBUG - Slide 7 mit 12 Canvas-Elementen gerendert
+2025-08-21 10:47:23,184 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_7
+2025-08-21 10:47:23,202 - BertrandtGUI - DEBUG - Slide 7 mit 12 Canvas-Elementen gerendert
+2025-08-21 10:47:28,210 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_8
+2025-08-21 10:47:28,216 - BertrandtGUI - DEBUG - Slide 8 mit Fallback-Text gerendert
+2025-08-21 10:47:28,241 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_8
+2025-08-21 10:47:28,246 - BertrandtGUI - DEBUG - Slide 8 mit Fallback-Text gerendert
+2025-08-21 10:47:33,250 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_9
+2025-08-21 10:47:33,256 - BertrandtGUI - DEBUG - Slide 9 mit Fallback-Text gerendert
+2025-08-21 10:47:33,260 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_9
+2025-08-21 10:47:33,265 - BertrandtGUI - DEBUG - Slide 9 mit Fallback-Text gerendert
+2025-08-21 10:47:38,272 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_10
+2025-08-21 10:47:38,304 - BertrandtGUI - DEBUG - Slide 10 mit Fallback-Text gerendert
+2025-08-21 10:47:38,308 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_10
+2025-08-21 10:47:38,313 - BertrandtGUI - DEBUG - Slide 10 mit Fallback-Text gerendert
+2025-08-21 10:47:43,318 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_1
+2025-08-21 10:47:43,323 - BertrandtGUI - DEBUG - Slide 1 mit 8 Canvas-Elementen gerendert
+2025-08-21 10:47:43,327 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_1
+2025-08-21 10:47:43,332 - BertrandtGUI - DEBUG - Slide 1 mit 8 Canvas-Elementen gerendert
+2025-08-21 10:47:48,338 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_2
+2025-08-21 10:47:48,339 - BertrandtGUI - DEBUG - Slide 2 mit 11 Canvas-Elementen gerendert
+2025-08-21 10:47:48,343 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_2
+2025-08-21 10:47:48,344 - BertrandtGUI - DEBUG - Slide 2 mit 11 Canvas-Elementen gerendert
+2025-08-21 10:47:53,351 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_3
+2025-08-21 10:47:53,352 - BertrandtGUI - DEBUG - Slide 3 mit 15 Canvas-Elementen gerendert
+2025-08-21 10:47:53,381 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_3
+2025-08-21 10:47:53,382 - BertrandtGUI - DEBUG - Slide 3 mit 15 Canvas-Elementen gerendert
+2025-08-21 10:47:58,386 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_4
+2025-08-21 10:47:58,387 - BertrandtGUI - DEBUG - Slide 4 mit 15 Canvas-Elementen gerendert
+2025-08-21 10:47:58,415 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_4
+2025-08-21 10:47:58,418 - BertrandtGUI - DEBUG - Slide 4 mit 15 Canvas-Elementen gerendert
+2025-08-21 10:48:03,424 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_5
+2025-08-21 10:48:03,425 - BertrandtGUI - DEBUG - Slide 5 mit 15 Canvas-Elementen gerendert
+2025-08-21 10:48:03,430 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_5
+2025-08-21 10:48:03,430 - BertrandtGUI - DEBUG - Slide 5 mit 15 Canvas-Elementen gerendert
+2025-08-21 10:48:08,435 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_6
+2025-08-21 10:48:08,436 - BertrandtGUI - DEBUG - Slide 6 mit 9 Canvas-Elementen gerendert
+2025-08-21 10:48:08,461 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_6
+2025-08-21 10:48:08,466 - BertrandtGUI - DEBUG - Slide 6 mit 9 Canvas-Elementen gerendert
+2025-08-21 10:48:13,473 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_7
+2025-08-21 10:48:13,492 - BertrandtGUI - DEBUG - Slide 7 mit 12 Canvas-Elementen gerendert
+2025-08-21 10:48:13,502 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_7
+2025-08-21 10:48:13,520 - BertrandtGUI - DEBUG - Slide 7 mit 12 Canvas-Elementen gerendert
+2025-08-21 10:48:18,527 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_8
+2025-08-21 10:48:18,532 - BertrandtGUI - DEBUG - Slide 8 mit Fallback-Text gerendert
+2025-08-21 10:48:18,558 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_8
+2025-08-21 10:48:18,563 - BertrandtGUI - DEBUG - Slide 8 mit Fallback-Text gerendert
+2025-08-21 10:48:23,568 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_9
+2025-08-21 10:48:23,574 - BertrandtGUI - DEBUG - Slide 9 mit Fallback-Text gerendert
+2025-08-21 10:48:23,598 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_9
+2025-08-21 10:48:23,605 - BertrandtGUI - DEBUG - Slide 9 mit Fallback-Text gerendert
+2025-08-21 10:48:28,609 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_10
+2025-08-21 10:48:28,614 - BertrandtGUI - DEBUG - Slide 10 mit Fallback-Text gerendert
+2025-08-21 10:48:28,641 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_10
+2025-08-21 10:48:28,646 - BertrandtGUI - DEBUG - Slide 10 mit Fallback-Text gerendert
+2025-08-21 10:48:33,653 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_1
+2025-08-21 10:48:33,658 - BertrandtGUI - DEBUG - Slide 1 mit 8 Canvas-Elementen gerendert
+2025-08-21 10:48:33,682 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_1
+2025-08-21 10:48:33,688 - BertrandtGUI - DEBUG - Slide 1 mit 8 Canvas-Elementen gerendert
+2025-08-21 10:48:38,696 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_2
+2025-08-21 10:48:38,697 - BertrandtGUI - DEBUG - Slide 2 mit 11 Canvas-Elementen gerendert
+2025-08-21 10:48:38,726 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_2
+2025-08-21 10:48:38,727 - BertrandtGUI - DEBUG - Slide 2 mit 11 Canvas-Elementen gerendert
+2025-08-21 10:48:43,733 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_3
+2025-08-21 10:48:43,735 - BertrandtGUI - DEBUG - Slide 3 mit 15 Canvas-Elementen gerendert
+2025-08-21 10:48:43,760 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_3
+2025-08-21 10:48:43,764 - BertrandtGUI - DEBUG - Slide 3 mit 15 Canvas-Elementen gerendert
+2025-08-21 10:48:48,768 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_4
+2025-08-21 10:48:48,769 - BertrandtGUI - DEBUG - Slide 4 mit 15 Canvas-Elementen gerendert
+2025-08-21 10:48:48,795 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_4
+2025-08-21 10:48:48,799 - BertrandtGUI - DEBUG - Slide 4 mit 15 Canvas-Elementen gerendert
+2025-08-21 10:48:53,806 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_5
+2025-08-21 10:48:53,809 - BertrandtGUI - DEBUG - Slide 5 mit 15 Canvas-Elementen gerendert
+2025-08-21 10:48:53,836 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_5
+2025-08-21 10:48:53,837 - BertrandtGUI - DEBUG - Slide 5 mit 15 Canvas-Elementen gerendert
+2025-08-21 10:48:58,841 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_6
+2025-08-21 10:48:58,842 - BertrandtGUI - DEBUG - Slide 6 mit 9 Canvas-Elementen gerendert
+2025-08-21 10:48:58,872 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_6
+2025-08-21 10:48:58,873 - BertrandtGUI - DEBUG - Slide 6 mit 9 Canvas-Elementen gerendert
+2025-08-21 10:49:03,880 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_7
+2025-08-21 10:49:03,899 - BertrandtGUI - DEBUG - Slide 7 mit 12 Canvas-Elementen gerendert
+2025-08-21 10:49:03,906 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_7
+2025-08-21 10:49:03,924 - BertrandtGUI - DEBUG - Slide 7 mit 12 Canvas-Elementen gerendert
+2025-08-21 10:49:08,929 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_8
+2025-08-21 10:49:08,955 - BertrandtGUI - DEBUG - Slide 8 mit Fallback-Text gerendert
+2025-08-21 10:49:08,958 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_8
+2025-08-21 10:49:08,964 - BertrandtGUI - DEBUG - Slide 8 mit Fallback-Text gerendert
+2025-08-21 10:49:13,968 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_9
+2025-08-21 10:49:13,973 - BertrandtGUI - DEBUG - Slide 9 mit Fallback-Text gerendert
+2025-08-21 10:49:13,978 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_9
+2025-08-21 10:49:13,983 - BertrandtGUI - DEBUG - Slide 9 mit Fallback-Text gerendert
+2025-08-21 10:49:18,987 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_10
+2025-08-21 10:49:18,993 - BertrandtGUI - DEBUG - Slide 10 mit Fallback-Text gerendert
+2025-08-21 10:49:18,996 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_10
+2025-08-21 10:49:19,002 - BertrandtGUI - DEBUG - Slide 10 mit Fallback-Text gerendert
+2025-08-21 10:49:24,009 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_1
+2025-08-21 10:49:24,015 - BertrandtGUI - DEBUG - Slide 1 mit 8 Canvas-Elementen gerendert
+2025-08-21 10:49:24,040 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_1
+2025-08-21 10:49:24,045 - BertrandtGUI - DEBUG - Slide 1 mit 8 Canvas-Elementen gerendert
+2025-08-21 10:49:29,052 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_2
+2025-08-21 10:49:29,053 - BertrandtGUI - DEBUG - Slide 2 mit 11 Canvas-Elementen gerendert
+2025-08-21 10:49:29,080 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_2
+2025-08-21 10:49:29,082 - BertrandtGUI - DEBUG - Slide 2 mit 11 Canvas-Elementen gerendert
+2025-08-21 10:49:34,089 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_3
+2025-08-21 10:49:34,090 - BertrandtGUI - DEBUG - Slide 3 mit 15 Canvas-Elementen gerendert
+2025-08-21 10:49:34,119 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_3
+2025-08-21 10:49:34,121 - BertrandtGUI - DEBUG - Slide 3 mit 15 Canvas-Elementen gerendert
+2025-08-21 10:49:39,128 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_4
+2025-08-21 10:49:39,129 - BertrandtGUI - DEBUG - Slide 4 mit 15 Canvas-Elementen gerendert
+2025-08-21 10:49:39,158 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_4
+2025-08-21 10:49:39,160 - BertrandtGUI - DEBUG - Slide 4 mit 15 Canvas-Elementen gerendert
+2025-08-21 10:49:44,164 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_5
+2025-08-21 10:49:44,165 - BertrandtGUI - DEBUG - Slide 5 mit 15 Canvas-Elementen gerendert
+2025-08-21 10:49:44,190 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_5
+2025-08-21 10:49:44,194 - BertrandtGUI - DEBUG - Slide 5 mit 15 Canvas-Elementen gerendert
+2025-08-21 10:49:49,201 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_6
+2025-08-21 10:49:49,203 - BertrandtGUI - DEBUG - Slide 6 mit 9 Canvas-Elementen gerendert
+2025-08-21 10:49:49,231 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_6
+2025-08-21 10:49:49,232 - BertrandtGUI - DEBUG - Slide 6 mit 9 Canvas-Elementen gerendert
+2025-08-21 10:49:54,237 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_7
+2025-08-21 10:49:54,256 - BertrandtGUI - DEBUG - Slide 7 mit 12 Canvas-Elementen gerendert
+2025-08-21 10:49:54,266 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_7
+2025-08-21 10:49:54,284 - BertrandtGUI - DEBUG - Slide 7 mit 12 Canvas-Elementen gerendert
+2025-08-21 10:49:59,292 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_8
+2025-08-21 10:49:59,298 - BertrandtGUI - DEBUG - Slide 8 mit Fallback-Text gerendert
+2025-08-21 10:49:59,320 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_8
+2025-08-21 10:49:59,328 - BertrandtGUI - DEBUG - Slide 8 mit Fallback-Text gerendert
+2025-08-21 10:50:04,335 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_9
+2025-08-21 10:50:04,340 - BertrandtGUI - DEBUG - Slide 9 mit Fallback-Text gerendert
+2025-08-21 10:50:04,365 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_9
+2025-08-21 10:50:04,370 - BertrandtGUI - DEBUG - Slide 9 mit Fallback-Text gerendert
+2025-08-21 10:50:09,375 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_10
+2025-08-21 10:50:09,380 - BertrandtGUI - DEBUG - Slide 10 mit Fallback-Text gerendert
+2025-08-21 10:50:09,384 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_10
+2025-08-21 10:50:09,389 - BertrandtGUI - DEBUG - Slide 10 mit Fallback-Text gerendert
+2025-08-21 10:50:14,394 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_1
+2025-08-21 10:50:14,399 - BertrandtGUI - DEBUG - Slide 1 mit 8 Canvas-Elementen gerendert
+2025-08-21 10:50:14,423 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_1
+2025-08-21 10:50:14,428 - BertrandtGUI - DEBUG - Slide 1 mit 8 Canvas-Elementen gerendert
+2025-08-21 10:50:19,433 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_2
+2025-08-21 10:50:19,434 - BertrandtGUI - DEBUG - Slide 2 mit 11 Canvas-Elementen gerendert
+2025-08-21 10:50:19,438 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_2
+2025-08-21 10:50:19,439 - BertrandtGUI - DEBUG - Slide 2 mit 11 Canvas-Elementen gerendert
+2025-08-21 10:50:24,446 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_3
+2025-08-21 10:50:24,447 - BertrandtGUI - DEBUG - Slide 3 mit 15 Canvas-Elementen gerendert
+2025-08-21 10:50:24,453 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_3
+2025-08-21 10:50:24,454 - BertrandtGUI - DEBUG - Slide 3 mit 15 Canvas-Elementen gerendert
+2025-08-21 10:50:29,460 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_4
+2025-08-21 10:50:29,461 - BertrandtGUI - DEBUG - Slide 4 mit 15 Canvas-Elementen gerendert
+2025-08-21 10:50:29,466 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_4
+2025-08-21 10:50:29,467 - BertrandtGUI - DEBUG - Slide 4 mit 15 Canvas-Elementen gerendert
+2025-08-21 10:50:34,474 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_5
+2025-08-21 10:50:34,475 - BertrandtGUI - DEBUG - Slide 5 mit 15 Canvas-Elementen gerendert
+2025-08-21 10:50:34,504 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_5
+2025-08-21 10:50:34,505 - BertrandtGUI - DEBUG - Slide 5 mit 15 Canvas-Elementen gerendert
+2025-08-21 10:50:39,510 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_6
+2025-08-21 10:50:39,511 - BertrandtGUI - DEBUG - Slide 6 mit 9 Canvas-Elementen gerendert
+2025-08-21 10:50:39,540 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_6
+2025-08-21 10:50:39,541 - BertrandtGUI - DEBUG - Slide 6 mit 9 Canvas-Elementen gerendert
+2025-08-21 10:50:44,545 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_7
+2025-08-21 10:50:44,564 - BertrandtGUI - DEBUG - Slide 7 mit 12 Canvas-Elementen gerendert
+2025-08-21 10:50:44,574 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_7
+2025-08-21 10:50:44,611 - BertrandtGUI - DEBUG - Slide 7 mit 12 Canvas-Elementen gerendert
+2025-08-21 10:50:49,622 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_8
+2025-08-21 10:50:49,627 - BertrandtGUI - DEBUG - Slide 8 mit Fallback-Text gerendert
+2025-08-21 10:50:49,651 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_8
+2025-08-21 10:50:49,656 - BertrandtGUI - DEBUG - Slide 8 mit Fallback-Text gerendert
+2025-08-21 10:50:54,660 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_9
+2025-08-21 10:50:54,665 - BertrandtGUI - DEBUG - Slide 9 mit Fallback-Text gerendert
+2025-08-21 10:50:54,689 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_9
+2025-08-21 10:50:54,695 - BertrandtGUI - DEBUG - Slide 9 mit Fallback-Text gerendert
+2025-08-21 10:50:59,702 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_10
+2025-08-21 10:50:59,707 - BertrandtGUI - DEBUG - Slide 10 mit Fallback-Text gerendert
+2025-08-21 10:50:59,732 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_10
+2025-08-21 10:50:59,737 - BertrandtGUI - DEBUG - Slide 10 mit Fallback-Text gerendert
+2025-08-21 10:51:04,744 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_1
+2025-08-21 10:51:04,750 - BertrandtGUI - DEBUG - Slide 1 mit 8 Canvas-Elementen gerendert
+2025-08-21 10:51:04,774 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_1
+2025-08-21 10:51:04,779 - BertrandtGUI - DEBUG - Slide 1 mit 8 Canvas-Elementen gerendert
+2025-08-21 10:51:09,787 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_2
+2025-08-21 10:51:09,788 - BertrandtGUI - DEBUG - Slide 2 mit 11 Canvas-Elementen gerendert
+2025-08-21 10:51:09,815 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_2
+2025-08-21 10:51:09,817 - BertrandtGUI - DEBUG - Slide 2 mit 11 Canvas-Elementen gerendert
+2025-08-21 10:51:14,824 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_3
+2025-08-21 10:51:14,825 - BertrandtGUI - DEBUG - Slide 3 mit 15 Canvas-Elementen gerendert
+2025-08-21 10:51:14,854 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_3
+2025-08-21 10:51:14,855 - BertrandtGUI - DEBUG - Slide 3 mit 15 Canvas-Elementen gerendert
+2025-08-21 10:51:19,859 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_4
+2025-08-21 10:51:19,860 - BertrandtGUI - DEBUG - Slide 4 mit 15 Canvas-Elementen gerendert
+2025-08-21 10:51:19,889 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_4
+2025-08-21 10:51:19,890 - BertrandtGUI - DEBUG - Slide 4 mit 15 Canvas-Elementen gerendert
+2025-08-21 10:51:24,895 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_5
+2025-08-21 10:51:24,896 - BertrandtGUI - DEBUG - Slide 5 mit 15 Canvas-Elementen gerendert
+2025-08-21 10:51:24,925 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_5
+2025-08-21 10:51:24,927 - BertrandtGUI - DEBUG - Slide 5 mit 15 Canvas-Elementen gerendert
+2025-08-21 10:51:29,931 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_6
+2025-08-21 10:51:29,932 - BertrandtGUI - DEBUG - Slide 6 mit 9 Canvas-Elementen gerendert
+2025-08-21 10:51:29,936 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_6
+2025-08-21 10:51:29,937 - BertrandtGUI - DEBUG - Slide 6 mit 9 Canvas-Elementen gerendert
+2025-08-21 10:51:34,944 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_7
+2025-08-21 10:51:34,963 - BertrandtGUI - DEBUG - Slide 7 mit 12 Canvas-Elementen gerendert
+2025-08-21 10:51:34,973 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_7
+2025-08-21 10:51:34,992 - BertrandtGUI - DEBUG - Slide 7 mit 12 Canvas-Elementen gerendert
+2025-08-21 10:51:40,000 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_8
+2025-08-21 10:51:40,006 - BertrandtGUI - DEBUG - Slide 8 mit Fallback-Text gerendert
+2025-08-21 10:51:40,030 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_8
+2025-08-21 10:51:40,035 - BertrandtGUI - DEBUG - Slide 8 mit Fallback-Text gerendert
+2025-08-21 10:51:45,039 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_9
+2025-08-21 10:51:45,044 - BertrandtGUI - DEBUG - Slide 9 mit Fallback-Text gerendert
+2025-08-21 10:51:45,066 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_9
+2025-08-21 10:51:45,074 - BertrandtGUI - DEBUG - Slide 9 mit Fallback-Text gerendert
+2025-08-21 10:51:50,082 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_10
+2025-08-21 10:51:50,087 - BertrandtGUI - DEBUG - Slide 10 mit Fallback-Text gerendert
+2025-08-21 10:51:50,092 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_10
+2025-08-21 10:51:50,097 - BertrandtGUI - DEBUG - Slide 10 mit Fallback-Text gerendert
+2025-08-21 10:51:55,101 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_1
+2025-08-21 10:51:55,107 - BertrandtGUI - DEBUG - Slide 1 mit 8 Canvas-Elementen gerendert
+2025-08-21 10:51:55,131 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_1
+2025-08-21 10:51:55,136 - BertrandtGUI - DEBUG - Slide 1 mit 8 Canvas-Elementen gerendert
+2025-08-21 10:52:00,140 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_2
+2025-08-21 10:52:00,142 - BertrandtGUI - DEBUG - Slide 2 mit 11 Canvas-Elementen gerendert
+2025-08-21 10:52:00,171 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_2
+2025-08-21 10:52:00,172 - BertrandtGUI - DEBUG - Slide 2 mit 11 Canvas-Elementen gerendert
+2025-08-21 10:52:05,177 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_3
+2025-08-21 10:52:05,178 - BertrandtGUI - DEBUG - Slide 3 mit 15 Canvas-Elementen gerendert
+2025-08-21 10:52:05,203 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_3
+2025-08-21 10:52:05,207 - BertrandtGUI - DEBUG - Slide 3 mit 15 Canvas-Elementen gerendert
+2025-08-21 10:52:10,214 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_4
+2025-08-21 10:52:10,215 - BertrandtGUI - DEBUG - Slide 4 mit 15 Canvas-Elementen gerendert
+2025-08-21 10:52:10,240 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_4
+2025-08-21 10:52:10,244 - BertrandtGUI - DEBUG - Slide 4 mit 15 Canvas-Elementen gerendert
+2025-08-21 10:52:15,249 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_5
+2025-08-21 10:52:15,250 - BertrandtGUI - DEBUG - Slide 5 mit 15 Canvas-Elementen gerendert
+2025-08-21 10:52:15,279 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_5
+2025-08-21 10:52:15,280 - BertrandtGUI - DEBUG - Slide 5 mit 15 Canvas-Elementen gerendert
+2025-08-21 10:52:20,285 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_6
+2025-08-21 10:52:20,286 - BertrandtGUI - DEBUG - Slide 6 mit 9 Canvas-Elementen gerendert
+2025-08-21 10:52:20,313 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_6
+2025-08-21 10:52:20,315 - BertrandtGUI - DEBUG - Slide 6 mit 9 Canvas-Elementen gerendert
+2025-08-21 10:52:25,322 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_7
+2025-08-21 10:52:25,341 - BertrandtGUI - DEBUG - Slide 7 mit 12 Canvas-Elementen gerendert
+2025-08-21 10:52:25,347 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_7
+2025-08-21 10:52:25,365 - BertrandtGUI - DEBUG - Slide 7 mit 12 Canvas-Elementen gerendert
+2025-08-21 10:52:30,374 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_8
+2025-08-21 10:52:30,379 - BertrandtGUI - DEBUG - Slide 8 mit Fallback-Text gerendert
+2025-08-21 10:52:30,403 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_8
+2025-08-21 10:52:30,409 - BertrandtGUI - DEBUG - Slide 8 mit Fallback-Text gerendert
+2025-08-21 10:52:35,416 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_9
+2025-08-21 10:52:35,421 - BertrandtGUI - DEBUG - Slide 9 mit Fallback-Text gerendert
+2025-08-21 10:52:35,426 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_9
+2025-08-21 10:52:35,431 - BertrandtGUI - DEBUG - Slide 9 mit Fallback-Text gerendert
+2025-08-21 10:52:40,435 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_10
+2025-08-21 10:52:40,441 - BertrandtGUI - DEBUG - Slide 10 mit Fallback-Text gerendert
+2025-08-21 10:52:40,442 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_10
+2025-08-21 10:52:40,450 - BertrandtGUI - DEBUG - Slide 10 mit Fallback-Text gerendert
+2025-08-21 10:52:45,457 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_1
+2025-08-21 10:52:45,462 - BertrandtGUI - DEBUG - Slide 1 mit 8 Canvas-Elementen gerendert
+2025-08-21 10:52:45,494 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_1
+2025-08-21 10:52:45,499 - BertrandtGUI - DEBUG - Slide 1 mit 8 Canvas-Elementen gerendert
+2025-08-21 10:52:50,506 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_2
+2025-08-21 10:52:50,507 - BertrandtGUI - DEBUG - Slide 2 mit 11 Canvas-Elementen gerendert
+2025-08-21 10:52:50,537 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_2
+2025-08-21 10:52:50,538 - BertrandtGUI - DEBUG - Slide 2 mit 11 Canvas-Elementen gerendert
+2025-08-21 10:52:55,542 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_3
+2025-08-21 10:52:55,543 - BertrandtGUI - DEBUG - Slide 3 mit 15 Canvas-Elementen gerendert
+2025-08-21 10:52:55,572 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_3
+2025-08-21 10:52:55,573 - BertrandtGUI - DEBUG - Slide 3 mit 15 Canvas-Elementen gerendert
+2025-08-21 10:53:00,577 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_4
+2025-08-21 10:53:00,578 - BertrandtGUI - DEBUG - Slide 4 mit 15 Canvas-Elementen gerendert
+2025-08-21 10:53:00,607 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_4
+2025-08-21 10:53:00,608 - BertrandtGUI - DEBUG - Slide 4 mit 15 Canvas-Elementen gerendert
+2025-08-21 10:53:05,613 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_5
+2025-08-21 10:53:05,614 - BertrandtGUI - DEBUG - Slide 5 mit 15 Canvas-Elementen gerendert
+2025-08-21 10:53:05,643 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_5
+2025-08-21 10:53:05,644 - BertrandtGUI - DEBUG - Slide 5 mit 15 Canvas-Elementen gerendert
+2025-08-21 10:53:10,649 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_6
+2025-08-21 10:53:10,650 - BertrandtGUI - DEBUG - Slide 6 mit 9 Canvas-Elementen gerendert
+2025-08-21 10:53:10,654 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_6
+2025-08-21 10:53:10,655 - BertrandtGUI - DEBUG - Slide 6 mit 9 Canvas-Elementen gerendert
+2025-08-21 10:53:15,659 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_7
+2025-08-21 10:53:15,677 - BertrandtGUI - DEBUG - Slide 7 mit 12 Canvas-Elementen gerendert
+2025-08-21 10:53:15,681 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_7
+2025-08-21 10:53:15,700 - BertrandtGUI - DEBUG - Slide 7 mit 12 Canvas-Elementen gerendert
+2025-08-21 10:53:20,708 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_8
+2025-08-21 10:53:20,713 - BertrandtGUI - DEBUG - Slide 8 mit Fallback-Text gerendert
+2025-08-21 10:53:20,714 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_8
+2025-08-21 10:53:20,723 - BertrandtGUI - DEBUG - Slide 8 mit Fallback-Text gerendert
+2025-08-21 10:53:25,730 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_9
+2025-08-21 10:53:25,735 - BertrandtGUI - DEBUG - Slide 9 mit Fallback-Text gerendert
+2025-08-21 10:53:25,761 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_9
+2025-08-21 10:53:25,766 - BertrandtGUI - DEBUG - Slide 9 mit Fallback-Text gerendert
+2025-08-21 10:53:30,770 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_10
+2025-08-21 10:53:30,775 - BertrandtGUI - DEBUG - Slide 10 mit Fallback-Text gerendert
+2025-08-21 10:53:30,801 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_10
+2025-08-21 10:53:30,806 - BertrandtGUI - DEBUG - Slide 10 mit Fallback-Text gerendert
+2025-08-21 10:53:35,811 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_1
+2025-08-21 10:53:35,816 - BertrandtGUI - DEBUG - Slide 1 mit 8 Canvas-Elementen gerendert
+2025-08-21 10:53:35,841 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_1
+2025-08-21 10:53:35,847 - BertrandtGUI - DEBUG - Slide 1 mit 8 Canvas-Elementen gerendert
+2025-08-21 10:53:40,851 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_2
+2025-08-21 10:53:40,853 - BertrandtGUI - DEBUG - Slide 2 mit 11 Canvas-Elementen gerendert
+2025-08-21 10:53:40,883 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_2
+2025-08-21 10:53:40,883 - BertrandtGUI - DEBUG - Slide 2 mit 11 Canvas-Elementen gerendert
+2025-08-21 10:53:45,890 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_3
+2025-08-21 10:53:45,892 - BertrandtGUI - DEBUG - Slide 3 mit 15 Canvas-Elementen gerendert
+2025-08-21 10:53:45,917 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_3
+2025-08-21 10:53:45,921 - BertrandtGUI - DEBUG - Slide 3 mit 15 Canvas-Elementen gerendert
+2025-08-21 10:53:50,926 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_4
+2025-08-21 10:53:50,927 - BertrandtGUI - DEBUG - Slide 4 mit 15 Canvas-Elementen gerendert
+2025-08-21 10:53:50,956 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_4
+2025-08-21 10:53:50,957 - BertrandtGUI - DEBUG - Slide 4 mit 15 Canvas-Elementen gerendert
+2025-08-21 10:53:55,961 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_5
+2025-08-21 10:53:55,962 - BertrandtGUI - DEBUG - Slide 5 mit 15 Canvas-Elementen gerendert
+2025-08-21 10:53:55,992 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_5
+2025-08-21 10:53:55,992 - BertrandtGUI - DEBUG - Slide 5 mit 15 Canvas-Elementen gerendert
+2025-08-21 10:54:00,997 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_6
+2025-08-21 10:54:00,998 - BertrandtGUI - DEBUG - Slide 6 mit 9 Canvas-Elementen gerendert
+2025-08-21 10:54:01,027 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_6
+2025-08-21 10:54:01,029 - BertrandtGUI - DEBUG - Slide 6 mit 9 Canvas-Elementen gerendert
+2025-08-21 10:54:06,033 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_7
+2025-08-21 10:54:06,052 - BertrandtGUI - DEBUG - Slide 7 mit 12 Canvas-Elementen gerendert
+2025-08-21 10:54:06,063 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_7
+2025-08-21 10:54:06,082 - BertrandtGUI - DEBUG - Slide 7 mit 12 Canvas-Elementen gerendert
+2025-08-21 10:54:11,090 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_8
+2025-08-21 10:54:11,095 - BertrandtGUI - DEBUG - Slide 8 mit Fallback-Text gerendert
+2025-08-21 10:54:11,119 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_8
+2025-08-21 10:54:11,125 - BertrandtGUI - DEBUG - Slide 8 mit Fallback-Text gerendert
+2025-08-21 10:54:16,132 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_9
+2025-08-21 10:54:16,137 - BertrandtGUI - DEBUG - Slide 9 mit Fallback-Text gerendert
+2025-08-21 10:54:16,163 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_9
+2025-08-21 10:54:16,168 - BertrandtGUI - DEBUG - Slide 9 mit Fallback-Text gerendert
+2025-08-21 10:54:21,173 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_10
+2025-08-21 10:54:21,178 - BertrandtGUI - DEBUG - Slide 10 mit Fallback-Text gerendert
+2025-08-21 10:54:21,182 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_10
+2025-08-21 10:54:21,187 - BertrandtGUI - DEBUG - Slide 10 mit Fallback-Text gerendert
+2025-08-21 10:54:26,195 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_1
+2025-08-21 10:54:26,200 - BertrandtGUI - DEBUG - Slide 1 mit 8 Canvas-Elementen gerendert
+2025-08-21 10:54:26,225 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_1
+2025-08-21 10:54:26,230 - BertrandtGUI - DEBUG - Slide 1 mit 8 Canvas-Elementen gerendert
+2025-08-21 10:54:31,238 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_2
+2025-08-21 10:54:31,239 - BertrandtGUI - DEBUG - Slide 2 mit 11 Canvas-Elementen gerendert
+2025-08-21 10:54:31,266 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_2
+2025-08-21 10:54:31,269 - BertrandtGUI - DEBUG - Slide 2 mit 11 Canvas-Elementen gerendert
+2025-08-21 10:54:36,273 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_3
+2025-08-21 10:54:36,274 - BertrandtGUI - DEBUG - Slide 3 mit 15 Canvas-Elementen gerendert
+2025-08-21 10:54:36,303 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_3
+2025-08-21 10:54:36,304 - BertrandtGUI - DEBUG - Slide 3 mit 15 Canvas-Elementen gerendert
+2025-08-21 10:54:41,308 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_4
+2025-08-21 10:54:41,309 - BertrandtGUI - DEBUG - Slide 4 mit 15 Canvas-Elementen gerendert
+2025-08-21 10:54:41,312 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_4
+2025-08-21 10:54:41,314 - BertrandtGUI - DEBUG - Slide 4 mit 15 Canvas-Elementen gerendert
+2025-08-21 10:54:46,318 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_5
+2025-08-21 10:54:46,319 - BertrandtGUI - DEBUG - Slide 5 mit 15 Canvas-Elementen gerendert
+2025-08-21 10:54:46,323 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_5
+2025-08-21 10:54:46,324 - BertrandtGUI - DEBUG - Slide 5 mit 15 Canvas-Elementen gerendert
+2025-08-21 10:54:51,330 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_6
+2025-08-21 10:54:51,331 - BertrandtGUI - DEBUG - Slide 6 mit 9 Canvas-Elementen gerendert
+2025-08-21 10:54:51,361 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_6
+2025-08-21 10:54:51,361 - BertrandtGUI - DEBUG - Slide 6 mit 9 Canvas-Elementen gerendert
+2025-08-21 10:54:56,366 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_7
+2025-08-21 10:54:56,386 - BertrandtGUI - DEBUG - Slide 7 mit 12 Canvas-Elementen gerendert
+2025-08-21 10:54:56,392 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_7
+2025-08-21 10:54:56,413 - BertrandtGUI - DEBUG - Slide 7 mit 12 Canvas-Elementen gerendert
+2025-08-21 10:55:01,421 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_8
+2025-08-21 10:55:01,426 - BertrandtGUI - DEBUG - Slide 8 mit Fallback-Text gerendert
+2025-08-21 10:55:01,451 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_8
+2025-08-21 10:55:01,456 - BertrandtGUI - DEBUG - Slide 8 mit Fallback-Text gerendert
+2025-08-21 10:55:06,460 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_9
+2025-08-21 10:55:06,465 - BertrandtGUI - DEBUG - Slide 9 mit Fallback-Text gerendert
+2025-08-21 10:55:06,490 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_9
+2025-08-21 10:55:06,495 - BertrandtGUI - DEBUG - Slide 9 mit Fallback-Text gerendert
+2025-08-21 10:55:11,500 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_10
+2025-08-21 10:55:11,506 - BertrandtGUI - DEBUG - Slide 10 mit Fallback-Text gerendert
+2025-08-21 10:55:11,506 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_10
+2025-08-21 10:55:11,515 - BertrandtGUI - DEBUG - Slide 10 mit Fallback-Text gerendert
+2025-08-21 10:55:16,522 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_1
+2025-08-21 10:55:16,528 - BertrandtGUI - DEBUG - Slide 1 mit 8 Canvas-Elementen gerendert
+2025-08-21 10:55:16,551 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_1
+2025-08-21 10:55:16,559 - BertrandtGUI - DEBUG - Slide 1 mit 8 Canvas-Elementen gerendert
+2025-08-21 10:55:21,563 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_2
+2025-08-21 10:55:21,564 - BertrandtGUI - DEBUG - Slide 2 mit 11 Canvas-Elementen gerendert
+2025-08-21 10:55:21,567 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_2
+2025-08-21 10:55:21,569 - BertrandtGUI - DEBUG - Slide 2 mit 11 Canvas-Elementen gerendert
+2025-08-21 10:55:26,576 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_3
+2025-08-21 10:55:26,577 - BertrandtGUI - DEBUG - Slide 3 mit 15 Canvas-Elementen gerendert
+2025-08-21 10:55:26,578 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_3
+2025-08-21 10:55:26,582 - BertrandtGUI - DEBUG - Slide 3 mit 15 Canvas-Elementen gerendert
+2025-08-21 10:55:31,587 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_4
+2025-08-21 10:55:31,588 - BertrandtGUI - DEBUG - Slide 4 mit 15 Canvas-Elementen gerendert
+2025-08-21 10:55:31,592 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_4
+2025-08-21 10:55:31,594 - BertrandtGUI - DEBUG - Slide 4 mit 15 Canvas-Elementen gerendert
+2025-08-21 10:55:36,598 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_5
+2025-08-21 10:55:36,600 - BertrandtGUI - DEBUG - Slide 5 mit 15 Canvas-Elementen gerendert
+2025-08-21 10:55:36,628 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_5
+2025-08-21 10:55:36,630 - BertrandtGUI - DEBUG - Slide 5 mit 15 Canvas-Elementen gerendert
+2025-08-21 10:55:41,634 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_6
+2025-08-21 10:55:41,635 - BertrandtGUI - DEBUG - Slide 6 mit 9 Canvas-Elementen gerendert
+2025-08-21 10:55:41,640 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_6
+2025-08-21 10:55:41,641 - BertrandtGUI - DEBUG - Slide 6 mit 9 Canvas-Elementen gerendert
+2025-08-21 10:55:46,645 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_7
+2025-08-21 10:55:46,665 - BertrandtGUI - DEBUG - Slide 7 mit 12 Canvas-Elementen gerendert
+2025-08-21 10:55:46,672 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_7
+2025-08-21 10:55:46,692 - BertrandtGUI - DEBUG - Slide 7 mit 12 Canvas-Elementen gerendert
+2025-08-21 10:55:51,701 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_8
+2025-08-21 10:55:51,706 - BertrandtGUI - DEBUG - Slide 8 mit Fallback-Text gerendert
+2025-08-21 10:55:51,733 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_8
+2025-08-21 10:55:51,738 - BertrandtGUI - DEBUG - Slide 8 mit Fallback-Text gerendert
+2025-08-21 10:55:56,745 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_9
+2025-08-21 10:55:56,750 - BertrandtGUI - DEBUG - Slide 9 mit Fallback-Text gerendert
+2025-08-21 10:55:56,751 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_9
+2025-08-21 10:55:56,759 - BertrandtGUI - DEBUG - Slide 9 mit Fallback-Text gerendert
+2025-08-21 10:56:01,765 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_10
+2025-08-21 10:56:01,771 - BertrandtGUI - DEBUG - Slide 10 mit Fallback-Text gerendert
+2025-08-21 10:56:01,775 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_10
+2025-08-21 10:56:01,780 - BertrandtGUI - DEBUG - Slide 10 mit Fallback-Text gerendert
+2025-08-21 10:56:06,787 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_1
+2025-08-21 10:56:06,792 - BertrandtGUI - DEBUG - Slide 1 mit 8 Canvas-Elementen gerendert
+2025-08-21 10:56:06,796 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_1
+2025-08-21 10:56:06,802 - BertrandtGUI - DEBUG - Slide 1 mit 8 Canvas-Elementen gerendert
+2025-08-21 10:56:11,807 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_2
+2025-08-21 10:56:11,808 - BertrandtGUI - DEBUG - Slide 2 mit 11 Canvas-Elementen gerendert
+2025-08-21 10:56:11,808 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_2
+2025-08-21 10:56:11,812 - BertrandtGUI - DEBUG - Slide 2 mit 11 Canvas-Elementen gerendert
+2025-08-21 10:56:16,817 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_3
+2025-08-21 10:56:16,818 - BertrandtGUI - DEBUG - Slide 3 mit 15 Canvas-Elementen gerendert
+2025-08-21 10:56:16,849 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_3
+2025-08-21 10:56:16,849 - BertrandtGUI - DEBUG - Slide 3 mit 15 Canvas-Elementen gerendert
+2025-08-21 10:56:21,856 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_4
+2025-08-21 10:56:21,857 - BertrandtGUI - DEBUG - Slide 4 mit 15 Canvas-Elementen gerendert
+2025-08-21 10:56:21,858 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_4
+2025-08-21 10:56:21,862 - BertrandtGUI - DEBUG - Slide 4 mit 15 Canvas-Elementen gerendert
+2025-08-21 10:56:26,865 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_5
+2025-08-21 10:56:26,867 - BertrandtGUI - DEBUG - Slide 5 mit 15 Canvas-Elementen gerendert
+2025-08-21 10:56:26,894 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_5
+2025-08-21 10:56:26,897 - BertrandtGUI - DEBUG - Slide 5 mit 15 Canvas-Elementen gerendert
+2025-08-21 10:56:31,904 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_6
+2025-08-21 10:56:31,931 - BertrandtGUI - DEBUG - Slide 6 mit 9 Canvas-Elementen gerendert
+2025-08-21 10:56:31,936 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_6
+2025-08-21 10:56:31,936 - BertrandtGUI - DEBUG - Slide 6 mit 9 Canvas-Elementen gerendert
+2025-08-21 10:56:36,943 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_7
+2025-08-21 10:56:36,962 - BertrandtGUI - DEBUG - Slide 7 mit 12 Canvas-Elementen gerendert
+2025-08-21 10:56:36,968 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_7
+2025-08-21 10:56:36,986 - BertrandtGUI - DEBUG - Slide 7 mit 12 Canvas-Elementen gerendert
+2025-08-21 10:56:41,995 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_8
+2025-08-21 10:56:42,000 - BertrandtGUI - DEBUG - Slide 8 mit Fallback-Text gerendert
+2025-08-21 10:56:42,025 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_8
+2025-08-21 10:56:42,030 - BertrandtGUI - DEBUG - Slide 8 mit Fallback-Text gerendert
+2025-08-21 10:56:47,035 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_9
+2025-08-21 10:56:47,040 - BertrandtGUI - DEBUG - Slide 9 mit Fallback-Text gerendert
+2025-08-21 10:56:47,045 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_9
+2025-08-21 10:56:47,050 - BertrandtGUI - DEBUG - Slide 9 mit Fallback-Text gerendert
+2025-08-21 10:56:52,054 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_10
+2025-08-21 10:56:52,059 - BertrandtGUI - DEBUG - Slide 10 mit Fallback-Text gerendert
+2025-08-21 10:56:52,085 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_10
+2025-08-21 10:56:52,090 - BertrandtGUI - DEBUG - Slide 10 mit Fallback-Text gerendert
+2025-08-21 10:56:57,097 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_1
+2025-08-21 10:56:57,102 - BertrandtGUI - DEBUG - Slide 1 mit 8 Canvas-Elementen gerendert
+2025-08-21 10:56:57,128 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_1
+2025-08-21 10:56:57,133 - BertrandtGUI - DEBUG - Slide 1 mit 8 Canvas-Elementen gerendert
+2025-08-21 10:57:02,139 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_2
+2025-08-21 10:57:02,141 - BertrandtGUI - DEBUG - Slide 2 mit 11 Canvas-Elementen gerendert
+2025-08-21 10:57:02,170 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_2
+2025-08-21 10:57:02,171 - BertrandtGUI - DEBUG - Slide 2 mit 11 Canvas-Elementen gerendert
+2025-08-21 10:57:07,177 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_3
+2025-08-21 10:57:07,178 - BertrandtGUI - DEBUG - Slide 3 mit 15 Canvas-Elementen gerendert
+2025-08-21 10:57:07,203 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_3
+2025-08-21 10:57:07,208 - BertrandtGUI - DEBUG - Slide 3 mit 15 Canvas-Elementen gerendert
+2025-08-21 10:57:12,212 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_4
+2025-08-21 10:57:12,213 - BertrandtGUI - DEBUG - Slide 4 mit 15 Canvas-Elementen gerendert
+2025-08-21 10:57:12,239 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_4
+2025-08-21 10:57:12,243 - BertrandtGUI - DEBUG - Slide 4 mit 15 Canvas-Elementen gerendert
+2025-08-21 10:57:17,247 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_5
+2025-08-21 10:57:17,248 - BertrandtGUI - DEBUG - Slide 5 mit 15 Canvas-Elementen gerendert
+2025-08-21 10:57:17,251 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_5
+2025-08-21 10:57:17,253 - BertrandtGUI - DEBUG - Slide 5 mit 15 Canvas-Elementen gerendert
+2025-08-21 10:57:22,259 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_6
+2025-08-21 10:57:22,260 - BertrandtGUI - DEBUG - Slide 6 mit 9 Canvas-Elementen gerendert
+2025-08-21 10:57:22,264 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_6
+2025-08-21 10:57:22,265 - BertrandtGUI - DEBUG - Slide 6 mit 9 Canvas-Elementen gerendert
+2025-08-21 10:57:27,272 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_7
+2025-08-21 10:57:27,291 - BertrandtGUI - DEBUG - Slide 7 mit 12 Canvas-Elementen gerendert
+2025-08-21 10:57:27,297 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_7
+2025-08-21 10:57:27,314 - BertrandtGUI - DEBUG - Slide 7 mit 12 Canvas-Elementen gerendert
+2025-08-21 10:57:32,322 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_8
+2025-08-21 10:57:32,328 - BertrandtGUI - DEBUG - Slide 8 mit Fallback-Text gerendert
+2025-08-21 10:57:32,333 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_8
+2025-08-21 10:57:32,338 - BertrandtGUI - DEBUG - Slide 8 mit Fallback-Text gerendert
+2025-08-21 10:57:37,342 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_9
+2025-08-21 10:57:37,347 - BertrandtGUI - DEBUG - Slide 9 mit Fallback-Text gerendert
+2025-08-21 10:57:37,352 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_9
+2025-08-21 10:57:37,357 - BertrandtGUI - DEBUG - Slide 9 mit Fallback-Text gerendert
+2025-08-21 10:57:42,361 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_10
+2025-08-21 10:57:42,366 - BertrandtGUI - DEBUG - Slide 10 mit Fallback-Text gerendert
+2025-08-21 10:57:42,371 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_10
+2025-08-21 10:57:42,376 - BertrandtGUI - DEBUG - Slide 10 mit Fallback-Text gerendert
+2025-08-21 10:57:47,383 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_1
+2025-08-21 10:57:47,388 - BertrandtGUI - DEBUG - Slide 1 mit 8 Canvas-Elementen gerendert
+2025-08-21 10:57:47,413 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_1
+2025-08-21 10:57:47,418 - BertrandtGUI - DEBUG - Slide 1 mit 8 Canvas-Elementen gerendert
+2025-08-21 10:57:52,423 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_2
+2025-08-21 10:57:52,424 - BertrandtGUI - DEBUG - Slide 2 mit 11 Canvas-Elementen gerendert
+2025-08-21 10:57:52,453 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_2
+2025-08-21 10:57:52,455 - BertrandtGUI - DEBUG - Slide 2 mit 11 Canvas-Elementen gerendert
+2025-08-21 10:57:57,461 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_3
+2025-08-21 10:57:57,463 - BertrandtGUI - DEBUG - Slide 3 mit 15 Canvas-Elementen gerendert
+2025-08-21 10:57:57,491 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_3
+2025-08-21 10:57:57,492 - BertrandtGUI - DEBUG - Slide 3 mit 15 Canvas-Elementen gerendert
+2025-08-21 10:58:02,500 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_4
+2025-08-21 10:58:02,501 - BertrandtGUI - DEBUG - Slide 4 mit 15 Canvas-Elementen gerendert
+2025-08-21 10:58:02,530 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_4
+2025-08-21 10:58:02,531 - BertrandtGUI - DEBUG - Slide 4 mit 15 Canvas-Elementen gerendert
+2025-08-21 10:58:07,539 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_5
+2025-08-21 10:58:07,540 - BertrandtGUI - DEBUG - Slide 5 mit 15 Canvas-Elementen gerendert
+2025-08-21 10:58:07,569 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_5
+2025-08-21 10:58:07,570 - BertrandtGUI - DEBUG - Slide 5 mit 15 Canvas-Elementen gerendert
+2025-08-21 10:58:12,577 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_6
+2025-08-21 10:58:12,578 - BertrandtGUI - DEBUG - Slide 6 mit 9 Canvas-Elementen gerendert
+2025-08-21 10:58:12,607 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_6
+2025-08-21 10:58:12,609 - BertrandtGUI - DEBUG - Slide 6 mit 9 Canvas-Elementen gerendert
+2025-08-21 10:58:17,616 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_7
+2025-08-21 10:58:17,635 - BertrandtGUI - DEBUG - Slide 7 mit 12 Canvas-Elementen gerendert
+2025-08-21 10:58:17,637 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_7
+2025-08-21 10:58:17,658 - BertrandtGUI - DEBUG - Slide 7 mit 12 Canvas-Elementen gerendert
+2025-08-21 10:58:22,665 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_8
+2025-08-21 10:58:22,670 - BertrandtGUI - DEBUG - Slide 8 mit Fallback-Text gerendert
+2025-08-21 10:58:22,674 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_8
+2025-08-21 10:58:22,679 - BertrandtGUI - DEBUG - Slide 8 mit Fallback-Text gerendert
+2025-08-21 10:58:27,683 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_9
+2025-08-21 10:58:27,688 - BertrandtGUI - DEBUG - Slide 9 mit Fallback-Text gerendert
+2025-08-21 10:58:27,692 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_9
+2025-08-21 10:58:27,697 - BertrandtGUI - DEBUG - Slide 9 mit Fallback-Text gerendert
+2025-08-21 10:58:32,705 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_10
+2025-08-21 10:58:32,711 - BertrandtGUI - DEBUG - Slide 10 mit Fallback-Text gerendert
+2025-08-21 10:58:32,737 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_10
+2025-08-21 10:58:32,742 - BertrandtGUI - DEBUG - Slide 10 mit Fallback-Text gerendert
+2025-08-21 10:58:37,746 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_1
+2025-08-21 10:58:37,751 - BertrandtGUI - DEBUG - Slide 1 mit 8 Canvas-Elementen gerendert
+2025-08-21 10:58:37,777 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_1
+2025-08-21 10:58:37,782 - BertrandtGUI - DEBUG - Slide 1 mit 8 Canvas-Elementen gerendert
+2025-08-21 10:58:42,787 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_2
+2025-08-21 10:58:42,789 - BertrandtGUI - DEBUG - Slide 2 mit 11 Canvas-Elementen gerendert
+2025-08-21 10:58:42,793 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_2
+2025-08-21 10:58:42,794 - BertrandtGUI - DEBUG - Slide 2 mit 11 Canvas-Elementen gerendert
+2025-08-21 10:58:47,801 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_3
+2025-08-21 10:58:47,802 - BertrandtGUI - DEBUG - Slide 3 mit 15 Canvas-Elementen gerendert
+2025-08-21 10:58:47,806 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_3
+2025-08-21 10:58:47,807 - BertrandtGUI - DEBUG - Slide 3 mit 15 Canvas-Elementen gerendert
+2025-08-21 10:58:52,814 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_4
+2025-08-21 10:58:52,815 - BertrandtGUI - DEBUG - Slide 4 mit 15 Canvas-Elementen gerendert
+2025-08-21 10:58:52,819 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_4
+2025-08-21 10:58:52,820 - BertrandtGUI - DEBUG - Slide 4 mit 15 Canvas-Elementen gerendert
+2025-08-21 10:58:57,828 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_5
+2025-08-21 10:58:57,829 - BertrandtGUI - DEBUG - Slide 5 mit 15 Canvas-Elementen gerendert
+2025-08-21 10:58:57,858 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_5
+2025-08-21 10:58:57,858 - BertrandtGUI - DEBUG - Slide 5 mit 15 Canvas-Elementen gerendert
+2025-08-21 10:59:02,866 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_6
+2025-08-21 10:59:02,866 - BertrandtGUI - DEBUG - Slide 6 mit 9 Canvas-Elementen gerendert
+2025-08-21 10:59:02,871 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_6
+2025-08-21 10:59:02,892 - BertrandtGUI - DEBUG - Slide 6 mit 9 Canvas-Elementen gerendert
+2025-08-21 10:59:07,899 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_7
+2025-08-21 10:59:07,919 - BertrandtGUI - DEBUG - Slide 7 mit 12 Canvas-Elementen gerendert
+2025-08-21 10:59:07,928 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_7
+2025-08-21 10:59:07,947 - BertrandtGUI - DEBUG - Slide 7 mit 12 Canvas-Elementen gerendert
+2025-08-21 10:59:12,952 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_8
+2025-08-21 10:59:12,957 - BertrandtGUI - DEBUG - Slide 8 mit Fallback-Text gerendert
+2025-08-21 10:59:12,981 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_8
+2025-08-21 10:59:12,986 - BertrandtGUI - DEBUG - Slide 8 mit Fallback-Text gerendert
+2025-08-21 10:59:17,990 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_9
+2025-08-21 10:59:17,997 - BertrandtGUI - DEBUG - Slide 9 mit Fallback-Text gerendert
+2025-08-21 10:59:18,018 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_9
+2025-08-21 10:59:18,025 - BertrandtGUI - DEBUG - Slide 9 mit Fallback-Text gerendert
+2025-08-21 10:59:23,029 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_10
+2025-08-21 10:59:23,035 - BertrandtGUI - DEBUG - Slide 10 mit Fallback-Text gerendert
+2025-08-21 10:59:23,060 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_10
+2025-08-21 10:59:23,065 - BertrandtGUI - DEBUG - Slide 10 mit Fallback-Text gerendert
+2025-08-21 10:59:28,069 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_1
+2025-08-21 10:59:28,074 - BertrandtGUI - DEBUG - Slide 1 mit 8 Canvas-Elementen gerendert
+2025-08-21 10:59:28,099 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_1
+2025-08-21 10:59:28,104 - BertrandtGUI - DEBUG - Slide 1 mit 8 Canvas-Elementen gerendert
+2025-08-21 10:59:33,111 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_2
+2025-08-21 10:59:33,113 - BertrandtGUI - DEBUG - Slide 2 mit 11 Canvas-Elementen gerendert
+2025-08-21 10:59:33,141 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_2
+2025-08-21 10:59:33,141 - BertrandtGUI - DEBUG - Slide 2 mit 11 Canvas-Elementen gerendert
+2025-08-21 10:59:36,907 - BertrandtGUI - DEBUG - Vollbild deaktiviert - bleibt auf Hauptmonitor
+2025-08-21 10:59:38,147 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_3
+2025-08-21 10:59:38,148 - BertrandtGUI - DEBUG - Slide 3 mit 15 Canvas-Elementen gerendert
+2025-08-21 10:59:38,185 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_3
+2025-08-21 10:59:38,187 - BertrandtGUI - DEBUG - Slide 3 mit 15 Canvas-Elementen gerendert
+2025-08-21 10:59:43,191 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_4
+2025-08-21 10:59:43,192 - BertrandtGUI - DEBUG - Slide 4 mit 15 Canvas-Elementen gerendert
+2025-08-21 10:59:43,219 - BertrandtGUI - DEBUG - Slide-Signal gesendet: page_4
+2025-08-21 10:59:43,221 - BertrandtGUI - DEBUG - Slide 4 mit 15 Canvas-Elementen gerendert
+2025-08-21 10:59:47,471 - BertrandtGUI - INFO - 🧹 Cleanup wird durchgeführt...
+2025-08-21 10:59:47,471 - BertrandtGUI - INFO - 👋 Dynamic Messe Stand V4 beendet

@@ -1,0 +1,330 @@
+{
+  "title": "Nachhaltigkeit & Umwelt",
+  "content": "Grüne Mobilität der Zukunft:\n\n• 100% elektrischer Antrieb\n• Null lokale Emissionen\n• Energieeffiziente Routenplanung\n• Recycelbare Materialien\n• Solarpanel-Integration möglich\n• CO2-Reduktion um 85%\n• Deutliche Lärmreduzierung",
+  "layout": "fullscreen_image",
+  "background_color": "#FFFFFF",
+  "text_color": "#003366",
+  "signal_id": "",
+  "canvas_elements": [
+    {
+      "type": "rectangle",
+      "tags": "slide_background_main",
+      "coords": [
+        0.0,
+        0.0,
+        1920.0,
+        1080.0
+      ],
+      "activewidth": "0.0",
+      "dashoffset": "0",
+      "disabledwidth": "0.0",
+      "fill": "#FFFFFF",
+      "offset": "0,0",
+      "outline": "#666666",
+      "outlineoffset": "0,0",
+      "width": "1.0"
+    },
+    {
+      "type": "rectangle",
+      "tags": "slide_background_shadow",
+      "coords": [
+        9.169054441260746,
+        9.169054441260746,
+        1929.1690544412609,
+        1089.1690544412609
+      ],
+      "activewidth": "0.0",
+      "dashoffset": "0",
+      "disabledwidth": "0.0",
+      "fill": "#CCCCCC",
+      "offset": "0,0",
+      "outlineoffset": "0,0",
+      "width": "1.0"
+    },
+    {
+      "type": "rectangle",
+      "tags": "slide_background_frame",
+      "coords": [
+        -3.667621776504298,
+        -3.667621776504298,
+        1923.6676217765043,
+        1083.6676217765043
+      ],
+      "activewidth": "0.0",
+      "dashoffset": "0",
+      "disabledwidth": "0.0",
+      "offset": "0,0",
+      "outline": "#333333",
+      "outlineoffset": "0,0",
+      "width": "2.0"
+    },
+    {
+      "type": "text",
+      "tags": "recreated_element",
+      "coords": [
+        960.0,
+        120.0
+      ],
+      "anchor": "center",
+      "angle": "0.0",
+      "fill": "#1E88E5",
+      "font": "{Segoe UI} 15 bold",
+      "justify": "left",
+      "offset": "0,0",
+      "text": "Nachhaltigkeit & Umwelt",
+      "underline": "-1",
+      "width": "0"
+    },
+    {
+      "type": "line",
+      "tags": "recreated_element",
+      "coords": [
+        120.0,
+        165.0,
+        1800.0,
+        165.0
+      ],
+      "activewidth": "0.0",
+      "arrow": "none",
+      "arrowshape": "8 10 3",
+      "capstyle": "butt",
+      "fill": "#FF6600",
+      "dashoffset": "0",
+      "disabledwidth": "0.0",
+      "joinstyle": "round",
+      "offset": "0,0",
+      "smooth": "0",
+      "splinesteps": "12",
+      "width": "1.0"
+    },
+    {
+      "type": "text",
+      "tags": "recreated_element",
+      "coords": [
+        140.0,
+        215.0
+      ],
+      "anchor": "center",
+      "angle": "0.0",
+      "fill": "#2C3E50",
+      "font": "{Segoe UI} 7",
+      "justify": "left",
+      "offset": "0,0",
+      "text": "• Grüne Mobilität der Zukunft:",
+      "underline": "-1",
+      "width": "0"
+    },
+    {
+      "type": "text",
+      "tags": "recreated_element",
+      "coords": [
+        140.0,
+        285.0
+      ],
+      "anchor": "center",
+      "angle": "0.0",
+      "fill": "#2C3E50",
+      "font": "{Segoe UI} 7",
+      "justify": "left",
+      "offset": "0,0",
+      "text": "• • 100% elektrischer Antrieb",
+      "underline": "-1",
+      "width": "0"
+    },
+    {
+      "type": "text",
+      "tags": "recreated_element",
+      "coords": [
+        140.0,
+        320.0
+      ],
+      "anchor": "center",
+      "angle": "0.0",
+      "fill": "#2C3E50",
+      "font": "{Segoe UI} 7",
+      "justify": "left",
+      "offset": "0,0",
+      "text": "• • Null lokale Emissionen",
+      "underline": "-1",
+      "width": "0"
+    },
+    {
+      "type": "text",
+      "tags": "recreated_element",
+      "coords": [
+        140.0,
+        355.0
+      ],
+      "anchor": "center",
+      "angle": "0.0",
+      "fill": "#2C3E50",
+      "font": "{Segoe UI} 7",
+      "justify": "left",
+      "offset": "0,0",
+      "text": "• • Energieeffiziente Routenplanung",
+      "underline": "-1",
+      "width": "0"
+    },
+    {
+      "type": "text",
+      "tags": "recreated_element",
+      "coords": [
+        140.0,
+        390.0
+      ],
+      "anchor": "center",
+      "angle": "0.0",
+      "fill": "#2C3E50",
+      "font": "{Segoe UI} 7",
+      "justify": "left",
+      "offset": "0,0",
+      "text": "• • Recycelbare Materialien",
+      "underline": "-1",
+      "width": "0"
+    },
+    {
+      "type": "text",
+      "tags": "recreated_element",
+      "coords": [
+        1800.0,
+        1000.0
+      ],
+      "anchor": "center",
+      "angle": "0.0",
+      "fill": "#003366",
+      "font": "{Segoe UI} 6 bold",
+      "justify": "left",
+      "offset": "0,0",
+      "text": "BERTRANDT",
+      "underline": "-1",
+      "width": "0"
+    },
+    {
+      "type": "text",
+      "tags": "recreated_element",
+      "coords": [
+        120.0,
+        1000.0
+      ],
+      "anchor": "center",
+      "angle": "0.0",
+      "fill": "#666666",
+      "font": "{Segoe UI} 5",
+      "justify": "left",
+      "offset": "0,0",
+      "text": "Folie 5",
+      "underline": "-1",
+      "width": "0"
+    },
+    {
+      "type": "rectangle",
+      "tags": "recreated_element",
+      "coords": [
+        -3.667621776504298,
+        -3.667621776504298,
+        1923.6676217765043,
+        1083.6676217765043
+      ],
+      "activewidth": "0.0",
+      "dashoffset": "0",
+      "disabledwidth": "0.0",
+      "offset": "0,0",
+      "outline": "#333333",
+      "outlineoffset": "0,0",
+      "width": "2.0"
+    },
+    {
+      "type": "rectangle",
+      "tags": "recreated_element",
+      "coords": [
+        9.169054441260746,
+        9.169054441260746,
+        1929.1690544412609,
+        1089.1690544412609
+      ],
+      "activewidth": "0.0",
+      "dashoffset": "0",
+      "disabledwidth": "0.0",
+      "fill": "#CCCCCC",
+      "offset": "0,0",
+      "outline": "black",
+      "outlineoffset": "0,0",
+      "width": "1.0"
+    },
+    {
+      "type": "rectangle",
+      "tags": "recreated_element",
+      "coords": [
+        0.0,
+        0.0,
+        1920.0,
+        1080.0
+      ],
+      "activewidth": "0.0",
+      "dashoffset": "0",
+      "disabledwidth": "0.0",
+      "fill": "#FFFFFF",
+      "offset": "0,0",
+      "outline": "#666666",
+      "outlineoffset": "0,0",
+      "width": "1.0"
+    },
+    {
+      "type": "rectangle",
+      "tags": "recreated_element",
+      "coords": [
+        -3.667621776504298,
+        -3.667621776504298,
+        1923.6676217765043,
+        1083.6676217765043
+      ],
+      "activewidth": "0.0",
+      "dashoffset": "0",
+      "disabledwidth": "0.0",
+      "offset": "0,0",
+      "outline": "#333333",
+      "outlineoffset": "0,0",
+      "width": "2.0"
+    },
+    {
+      "type": "rectangle",
+      "tags": "recreated_element",
+      "coords": [
+        9.169054441260746,
+        9.169054441260746,
+        1929.1690544412609,
+        1089.1690544412609
+      ],
+      "activewidth": "0.0",
+      "dashoffset": "0",
+      "disabledwidth": "0.0",
+      "fill": "#CCCCCC",
+      "offset": "0,0",
+      "outline": "black",
+      "outlineoffset": "0,0",
+      "width": "1.0"
+    },
+    {
+      "type": "rectangle",
+      "tags": "recreated_element",
+      "coords": [
+        0.0,
+        0.0,
+        1920.0,
+        1080.0
+      ],
+      "activewidth": "0.0",
+      "dashoffset": "0",
+      "disabledwidth": "0.0",
+      "fill": "#FFFFFF",
+      "offset": "0,0",
+      "outline": "#666666",
+      "outlineoffset": "0,0",
+      "width": "1.0"
+    }
+  ],
+  "slide_width": 1920,
+  "slide_height": 1080,
+  "last_modified": "2025-08-29T10:34:50.789063",
+  "creator_version": "1.0"
+}

@@ -1,0 +1,57 @@
+2025-08-21 10:59:58,484 - BertrandtGUI - DEBUG - Slide 9 geladen
+2025-08-21 10:59:58,484 - BertrandtGUI - DEBUG - Slide 8 geladen
+2025-08-21 10:59:58,484 - BertrandtGUI - DEBUG - Slide 2 geladen
+2025-08-21 10:59:58,485 - BertrandtGUI - DEBUG - Slide 4 geladen
+2025-08-21 10:59:58,485 - BertrandtGUI - DEBUG - Slide 5 geladen
+2025-08-21 10:59:58,485 - BertrandtGUI - DEBUG - Slide 6 geladen
+2025-08-21 10:59:58,485 - BertrandtGUI - DEBUG - Slide 3 geladen
+2025-08-21 10:59:58,485 - BertrandtGUI - DEBUG - Slide 7 geladen
+2025-08-21 10:59:58,486 - BertrandtGUI - DEBUG - Slide 1 geladen
+2025-08-21 10:59:58,486 - BertrandtGUI - DEBUG - Slide 10 geladen
+2025-08-21 10:59:58,486 - BertrandtGUI - INFO - 10 Slides geladen (davon 0 neu erstellt)
+2025-08-21 10:59:58,491 - BertrandtGUI - INFO - 🚀 Dynamic Messe Stand V4 wird gestartet...
+2025-08-21 10:59:58,492 - BertrandtGUI - INFO - Python Version: 3.12.3 (main, Jun 18 2025, 17:59:45) [GCC 13.3.0]
+2025-08-21 10:59:58,492 - BertrandtGUI - INFO - Arbeitsverzeichnis: /home/messe_pc/Dynamic_Messe_Stand_V4/Python_GUI
+2025-08-21 10:59:58,492 - BertrandtGUI - INFO - 🔌 Hardware-Setup wird gestartet...
+2025-08-21 10:59:58,492 - BertrandtGUI - ERROR - Fehler beim Verbinden mit ESP32-1: [Errno 2] could not open port /dev/ttyUSB0: [Errno 2] No such file or directory: '/dev/ttyUSB0'
+2025-08-21 10:59:58,492 - BertrandtGUI - ERROR - Fehler beim Verbinden mit ESP32-2: [Errno 2] could not open port /dev/ttyUSB1: [Errno 2] No such file or directory: '/dev/ttyUSB1'
+2025-08-21 10:59:58,492 - BertrandtGUI - ERROR - Fehler beim Verbinden mit ESP32-3: [Errno 2] could not open port /dev/ttyUSB2: [Errno 2] No such file or directory: '/dev/ttyUSB2'
+2025-08-21 10:59:58,492 - BertrandtGUI - ERROR - Fehler beim Verbinden mit Arduino GIGA: [Errno 2] could not open port /dev/ttyACM0: [Errno 2] No such file or directory: '/dev/ttyACM0'
+2025-08-21 10:59:58,492 - BertrandtGUI - INFO - esp32_1: ❌ Fehler
+2025-08-21 10:59:58,492 - BertrandtGUI - INFO - esp32_2: ❌ Fehler
+2025-08-21 10:59:58,492 - BertrandtGUI - INFO - esp32_3: ❌ Fehler
+2025-08-21 10:59:58,493 - BertrandtGUI - INFO - giga: ❌ Fehler
+2025-08-21 10:59:58,493 - BertrandtGUI - WARNING - ⚠️ Keine Hardware-Verbindungen erfolgreich - GUI startet trotzdem
+2025-08-21 10:59:58,493 - BertrandtGUI - INFO - 🖥️ GUI wird initialisiert...
+2025-08-21 10:59:58,493 - BertrandtGUI - INFO - 🚀 Starte Dynamic Messe Stand V4...
+2025-08-21 10:59:58,734 - BertrandtGUI - INFO - Primärer Monitor: 1920x1080 bei (0, 120)
+2025-08-21 10:59:58,735 - BertrandtGUI - INFO - Hauptmonitor erkannt: 1920x1080 bei (0, 120)
+2025-08-21 10:59:58,736 - BertrandtGUI - DEBUG - Responsive Design: 1920x1080, Scale: 1.00
+2025-08-21 10:59:58,809 - BertrandtGUI - INFO - ✅ Bertrandt Layout-Struktur erstellt
+2025-08-21 10:59:58,838 - BertrandtGUI - DEBUG - Slide 1 mit 8 Canvas-Elementen gerendert
+2025-08-21 10:59:58,877 - BertrandtGUI - DEBUG - Home-Tab angezeigt
+2025-08-21 10:59:58,877 - BertrandtGUI - DEBUG - Tab gewechselt: home
+2025-08-21 10:59:58,877 - BertrandtGUI - INFO - ✅ Dynamic Messe Stand V4 erfolgreich initialisiert!
+2025-08-21 10:59:58,877 - BertrandtGUI - INFO - ✅ Dynamic Messe Stand V4 erfolgreich gestartet!
+2025-08-21 10:59:58,878 - BertrandtGUI - INFO - 💡 Drücke F11 für Vollbild, ESC zum Verlassen
+2025-08-21 10:59:58,878 - BertrandtGUI - INFO - GUI-Hauptschleife gestartet
+2025-08-21 10:59:58,901 - BertrandtGUI - INFO - Fenster auf Hauptmonitor zurück bewegt: (0, 120)
+2025-08-21 11:00:01,788 - BertrandtGUI - DEBUG - Home-Tab versteckt
+2025-08-21 11:00:01,789 - BertrandtGUI - DEBUG - Creator: 8 Canvas-Elemente gerendert
+2025-08-21 11:00:02,110 - BertrandtGUI - DEBUG - Canvas: 1127x699, Slide: 1920x1080, Scale: 0.545, Scaled: 1047x589, Offset: (40, 55)
+2025-08-21 11:00:02,110 - BertrandtGUI - DEBUG - Bestehende Elemente neu skaliert mit Faktor 0.545
+2025-08-21 11:00:02,183 - BertrandtGUI - DEBUG - Canvas: 1127x736, Slide: 1920x1080, Scale: 0.545, Scaled: 1047x589, Offset: (40, 74)
+2025-08-21 11:00:02,184 - BertrandtGUI - DEBUG - Bestehende Elemente neu skaliert mit Faktor 0.545
+2025-08-21 11:00:02,469 - BertrandtGUI - DEBUG - Canvas: 1127x736, Slide: 1920x1080, Scale: 0.545, Scaled: 1047x589, Offset: (40, 74)
+2025-08-21 11:00:02,469 - BertrandtGUI - DEBUG - Bestehende Elemente neu skaliert mit Faktor 0.545
+2025-08-21 11:00:02,469 - BertrandtGUI - DEBUG - Slide-Sichtbarkeit optimiert: 1127x736
+2025-08-21 11:00:02,469 - BertrandtGUI - DEBUG - Demo-Slide 1 geladen: BumbleB - Das automatisierte Shuttle
+2025-08-21 11:00:02,470 - BertrandtGUI - DEBUG - Tab gewechselt: creator
+2025-08-21 11:00:02,670 - BertrandtGUI - DEBUG - Canvas: 1127x736, Slide: 1920x1080, Scale: 0.545, Scaled: 1047x589, Offset: (40, 74)
+2025-08-21 11:00:02,670 - BertrandtGUI - DEBUG - Bestehende Elemente neu skaliert mit Faktor 0.545
+2025-08-21 11:00:02,670 - BertrandtGUI - DEBUG - Slide-Sichtbarkeit optimiert: 1127x736
+2025-08-21 11:01:30,247 - BertrandtGUI - DEBUG - Vollbild deaktiviert - bleibt auf Hauptmonitor
+2025-08-21 11:01:30,307 - BertrandtGUI - DEBUG - Canvas: 768x376, Slide: 1920x1080, Scale: 0.274, Scaled: 526x296, Offset: (121, 40)
+2025-08-21 11:01:30,308 - BertrandtGUI - DEBUG - Bestehende Elemente neu skaliert mit Faktor 0.274
+2025-08-21 11:01:31,960 - BertrandtGUI - INFO - 🧹 Cleanup wird durchgeführt...
+2025-08-21 11:01:31,961 - BertrandtGUI - INFO - 👋 Dynamic Messe Stand V4 beendet

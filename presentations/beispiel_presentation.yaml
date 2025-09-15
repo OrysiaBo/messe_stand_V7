@@ -1,0 +1,86 @@
+presentation:
+  metadata:
+    title: BumbleB Präsentation
+    description: Automatisierte Shuttle-Präsentation
+    created_at: '2024-01-15T10:30:00'
+    version: '1.0'
+    total_slides: 3
+    format: yaml
+  settings:
+    slide_duration: 5
+    loop_mode: true
+    auto_start: false
+
+slides:
+  slide_1:
+    id: 1
+    title: BumbleB - Das automatisierte Shuttle
+    content: |
+      Willkommen zur BumbleB Präsentation!
+
+      BumbleB ist ein innovatives, autonomes Shuttle-System, das speziell für den urbanen Transport entwickelt wurde.
+
+      • Vollständig elektrisch
+      • Autonome Navigation
+      • Umweltfreundlich
+      • Sicher und zuverlässig
+    layout: fullscreen_image
+    config:
+      title: BumbleB - Das automatisierte Shuttle
+      layout: fullscreen_image
+      background_color: '#FFFFFF'
+      text_color: '#003366'
+    timestamps:
+      created: '2024-01-15T10:30:00'
+      modified: '2024-01-15T10:30:00'
+
+  slide_2:
+    id: 2
+    title: Technische Spezifikationen
+    content: |
+      BumbleB Technische Details:
+
+      • Kapazität: 8-12 Passagiere
+      • Geschwindigkeit: bis 25 km/h
+      • Reichweite: 150 km pro Ladung
+      • Ladezeit: 2 Stunden (Schnellladung)
+      • Sensoren: LiDAR, Kameras, Radar
+      • Betriebssystem: Linux-basiert
+      • Konnektivität: 5G, WiFi, Bluetooth
+    layout: fullscreen_image
+    config:
+      title: Technische Spezifikationen
+      layout: fullscreen_image
+      background_color: '#FFFFFF'
+      text_color: '#003366'
+    timestamps:
+      created: '2024-01-15T10:30:00'
+      modified: '2024-01-15T10:30:00'
+
+  slide_3:
+    id: 3
+    title: Einsatzgebiete und Vorteile
+    content: |
+      BumbleB Anwendungsbereiche:
+
+      • Städtischer ÖPNV
+      • Campus-Transport (Universitäten, Firmen)
+      • Flughäfen und Bahnhöfe
+      • Touristische Routen
+      • Last-Mile-Delivery
+
+      Vorteile:
+      • Reduzierte Emissionen
+      • Kosteneffizient
+      • Flexibel einsetzbar
+      • Benutzerfreundlich
+      • Zukunftssicher
+    layout: fullscreen_image
+    config:
+      title: Einsatzgebiete und Vorteile
+      layout: fullscreen_image
+      background_color: '#FFFFFF'
+      text_color: '#003366'
+    timestamps:
+      created: '2024-01-15T10:30:00'
+      modified: '2024-01-15T10:30:00'
