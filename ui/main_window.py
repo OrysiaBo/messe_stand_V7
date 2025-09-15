@@ -45,197 +45,72 @@ class MainWindow:
         
         logger.info("✅ Dynamic Messe Stand V4 erfolgreich initialisiert!")
         self.setup_content_synchronization()
-        self.setup_presentation_sync()
 
-def setup_presentation_sync(self):
-    """Налаштування централізованої синхронізації"""
-    try:
-        from core.presentation_state import presentation_state
-        
-        # Підписатись на зміни для логування
-        presentation_state.add_observer(self._on_global_presentation_change)
-        
-        logger.info("Presentation synchronization setup complete")
-        
-    except Exception as e:
-        logger.error(f"Error setting up presentation sync: {e}")
-
-def _on_global_presentation_change(self, slide_id, action):
-    """Глобальний обробник змін презентації"""
-    try:
-        if action == 'update':
-            logger.debug(f"Global sync: Slide {slide_id} updated")
-        elif action == 'navigate':
-            logger.debug(f"Global sync: Navigated to slide {slide_id}")
-    except Exception as e:
-        logger.error(f"Error in global presentation change handler: {e}")
-
-def setup_content_synchronization(self):
-    """Налаштовує синхронізацію контенту між табами"""
-    try:
-        from models.content import content_manager
-        
-        # Підписати MainWindow на зміни контенту
-        content_manager.add_observer(self.on_content_changed)
-        
-        logger.debug("Content synchronization setup complete")
-        
-    except Exception as e:
-        logger.error(f"Error setting up content synchronization: {e}")
-
-def on_content_changed(self, slide_id, slide_data, action='update'):
-    """Обробник змін контенту для синхронізації всіх табів"""
-    try:
-        # Синхронізувати Demo Tab
-        if hasattr(self, 'demo_tab'):
-            # Demo tab має власний обробник, він автоматично оновиться
-            pass
-        
-        # Синхронізувати Creator Tab
-        if hasattr(self, 'creator_tab'):
-            # Оновити thumbnails в Creator
-            if hasattr(self.creator_tab, 'create_slide_thumbnails'):
-                self.creator_tab.create_slide_thumbnails()
-        
-        # Синхронізувати Home Tab якщо є
-        if hasattr(self, 'home_tab'):
-            if hasattr(self.home_tab, 'refresh_content'):
-                self.home_tab.refresh_content()
-        
-        logger.debug(f"All tabs synchronized for slide {slide_id} change")
-        
-    except Exception as e:
-        logger.error(f"Error synchronizing tabs: {e}")
-
-def refresh_all_tabs(self):
-    """Примусово оновлює всі таби після завантаження презентації"""
-    try:
-        # Оновити Demo Tab
-        if hasattr(self, 'demo_tab'):
-            if hasattr(self.demo_tab, 'create_slides_list'):
-                self.demo_tab.create_slides_list()
-            if hasattr(self.demo_tab, 'load_current_slide'):
-                self.demo_tab.load_current_slide()
-        
-        # Оновити Creator Tab
-        if hasattr(self, 'creator_tab'):
-            if hasattr(self.creator_tab, 'create_slide_thumbnails'):
-                self.creator_tab.create_slide_thumbnails()
-            if hasattr(self.creator_tab, 'load_slide_to_editor'):
-                # Перезавантажити поточний слайд
-                current_slide = getattr(self.creator_tab, 'current_edit_slide', 1)
-                self.creator_tab.load_slide_to_editor(current_slide)
-        
-        # Оновити Home Tab
-        if hasattr(self, 'home_tab'):
-            if hasattr(self.home_tab, 'refresh_content'):
-                self.home_tab.refresh_content()
-        
-        logger.info("All tabs refreshed successfully")
-        
-    except Exception as e:
-        logger.error(f"Error refreshing all tabs: {e}")
-
-def switch_tab(self, tab_name):
-    """Переключення між табами з автоматичним збереженням"""
-    try:
-        # Зберегти поточні зміни в Creator перед переключенням
-        if (hasattr(self, 'creator_tab') and 
-            hasattr(self.creator_tab, 'save_current_slide_content') and
-            self.current_tab == 'creator'):
-            self.creator_tab.save_current_slide_content()
-        
-        # ... існуючий код переключення табів ...
-        
-        # Оновити контент в новому табі
-        if tab_name == 'demo' and hasattr(self, 'demo_tab'):
-            if hasattr(self.demo_tab, 'load_current_slide'):
-                self.demo_tab.load_current_slide()
-        elif tab_name == 'creator' and hasattr(self, 'creator_tab'):
-            if hasattr(self.creator_tab, 'load_slide_to_editor'):
-                current_slide = getattr(self.creator_tab, 'current_edit_slide', 1)
-                self.creator_tab.load_slide_to_editor(current_slide)
-        
-        # Оновити header navigation
-        if hasattr(self, 'header'):
-            if hasattr(self.header, 'update_active_tab'):
-                self.header.update_active_tab(tab_name)
-        
-        self.current_tab = tab_name
-        logger.debug(f"Switched to {tab_name} tab with synchronization")
-        
-    except Exception as e:
-        logger.error(f"Error switching to {tab_name} tab: {e}")
-
-# ДОДАТИ ТАКОЖ ДО КЛАСУ HeaderComponent в ui/components/header.py
-
-def save_presentation_json(self):
-    """Зберігає презентацію як JSON з попереднім збереженням змін"""
-    try:
-        # Зберегти поточні зміни в Creator якщо активний
-        if (hasattr(self.main_window, 'current_tab') and 
-            self.main_window.current_tab == 'creator' and
-            hasattr(self.main_window, 'creator_tab')):
-            if hasattr(self.main_window.creator_tab, 'save_current_slide_content'):
-                self.main_window.creator_tab.save_current_slide_content()
-        
-        # Зберегти через content_manager
-        from models.content import content_manager
-        filename = content_manager.export_presentation_as_json()
-        if filename:
-            logger.info(f"Презентацію збережено як JSON: {filename}")
-            self.show_save_success("JSON")
-        else:
-            raise Exception("Не вдалося зберегти файл")
+    def setup_content_synchronization(self):
+        """Налаштовує синхронізацію контенту між табами"""
+        try:
+            from models.content import content_manager
             
-    except Exception as e:
-        logger.error(f"Помилка при збереженні JSON: {e}")
-        from tkinter import messagebox
-        messagebox.showerror("Помилка збереження", f"Не вдалося зберегти презентацію:\n{e}")
+            # Підписати MainWindow на зміни контенту
+            content_manager.add_observer(self.on_content_changed)
+            
+            logger.debug("Content synchronization setup complete")
+            
+        except Exception as e:
+            logger.error(f"Error setting up content synchronization: {e}")
 
-def save_presentation_yaml(self):
-    """Зберігає презентацію як YAML з попереднім збереженням змін"""
-    try:
-        # Зберегти поточні зміни в Creator якщо активний
-        if (hasattr(self.main_window, 'current_tab') and 
-            self.main_window.current_tab == 'creator' and
-            hasattr(self.main_window, 'creator_tab')):
-            if hasattr(self.main_window.creator_tab, 'save_current_slide_content'):
-                self.main_window.creator_tab.save_current_slide_content()
-        
-        # Зберегти через content_manager
-        from models.content import content_manager
-        filename = content_manager.export_presentation_as_yaml()
-        if filename:
-            logger.info(f"Презентацію збережено як YAML: {filename}")
-            self.show_save_success("YAML")
-        else:
-            raise Exception("Не вдалося зберегти файл")
+    def on_content_changed(self, slide_id, slide_data, action='update'):
+        """Обробник змін контенту для синхронізації всіх табів"""
+        try:
+            # Синхронізувати Demo Tab
+            if hasattr(self, 'tabs') and 'demo' in self.tabs:
+                # Demo tab має власний обробник, він автоматично оновиться
+                pass
             
-    except Exception as e:
-        logger.error(f"Помилка при збереженні YAML: {e}")
-        from tkinter import messagebox
-        messagebox.showerror("Помилка збереження", f"Не вдалося зберегти презентацію:\n{e}")
+            # Синхронізувати Creator Tab
+            if hasattr(self, 'tabs') and 'creator' in self.tabs:
+                # Оновити thumbnails в Creator
+                if hasattr(self.tabs['creator'], 'create_slide_thumbnails'):
+                    self.tabs['creator'].create_slide_thumbnails()
+            
+            # Синхронізувати Home Tab якщо є
+            if hasattr(self, 'tabs') and 'home' in self.tabs:
+                if hasattr(self.tabs['home'], 'refresh_content'):
+                    self.tabs['home'].refresh_content()
+            
+            logger.debug(f"All tabs synchronized for slide {slide_id} change")
+            
+        except Exception as e:
+            logger.error(f"Error synchronizing tabs: {e}")
 
-def load_presentation(self):
-    """Завантажує презентацію з синхронізацією всіх табів"""
-    try:
-        from models.content import content_manager
-        success = content_manager.load_presentation_from_file()
-        if success:
-            logger.info("Презентацію завантажено успішно")
-            self.show_load_success()
+    def refresh_all_tabs(self):
+        """Примусово оновлює всі таби після завантаження презентації"""
+        try:
+            # Оновити Demo Tab
+            if hasattr(self, 'tabs') and 'demo' in self.tabs:
+                if hasattr(self.tabs['demo'], 'create_slides_list'):
+                    self.tabs['demo'].create_slides_list()
+                if hasattr(self.tabs['demo'], 'load_current_slide'):
+                    self.tabs['demo'].load_current_slide()
             
-            # Синхронізувати всі таби
-            if hasattr(self.main_window, 'refresh_all_tabs'):
-                self.main_window.refresh_all_tabs()
-        else:
-            logger.warning("Не вдалося завантажити презентацію")
+            # Оновити Creator Tab
+            if hasattr(self, 'tabs') and 'creator' in self.tabs:
+                if hasattr(self.tabs['creator'], 'create_slide_thumbnails'):
+                    self.tabs['creator'].create_slide_thumbnails()
+                if hasattr(self.tabs['creator'], 'load_slide_to_editor'):
+                    # Перезавантажити поточний слайд
+                    current_slide = getattr(self.tabs['creator'], 'current_edit_slide', 1)
+                    self.tabs['creator'].load_slide_to_editor(current_slide)
             
-    except Exception as e:
-        logger.error(f"Помилка при завантаженні презентації: {e}")
-        from tkinter import messagebox
-        messagebox.showerror("Помилка завантаження", f"Не вдалося завантажити презентацію:\n{e}")
+            # Оновити Home Tab
+            if hasattr(self, 'tabs') and 'home' in self.tabs:
+                if hasattr(self.tabs['home'], 'refresh_content'):
+                    self.tabs['home'].refresh_content()
+            
+            logger.info("All tabs refreshed successfully")
+            
+        except Exception as e:
+            logger.error(f"Error refreshing all tabs: {e}")
     
     def setup_window(self):
         """Konfiguriert das Hauptfenster für 24" RTC Monitor"""
@@ -384,107 +259,6 @@ def load_presentation(self):
                            relief='flat',
                            borderwidth=0,
                            padding=(THEME_VARS["pad"], THEME_VARS["pad"] // 2))
-        
-        # Entry - alle mit Bertrandt Styles
-        self.style.configure('TEntry',
-                           fieldbackground=THEME_VARS["panel"],
-                           foreground=THEME_VARS["text"],
-                           bordercolor=THEME_VARS["border"],
-                           relief='flat',
-                           borderwidth=1,
-                           padding=THEME_VARS["pad"])
-        
-        # Notebook - alle mit Bertrandt Styles
-        self.style.configure('TNotebook',
-                           background=THEME_VARS["bg"],
-                           borderwidth=0)
-        
-        self.style.configure('TNotebook.Tab',
-                           background=THEME_VARS["panel"],
-                           foreground=THEME_VARS["text"],
-                           bordercolor=THEME_VARS["border"],
-                           padding=(THEME_VARS["pad"], THEME_VARS["pad"] // 2))
-        
-        # Alle anderen Widgets überschreiben
-        self.style.configure('TCheckbutton', background=THEME_VARS["bg"], foreground=THEME_VARS["text"])
-        self.style.configure('TRadiobutton', background=THEME_VARS["bg"], foreground=THEME_VARS["text"])
-        self.style.configure('TCombobox', fieldbackground=THEME_VARS["panel"], foreground=THEME_VARS["text"])
-        self.style.configure('TSpinbox', fieldbackground=THEME_VARS["panel"], foreground=THEME_VARS["text"])
-        self.style.configure('TScale', background=THEME_VARS["bg"], troughcolor=THEME_VARS["panel"])
-        self.style.configure('TSeparator', background=THEME_VARS["border"])
-        self.style.configure('TScrollbar', background=THEME_VARS["panel"], troughcolor=THEME_VARS["bg"])
-        
-        # Progressbar mit Bertrandt Blau
-        self.style.configure('TProgressbar',
-                           background=THEME_VARS["brand_600"],
-                           troughcolor=THEME_VARS["panel"],
-                           bordercolor=THEME_VARS["border"])
-        
-        # Treeview mit Bertrandt Theme
-        self.style.configure('Treeview',
-                           background=THEME_VARS["panel"],
-                           foreground=THEME_VARS["text"],
-                           fieldbackground=THEME_VARS["panel"],
-                           bordercolor=THEME_VARS["border"])
-        
-        self.style.configure('Treeview.Heading',
-                           background=THEME_VARS["panel_2"],
-                           foreground=THEME_VARS["text"],
-                           relief='flat')
-        
-        # Listbox Style
-        self.style.configure('TListbox',
-                           background=THEME_VARS["panel"],
-                           foreground=THEME_VARS["text"],
-                           selectbackground=THEME_VARS["brand_600"],
-                           selectforeground="#ffffff")
-        
-        # Text Widget Style
-        self.style.configure('TText',
-                           background=THEME_VARS["panel"],
-                           foreground=THEME_VARS["text"],
-                           insertbackground=THEME_VARS["text"],
-                           selectbackground=THEME_VARS["brand_600"],
-                           selectforeground="#ffffff")
-        
-        # Menu Styles
-        self.style.configure('TMenu',
-                           background=THEME_VARS["panel"],
-                           foreground=THEME_VARS["text"],
-                           selectcolor=THEME_VARS["brand_600"])
-        
-        self.style.configure('TMenubutton',
-                           background=THEME_VARS["panel"],
-                           foreground=THEME_VARS["text"],
-                           bordercolor=THEME_VARS["border"])
-        
-        # Panedwindow
-        self.style.configure('TPanedwindow',
-                           background=THEME_VARS["bg"])
-        
-        # Sizegrip
-        self.style.configure('TSizegrip',
-                           background=THEME_VARS["bg"])
-        
-        # Tooltip Style
-        self.style.configure('TTooltip',
-                           background=THEME_VARS["panel_2"],
-                           foreground=THEME_VARS["text"],
-                           bordercolor=THEME_VARS["border"])
-        
-        # Alle Map-States für Hover-Effekte überschreiben
-        for widget_type in ['TButton', 'TCheckbutton', 'TRadiobutton', 'TCombobox', 'TSpinbox', 'TMenubutton']:
-            self.style.map(widget_type,
-                          background=[('active', THEME_VARS["brand_400"]),
-                                    ('pressed', THEME_VARS["brand_700"]),
-                                    ('disabled', THEME_VARS["panel_2"])],
-                          foreground=[('disabled', THEME_VARS["muted"])])
-        
-        # Tab-Map für Notebook
-        self.style.map('TNotebook.Tab',
-                      background=[('selected', THEME_VARS["panel_2"]),
-                                ('active', _mix(THEME_VARS["panel"], THEME_VARS["brand_600"], 0.12))],
-                      foreground=[('selected', THEME_VARS["text"])])
     
     def setup_gui_components(self):
         """Erstellt die Bertrandt Layout-Struktur nach Referenz"""
@@ -715,71 +489,6 @@ def load_presentation(self):
         
         logger.info(f"Theme gewechselt zu: {new_theme}")
     
-    def toggle_low_color(self):
-        """Wechselt den Low-Color Modus für bessere Sichtbarkeit"""
-        from core.theme import toggle_low_color, apply_bertrandt_theme, LOW_COLOR_MODE
-        
-        # Low-Color Modus wechseln
-        new_mode = toggle_low_color()
-        
-        # Theme auf die Anwendung anwenden
-        apply_bertrandt_theme(self.root, reapply=True)
-        
-        # Styles neu anwenden
-        self.setup_styles()
-        
-        # Alle Tabs über Theme-Wechsel benachrichtigen
-        self.refresh_all_tabs()
-        
-        # Toast anzeigen
-        from core.theme import _toast
-        mode_name = "Ein" if new_mode else "Aus"
-        _toast(self.root, f"Low-Color Modus: {mode_name}")
-        
-        logger.info(f"Low-Color Modus: {mode_name}")
-    
-    def refresh_all_tabs(self):
-        """Aktualisiert alle Tabs nach einem Theme-Wechsel oder Präsentations-Import"""
-        for tab_name, tab in self.tabs.items():
-            # Theme-Updates
-            if hasattr(tab, 'refresh_theme'):
-                try:
-                    tab.refresh_theme()
-                    logger.debug(f"Theme für {tab_name}-Tab aktualisiert")
-                except Exception as e:
-                    logger.warning(f"Fehler beim Theme-Update für {tab_name}: {e}")
-            
-            # Content-Updates nach Präsentations-Import
-            if hasattr(tab, 'refresh_thumbnails'):
-                try:
-                    tab.refresh_thumbnails()
-                    logger.debug(f"Thumbnails für {tab_name}-Tab aktualisiert")
-                except Exception as e:
-                    logger.warning(f"Fehler beim Thumbnail-Update für {tab_name}: {e}")
-            
-            if hasattr(tab, 'create_demo_thumbnails'):
-                try:
-                    tab.create_demo_thumbnails()
-                    logger.debug(f"Demo-Thumbnails für {tab_name}-Tab aktualisiert")
-                except Exception as e:
-                    logger.warning(f"Fehler beim Demo-Thumbnail-Update für {tab_name}: {e}")
-            
-            if hasattr(tab, 'update_slide_display'):
-                try:
-                    tab.update_slide_display(1)  # Zur ersten Slide
-                    logger.debug(f"Slide-Display für {tab_name}-Tab aktualisiert")
-                except Exception as e:
-                    logger.warning(f"Fehler beim Slide-Display-Update für {tab_name}: {e}")
-        
-        # Demo-Service zurücksetzen
-        try:
-            from services.demo import demo_service
-            if hasattr(demo_service, 'reset_to_first_slide'):
-                demo_service.reset_to_first_slide()
-            logger.debug("Demo-Service nach Präsentations-Import zurückgesetzt")
-        except Exception as e:
-            logger.warning(f"Fehler beim Demo-Service-Reset: {e}")
-
     def show_system_status(self):
         """Zeigt System-Status in einem Toast"""
         from core.theme import _toast
@@ -795,6 +504,9 @@ def load_presentation(self):
     
     def setup_tabs(self):
         """Initialisiert alle Tab-Komponenten"""
+        # Импортируем DemoTab
+        from ui.tabs.demo_tab import DemoTab
+        
         self.tabs = {
             'home': HomeTab(self.tab_content_frame, self),
             'demo': DemoTab(self.tab_content_frame, self),
@@ -807,24 +519,37 @@ def load_presentation(self):
             tab.hide()
     
     def switch_tab(self, tab_name):
-        """Wechselt zwischen Tabs"""
-        if tab_name not in self.tabs:
-            logger.error(f"Unbekannter Tab: {tab_name}")
-            return False
-        
-        # Aktuellen Tab verstecken
-        if self.current_tab in self.tabs:
-            self.tabs[self.current_tab].hide()
-        
-        # Neuen Tab anzeigen
-        self.tabs[tab_name].show()
-        self.current_tab = tab_name
-        
-        # Navbar-Navigation aktualisieren
-        self.update_navbar_active_tab(tab_name)
-        
-        logger.debug(f"Tab gewechselt: {tab_name}")
-        return True
+        """Переключення між табами з автоматичним збереженням"""
+        try:
+            # Зберегти поточні зміни в Creator перед переключенням
+            if (hasattr(self, 'tabs') and 'creator' in self.tabs and 
+                hasattr(self.tabs['creator'], 'save_current_slide_content') and
+                self.current_tab == 'creator'):
+                self.tabs['creator'].save_current_slide_content()
+            
+            # Приховати поточний таб
+            if hasattr(self, 'tabs') and self.current_tab in self.tabs:
+                self.tabs[self.current_tab].hide()
+            
+            # Показати новий таб
+            if hasattr(self, 'tabs') and tab_name in self.tabs:
+                self.tabs[tab_name].show()
+                
+                # Оновити контент в новому табі
+                if tab_name == 'demo' and hasattr(self.tabs['demo'], 'load_current_slide'):
+                    self.tabs['demo'].load_current_slide()
+                elif tab_name == 'creator' and hasattr(self.tabs['creator'], 'load_slide_to_editor'):
+                    current_slide = getattr(self.tabs['creator'], 'current_edit_slide', 1)
+                    self.tabs['creator'].load_slide_to_editor(current_slide)
+            
+            # Оновити navbar navigation
+            self.update_navbar_active_tab(tab_name)
+            
+            self.current_tab = tab_name
+            logger.debug(f"Switched to {tab_name} tab with synchronization")
+            
+        except Exception as e:
+            logger.error(f"Error switching to {tab_name} tab: {e}")
     
     def toggle_fullscreen(self, event=None):
         """Wechselt zwischen Vollbild und Fenster-Modus"""
