@@ -370,42 +370,73 @@ class DemoTab:
         self.update_slide_counter()
     
     def render_current_slide(self):
-        """Відображає поточний слайд на canvas"""
-        try:
-            # Отримати дані слайду
+    """Відображає поточний слайд з централізованого стейту"""
+    try:
+        # Отримати дані з централізованого стейту
+        from core.presentation_state import presentation_state
+        slide_data = presentation_state.get_slide_data(self.current_slide)
+        
+        if not slide_data:
+            # Fallback до content_manager
             slide = content_manager.get_slide(self.current_slide)
-            
             if slide:
-                # Отримати розміри canvas
-                canvas_width = self.slide_canvas.winfo_width()
-                canvas_height = self.slide_canvas.winfo_height()
+                slide_data = {
+                    'title': slide.title,
+                    'content': slide.content,
+                    'slide_number': self.current_slide
+                }
+        
+        if slide_data:
+            # Отримати розміри canvas
+            canvas_width = self.slide_canvas.winfo_width()
+            canvas_height = self.slide_canvas.winfo_height()
+            
+            if canvas_width > 10 and canvas_height > 10:
+                # ВИКОРИСТОВУВАТИ ТОЙ САМИЙ РЕНДЕРЕР
+                from ui.components.slide_renderer import SlideRenderer
+                SlideRenderer.render_slide_to_canvas(
+                    self.slide_canvas,
+                    slide_data,
+                    canvas_width,
+                    canvas_height
+                )
                 
-                if canvas_width > 10 and canvas_height > 10:
-                    # Підготувати дані слайду для рендерера
-                    slide_data = {
-                        'title': slide.title,
-                        'content': slide.content,
-                        'slide_number': self.current_slide,
-                        'background_color': '#FFFFFF',
-                        'text_color': '#1F1F1F'
-                    }
-                    
-                    # Використати SlideRenderer для єдиного стилю
-                    SlideRenderer.render_slide_to_canvas(
-                        self.slide_canvas,
-                        slide_data,
-                        canvas_width,
-                        canvas_height
-                    )
-                    
-                    logger.debug(f"Rendered slide {self.current_slide} in demo")
-            else:
-                # Показати заглушку якщо слайд не знайдено
-                self.render_placeholder()
-                
-        except Exception as e:
-            logger.error(f"Error rendering slide {self.current_slide}: {e}")
+                logger.debug(f"Demo: Rendered slide {self.current_slide}")
+        else:
             self.render_placeholder()
+            
+    except Exception as e:
+        logger.error(f"Error rendering demo slide {self.current_slide}: {e}")
+        self.render_placeholder()
+
+def __init__(self, parent, main_window):
+    # ... існуючий код ...
+    
+    # Підписатись на зміни стейту для автоматичного оновлення
+    from core.presentation_state import presentation_state
+    presentation_state.add_observer(self._on_presentation_state_changed)
+
+def _on_presentation_state_changed(self, slide_id, action):
+    """Обробник змін централізованого стейту"""
+    try:
+        if action == 'update':
+            # Якщо змінився поточний слайд, оновити відображення
+            if slide_id == self.current_slide:
+                self.render_current_slide()
+            
+            # Оновити список слайдів (для заголовків)
+            self.create_slides_list()
+            
+        elif action == 'navigate':
+            # Змінився поточний слайд
+            if slide_id != self.current_slide:
+                self.current_slide = slide_id
+                self.render_current_slide()
+                self.update_slide_list_selection()
+                self.update_slide_counter()
+    
+    except Exception as e:
+        logger.error(f"Error handling presentation state change: {e}")
     
     def render_placeholder(self):
         """Відображає заглушку коли слайд не може бути завантажений"""
