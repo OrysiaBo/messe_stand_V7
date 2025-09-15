@@ -1004,8 +1004,7 @@ def update_slide_counter(self):
             self.offset_x + scaled_width + shadow_offset, self.offset_y + scale
         )
 
-
-      def setup_realtime_sync(self):
+def setup_realtime_sync(self):
     """Налаштування синхронізації в реальному часі"""
     from core.presentation_state import presentation_state
     presentation_state.add_observer(self._on_presentation_state_changed)
