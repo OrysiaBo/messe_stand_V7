@@ -1078,5 +1078,83 @@ def on_content_changed(self, event=None):
     finally:
         self._updating = False
 
+def render_slide_preview(self):
+    """Рендерить попередній перегляд слайду використовуючи той же рендерер що і Demo"""
+    try:
+        if not hasattr(self, 'slide_canvas') or not self.current_slide:
+            return
+            
+        canvas_width = self.slide_canvas.winfo_width()
+        canvas_height = self.slide_canvas.winfo_height()
+        
+        if canvas_width > 10 and canvas_height > 10:
+            # Отримати поточний контент з редактора
+            title_text = ""
+            content_text = ""
+            
+            # Збираємо всі текстові елементи з Canvas
+            for item in self.slide_canvas.find_all():
+                if self.slide_canvas.type(item) == 'window':
+                    try:
+                        widget = self.slide_canvas.nametowidget(self.slide_canvas.itemcget(item, 'window'))
+                        
+                        if isinstance(widget, tk.Text):
+                            text_content = widget.get('1.0', 'end-1c')
+                            
+                            # Визначити тип на основі font або позиції
+                            font = widget.cget('font')
+                            if isinstance(font, tuple) and len(font) >= 2:
+                                font_size = font[1] if isinstance(font[1], int) else int(font[1])
+                                
+                                # Великий шрифт = заголовок
+                                if font_size >= 20 or 'bold' in str(font):
+                                    if not title_text:
+                                        title_text = text_content
+                                    else:
+                                        content_text += text_content + "\n"
+                                else:
+                                    content_text += text_content + "\n"
+                            else:
+                                content_text += text_content + "\n"
+                                
+                    except Exception as e:
+                        logger.debug(f"Could not process canvas widget: {e}")
+                        continue
+            
+            # Очистити зайві переноси рядків
+            content_text = content_text.strip()
+            
+            # Якщо не знайшли заголовок, використати перший рядок контенту
+            if not title_text and content_text:
+                lines = content_text.split('\n')
+                title_text = lines[0] if lines else f"Demo-Folie {self.current_edit_slide}"
+                content_text = '\n'.join(lines[1:]) if len(lines) > 1 else ""
+            
+            # Якщо все ще немає заголовка
+            if not title_text:
+                title_text = f"Demo-Folie {self.current_edit_slide}"
+            
+            # Підготувати дані слайду
+            slide_data = {
+                'title': title_text,
+                'content': content_text,
+                'slide_number': self.current_edit_slide,
+                'background_color': '#FFFFFF',
+                'text_color': '#1F1F1F'
+            }
+            
+            # Використати той же рендерер що і Demo
+            SlideRenderer.render_slide_to_canvas(
+                self.slide_canvas,
+                slide_data,
+                canvas_width,
+                canvas_height
+            )
+            
+            logger.debug(f"Rendered slide preview {self.current_edit_slide} in creator")
+            
+    except Exception as e:
+        logger.error(f"Error rendering slide preview: {e}")
+
      
   
