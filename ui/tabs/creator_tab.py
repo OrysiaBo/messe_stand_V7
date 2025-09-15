@@ -986,7 +986,85 @@ def update_slide_counter(self):
         # Skalierte Dimensionen
         scaled_width = self.slide_width * self.scale_factor
         scaled_height = self.slide_height * self.scale_factor
+        def setup_realtime_sync(self):
+    """Налаштування синхронізації в реальному часі"""
+    from core.presentation_state import presentation_state
+    presentation_state.add_observer(self._on_presentation_state_changed)
+
+def _on_presentation_state_changed(self, slide_id, action):
+    """Обробник змін стейту для Creator"""
+    if action == 'update' and slide_id != self.current_edit_slide:
+        # Інший слайд змінився - оновити thumbnail
+        self.update_thumbnail_for_slide(slide_id)
+
+def on_content_changed(self, event=None):
+    """Обробка змін контенту з миттєвою синхронізацією"""
+    if hasattr(self, '_updating'):
+        return
+    
+    try:
+        self._updating = True
         
+        # Зібрати поточний контент
+        title_text = ""
+        content_text = ""
+        
+        # Знайти text widgets на canvas
+        for item in self.slide_canvas.find_all():
+            if self.slide_canvas.type(item) == 'window':
+                try:
+                    widget = self.slide_canvas.nametowidget(self.slide_canvas.itemcget(item, 'window'))
+                    
+                    if isinstance(widget, tk.Text):
+                        text_content = widget.get('1.0', 'end-1c')
+                        font = widget.cget('font')
+                        
+                        # Визначити тип по шрифту
+                        if isinstance(font, tuple) and len(font) >= 2:
+                            font_size = font[1] if isinstance(font[1], int) else int(font[1])
+                            if font_size >= 20 or 'bold' in str(font):
+                                if not title_text:
+                                    title_text = text_content
+                                else:
+                                    content_text += text_content + "\n"
+                            else:
+                                content_text += text_content + "\n"
+                        else:
+                            content_text += text_content + "\n"
+                            
+                except Exception:
+                    continue
+        
+        content_text = content_text.strip()
+        
+        if not title_text and content_text:
+            lines = content_text.split('\n')
+            title_text = lines[0] if lines else f"Demo-Folie {self.current_edit_slide}"
+            content_text = '\n'.join(lines[1:]) if len(lines) > 1 else ""
+        
+        if not title_text:
+            title_text = f"Demo-Folie {self.current_edit_slide}"
+        
+        # ОНОВИТИ ЦЕНТРАЛІЗОВАНИЙ СТЕЙТ (автоматично синхронізує Demo)
+        from core.presentation_state import presentation_state
+        presentation_state.update_slide_content(
+            self.current_edit_slide,
+            title_text,
+            content_text
+        )
+        
+        logger.debug(f"Creator: Updated slide {self.current_edit_slide}")
+        
+    except Exception as e:
+        logger.error(f"Error in creator content change: {e}")
+    finally:
+        self._updating = False
+
+# Додати до __init__ методу:
+def __init__(self, parent, main_window):
+    # ... існуючий код ...
+    self.setup_realtime_sync()
+
         # Rahmen um die Folie - HINTERGRUND-LAYER
         self.slide_canvas.create_rectangle(
             self.offset_x - 2, self.offset_y - 2,
